@@ -1,0 +1,54 @@
+---
+court: "Tennessee Court of Appeals"
+decided: "1952-03-28"
+citations: ["35 Tenn. App. 557", "249 S.W.2d 908"]
+reporter: "tenn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Pelts and Howell, JJ., concur."]
+parties: ["ENGLISH v. STEVENS et al. (two cases)."]
+source_url: "https://static.case.law/tenn-app/35/cases/0557-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8512608
+cites_cases: ["104 Mo. 234", "12 L. R. A. 746", "121 S. W. (2d) 559", "15 S. W. 1112", "150 S. W. (2d) 1069", "160 Tenn. 197", "173 Tenn. 542", "177 Tenn. 440", "22 S. W. (2d) 226", "24 Am. St. Rep. 333", "46 L. R. A., N. S., 338", "76 N. H. 556", "86 A. 141"]
+---
+
+# English v. Stevens
+
+## Majority (HICKERSON, J.)
+
+HICKERSON, J.
+Mrs. Polly C. English brought her suit against W. D. Stevens and Marvin B. Stevens to recover damages for personal injuries which she received as a result of a collision between an automobile which she was driving and a truck tractor owned by W. D. Stevens and operated at the time of the collision by Marvin B. Stevens.
+Alfred H. English, husband of Mrs. Polly C. English, brought his suit against the same defendants to recover the damages which he sustained as a result of his wife’s injuries.
+Judgments upon jury verdicts were entered: for Mrs. Polly C. English $10, 000; and for Alfred PI. English $500. Defendant W. D. Stevens prosecuted an appeal in error to this court to review the judgment against him. Defendant Marvin B. -Stevens did not appeal.
+-Since the judgment in favor of the husband depends upon the judgment in favor of the wife, we shall consider the case in this court as the case of Mrs. Polly C. English against W. D. Stevens.
+In substance, plaintiff bases her suit against defendant on these grounds:
+1. Marvin B. Stevens was driving a truck tractor as agent of the owner, W. D. Stevens, and with the consent and approval of W. D. Stevens.
+2. W. D. Stevens expressly permitted and directed Marvin B. Stevens to use the truck tractor owned by W. D. Stevens, without the trailer attached, as a pleasure vehicle, when W. D. Stevens knew, or should have known, that the truck tractor was a dangerous instrumentality when so used because: (1) the brakes would not properly control the tractor; and (2) Marvin B. Stevens intended to use it with -six people crowded into the driver’s seat; and he could not safely operate the tractor when thus crowded.
+There is no dispute about the determinative facts. The tractor in question was owned by W. D. -Stevens. He bought it from the Liddon "White Truck Company. It was designed to pull a heavily loaded trailer. It was, also, designed to be operated without the trailer attached. The tractor was equipped with brakes which would control the operation of the tractor with the trailer attached. These brakes would, also, control the operation of the tractor without the trailer attached when the tractor was properly used. The tractor was used constantly without the trailer with the approval of the Interstate Commerce Commission; and the operation -of the tractor, without the trailer, is a legal operation under the laws of Tennessee.
+When not properly operated the tractor would act in a manner as if the brakes were “grabbing” which woiild make the tractor “zigzag” or “weave and wobble.” The reason for these movements of the tractor was that the brake power was extra strong for the tractor when operated without the trailer.
+W. D. Stevens lived in Franklin, Tennessee. Iiis brother, Marvin B. Stevens, lived in Nashville, Tennessee, with his wife and four children. These brothers were not connected with each other in a business way. Marvin B. Stevens had never worked for his brother, W. D. Stevens.
+W. D. Stevens spent the night of September 3, 1949, at the home of Marvin B. Stevens. The baby child was at home. The other three children were visiting a relative who lived on a farm about three miles from Nolensville, Tennessee. On Sunday morning, September 4, 1949, W. D. Stevens and Marvin B. Stevens and his wife and baby went to the place of business of W. D. Stevens. Marvin B. Stevens had expected to borrow an automobile from someone to take his wife and baby to a family reunion of one of his wife’s relatives near Shelbyville, Tennessee. Not getting the automobile, W. H. Stevens told them to take his tractor for that purpose. So Marviil B. Stevens, his wife, and their baby, started to Shelby-ville in this tractor owned by W. D'. Stevens.
+W. D. Stevens was an experienced truck tractor operator. He had worked in this business for many years. On Saturday, September 3, 1949, W. D. Stevens had checked this tractor completely. It was in excellent condition when he loaned it to his brother. It had no defects. He had regularly operated it with or without the trailer. It was equipped with a brake pressure equalizer or “foot appliance guide” which caused the brake pressure on each brake axle to be equal.
+Marvin B. Stevens was likewise an experienced track tractor operator. His business was driving a truck similar to the one owned by his brother. lie was capable in this line of work and knew how to properly operate the tractor. He had done this sort of work for many years.
+When Marvin B. Stevens and his wife started to Shelbyville in this tractor, they decided to go by and pick up the three children who were about three miles from Nolensville. They made this decision after they left W. D. Stevens; so he knew nothing of their plans in this regard. Marvin B. Stevens did pick up the three older children and the six of them were riding in the cab of the tractor when the tractor collided with plaintiff’s automobile causing her injuries and damage. The evidence abundantly supports the conclusion that the accident was caused by the negligence of Marvin B. Stevens. At the time of the collision, Marvin B. Stevens was not the agent of W. D. Stevens nor acting for W. D. Stevens in any manner. Marvin B. Stevens was on a mission of his own for the benefit of himself and his family wholly unconnected with any business of his brother, W. D. Stevens.
+If W. D. Stevens can be held liable in damage for plaintiff’s injuries, it must be on the theory that W. D. Stevens placed this tractor in the hands of his brother to be driven by his brother upon the public road when W. D. Stevens knew, or should have known, that the driving of the tractor by Marvin B. Stevens would be likely to endanger some third person.
+It is the general rule that the bailor is not liable to a third person for the negligent acts of the bailee in connection with the use or operation of the subject of the bailment. East Tennessee, etc., Motor Transportation Co. v. Brooks, 173 Tenn. 542, 121 S. W. (2d) 559; Vaughn v. Millington Motor Co., 160 Tenn. 197, 22 S. W. (2d) 226.
+A bailor, however, is liable for his own negligence. For example, if an owner of an automobile places it into the hands of a bailee addicted to drink and a third person is injured because such bailee negligently drove the'automobile while drunk, the owner is liable to the injured third person in damages for his injuries. The negligence of the owner, in such case, was placing the automobile on the road under circumstances which the owner knew, or should have known, would likely cause injury to third persons. Nicholson Construction Co. v. Lane, 177 Tenn. 440, 150 S. W. (2d) 1069.
+In Vaughn v. Millington Motor Co., 160 Tenn. 197, 22 S. W. (2) 226, 227, the court said:
+“While the contractual obligation of the bailor is limited to the bailee and those in privity with him, the law imposes an attendant obligation upon the bailor not to knowingly put forth an instrumentality for general use that is calculated to injure third persons. Whether liability for an omission of duty in such situations would extend to persons not contemplated by the contract of bailment depends upon the existence of privity, only in the sense of a relation creating an obligation, Garland v. Boston [& Maine] R. Co., [76 N. H. 556, 86 A. 141] 46 L. R. A., N. S., 338, note as between the injured person and the bailor whose omission of duty caused the injury. (Roddy v. Missouri Pacific R. Co., 104 Mo. 234, 15 S. W. 1112, 12 L. R. A. 746, 24 Am. St. Rep. 333).
+“The obligation to avoid injury from the use of dangerous instrumentalities is imposed on all who own, control, or use them and inures to the benefit of all who may sustain injury. While automobiles and motortrucks are not per se dangerous instrumentalities they may become so when used at places and in a manner calculated to do injury. Hence the rule that one who lets an automobile or motortruck for use in public owes the duty of exercising ordinary care to avoid putting forth a machine with defects calculated to injure persons who come in contact with it.
+“As stated, this duty does not rest upon the contract of bailment, but arises from the obligation which the law imposes upon every man to refrain from acts of omission or commission which he may reasonably expect would result in injury to third persons.”
+To summarize:
+(1) The truck tractor was designed and equipped to run with or without the trailer attached, and it was constantly so used.
+(2) It was in excellent mechanical condition.
+(3) Marvin B. Stevens was an experienced, capable truck driver.
+(4) W. D. Stevens had no knowledge of the fact that his brother would place his wife and children in the driver’s seat with him while operating this tractor.
+(5) Marvin B. Stevens was a gratuitous bailee of the tractor at the time of the wreck. He was operating it for his own benefit. He was not an agent nor servant of W. D. Stevens.
+(6) These brothers lived in separate homes in different cities. The family purpose doctrine could not apply.
+(7) Under the foregoing facts, which appear without controversy, W. D. Stevens was not responsible for the negligence of Marvin B. Stevens.
+(8) There is no evidence to support a conclusion by the jury that W. D. Stevens was guilty of actionable negligence which caused the wreck and plaintiff’s injuiu.es resulting therefrom.
+Wherefore, we must apply the general rule that the bailor is not liable to third persons for the negligent acts of the bailee in the use or operation of the subject of the bailment.
+The judgment of the trial court is reversed. Judgment will be entered in this court directing a verdict for defendant W. D. Stevens; and dismissing the suit as to him. No costs will be adjudged against W. D. Stevens. The costs in the lower court will stand adjudged against Marvin B. Stevens; and the costs of the appeal will be adjudged against Mrs. Polly C. English and Alfred H. English.
+The same judgment will be entered in each case in this court.
+Pelts and Howell, JJ., concur.
