@@ -1,0 +1,42 @@
+---
+court: "Tennessee Court of Appeals"
+decided: "1932-12-02"
+citations: ["16 Tenn. App. 159"]
+reporter: "tenn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Heiskell and Owen, JJ., concur."]
+parties: ["HARRY ISKIWITZ, Plaintiff in Error, v. JOHN F. CLARK & CO., INC., Defendant in Error."]
+source_url: "https://static.case.law/tenn-app/16/cases/0159-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8510345
+---
+
+# Iskiwitz v. Clark
+
+## Majority (SENTER, J.)
+
+SENTER, J.
+The parties will he referred to as in the court below, John F. Clark & Co., Inc., plaintiff, and Harry Iskiwitz, defendant.
+This suit was commenced before a justice of the peace in Memphis, Tennessee, based upon a sworn account by plaintiff from its main offices in New Orleans, against the defendant. The account sued on was for the difference in the price at which the defendant directed plaintiff to purchase for him one hundred shares of Loril-lard stock on the New York Stock Exchange, and the usual brokerage, and Federal tax. The suit resulted in a judgment in favor of plaintiff in the Justice of the Peace Court, and defendant appealed to the Circuit Court, where the case was tried before the trial judge without the intervention of a jury, resulting in a judgment in favor of plaintiff for the sum of $129'.
+From this judgment the defendant prayed an appeal to this court in the nature of a writ of error, and has assigned errors.
+Plaintiff was engaged in the stock brokerage business with a branch office at Memphis, and the defendant placed an order with plaintiff for the purchase of one hundred shares of Lorillard stock, and plaintiff purchased the stock for the account of defendant on the New York Stock Exchange at $20 per share. The defendant, when presented with a written confirmation of the purchase, declined to sign the same, and refused to pay plaintiff for the stock. Whereupon, plaintiff resold the stock at $19 per share, resulting in the loss of $100. It is the contention of plaintiff that the usual and customary and reasonable brokerage for such a transaction would be $25, and that plaintiff also paid the Federal tax of 4c per share, amounting to $4, making the total amount sued for $129.
+The trial judge, at the request of the attorney for defendant, reduced his finding of facts to writing, which is filed with the record, and is as follows:
+“1. On June 16, 1930, the defendant gave the plaintiff an order to purchase 100 shares of Lorillard stock.
+“2. This stock was actually purchased by plaintiff for the defendant at $20 per share on the New York Stock Exchange, and in accordance with the rules and regulations of that Exchange.
+"3. The defendant was notified of the purchase.
+“4. The stock declined in price and the defendant repudiated and refused the purchase.
+“5. At the opening of the Stock Exchange on June 17, 1930, the plaintiff resold the stock for $19 per share for the defendant. The brokerage usually and reasonably charged for the purchase and sale of 100 shares of stock at the price named is $25. The Federal tax is 4c per share, which amount was paid by plaintiff,” Upon these facts as found by the trial judge he rendered judgment in favor of plaintiff for the sum of $129.
+By the first assignment of error it is said that the trial judge' erred in finding as a fact that plaintiff in error gave the agent of the defendant in error authority to purchase for him 100 shares of Lorillard stock on the New York Exchange. By the second assignment it is said that the trial judge erred in finding as a fact that plaintiff in error authorized defendant in error to resell the stock on the New York Exchange. By the third assignment of error, it is said that the court erred in considering the evidence contained in the deposition of John F. Clark, Jr., which showed the transaction on the books of the New Orleans office of the defendant in error.
+There ivas a motion for a new trial and neither of these assignments of error is covered by the motion for a new trial. The third assignment of error does not attempt to point out what particular part of the evidence contained in the deposition of John F. Clark, Jr., was excepted to. This assignment of error does not comply with the rules of this court on the subject, and cannot be considered.
+The fourth assignment of error is as follows: “The court erred an overruling defendant’s motion for a new trial: (1) There is no evidence to support the finding of facts. (2) Plaintiff failed to make out a case by a preponderance of the proof. (3) The judgment is contrary to the law1 and the evidence.”
+In the brief for appellant, the first paragraph is as: follows: “There is a direct conflict in the testimony of N. 0. Fowler, witness for the plaintiff, and Harry Iskiwitz, the defendant. The witness for plaintiff stated that defendant authorized him to buy the stock at a given price over the telephone. The defendant specifically denies this statement.”
+This statement by counsel in the brief is followed by the further statement: “The burden is upon the plaintiff to make out his case, and he is only required to do so by a preponderance; but when he has done so, he is entitled to recover. If the proof leaves the truth in equipoise, the verdict should be for the defendant.”
+It thus appears that appellant relies upon the elementary rule that the burden of proof is upon the plaintiff to make out his case by a preponderance of the evidence, and if there is an equal balance, there can be no recovery. Several cases are cited in support of this elementary rule in the brief by appellant. However, this rule has no application when a case is being heard by an appellate court on an appeal coming from a court of law.
+Until the passage of Chapter 94 of the Acts of 1929 carried into the new Tennessee Code of 1932, under Section 10,622, this court did not weigh the evidence to ascertain its preponderance under the well settled rule on the subject, hut if there was any evidence to support the judgment of the lower court, it could not be disturbed on appeal. By Section 10,622, of the Code of 1932 (Chapter 94, Act of 1929), it is provided:
+“In all cases taken by appeal or otherwise to the Court of Appeals from any lower court, the hearing in said appellate court shall be de novo upon the record from the court below where the hearing in the lower court was without a jury, but there shall always be a presumption in the appellate court as to the correctness of the judgment or decree of the lower court, unless the evidence preponderates against the judgment or decree.”
+By the original Act (Chapter 94, Acts of 1929), it was further provided that if the evidence was near a balance, that the judgment of the lower court would not be disturbed on appeal.
+Only two witnesses testified on the subject of the placing of this order by the defendant with the agent of plaintiff. The agent for plaintiff testified that the order for the purchase of this stock was given to him bjr the defendant. The defendant denied that he placed the order. It is not contended for appellant in the brief that the evidence preponderated in favor of defendant, but it is contended that the evidence on that subject was equally balanced. This is clearly true, and this court cannot disturb the judgment of the lower court, unless it appears that the evidence preponderates against the judgment of the lower court.
+Under the second ground of the motion for a new trial, referred to under the fourth assignment of error, it is said that the defendant did not authorize the resale of this stock, and that there was no proof in the record to the contrary- It is not contended by appellee that the defendant authorized the plaintiff to resell this stock after the defendant refused to pay for it, or to sign the order for it. It was the duty of plaintiff to resell this stock promptly upon its refusal by the defendant so as to minimize the damages to the defendant. The stock was sold at a loss of $1 per share.
+We find no error, and it results that the assignments of error are overruled and the judgment of the lower court is affirmed. Judgment will be entered here for the amount, of the judgment below, with interest thereon, in favor of plaintiff below and1 against the defendant below and sureties on the appeal bond. The cost of this appeal will be paid by appellant and sureties on the appeal bond.
+Heiskell and Owen, JJ., concur.
