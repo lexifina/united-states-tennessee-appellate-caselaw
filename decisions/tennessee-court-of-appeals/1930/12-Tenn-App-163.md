@@ -1,0 +1,44 @@
+---
+court: "Tennessee Court of Appeals"
+decided: "1930-07-01"
+citations: ["12 Tenn. App. 163"]
+reporter: "tenn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Heiskell & Senter, JJ., concur."]
+parties: ["F. A. BILLIONS v. SARAH GARLAND, Administratrix."]
+source_url: "https://static.case.law/tenn-app/12/cases/0163-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8510460
+cites_cases: ["7 Tenn. App., 354"]
+---
+
+# Billions v. Garland
+
+## Majority (OWEN, J.)
+
+OWEN, J.
+F. A. Billions, the defendant below, has appealed from a judgment rendered against him in favor of Sarah Garland, admin-istratrix, hereinafter called plaintiff.
+The suit was for damages caused by an automobile accident wherein Ollie Garland, a colored boy sixteen years of age, received fatal injuries and from which injuries he died within a few hours after receiving the same. The plaintiff is the mother and administratrix of Ollie Garland. Ollie Garland, shortly before his injuries, had delivered some groceries for J. L. Head, a grocer. These groceries were delivered to a residence at 240 North McNeil street in the City of Memphis, about 10:30 A. M., August 20, 1928. McNeil street runs north and sonth in said city. Ollie Garland had been a delivery hoy , for Mr. Head, the grocer, for about one year, and was earning $10 per week. Shortly after delivering the groceries by leaving the same in the kitchen of Mr. J. IT. ITines at 240 McNeil, the deceased rode his bicycle down the driveway going west on the north side of said residence into North McNeil street. Shortly after reaching McNeil street he was struck by the defendant. It was plaintiff’s insistence that the defendant was driving his car at a dangerous rate of speed, that he was not looking; that the deceased was in the street; that the defendant was driving in the same direction; that the boy was going on his bicycle; that the defendant disregarded the deceased’s rights in said street; that he failed to blow his horn to give deceased any warning; that he failed to apply his brakes to prevent the accident. It was alleged that the deceased suffered great physical pain and mental anguish before he died as a result of his injuries. The defendant filed a plea of not guilty, also relied upon contributory negligence and especially relied upon a city ordinance, which required the deceased to stop beforé riding his bicycle from the driveway out into the street.
+It appears that there were two trials in this cause. The first verdict, in favor of the plaintiff, was set aside on account of misconduct of the jury. The second verdict was for $3000. Upon a motion for a new trial there was a remittitur suggested of $500. This was accepted under protest. The defendant prayed and perfected an appeal and has assigned six errors.
+By the first four errors it is insisted that there is no evidence to support the verdict and that the court should have sustained a motion for a directed verdict.
+The fifth assignment is, that the verdict is excessive, and the sixth assignment is as follows:
+“The court also erred in refusing to sustain the objection of the defendant to the question propounded by the attorney for the plaintiff, to the jury, on their voir dire examination as follows : “Are any of you gentlemen connected with, or stockholders of the Independent Bonding & Casualty Company?”, the said question being improper, calculated to, and did create much prejudice against this defendant and in favor of the plaintiff.
+In this assignment, the examination complained of is:
+‘ ‘ I will ask you whether any of you gentlemen are in any way interested in the Independent Bonding & Casualty Insurance Company of Newark, New Jersey, insuring automobiles against liability ?
+“I will ask you whether any of you gentlemen are in the business of adjusting claims, working for an insurance company along that line, automobile accident?”
+We will dispose of the last assignment first. It appears- that the attorneys, both for the plaintiff and the defendant, asked the jurors many questions as to each juror’s occupation or profession. Each juror was examined as to whether or not he represented an insurance company. One juror, it appears, was connected with an insurance firm. It was also developed that one of the jurors had had an automobile accident. The twelve men, however, were accepted by both the plaintiff and the defendant. No objection was interposed by either party to any question asked any juror. After the plaintiff had examined ten witnesses and closed evidence, the defendant made a motion for a directed verdict, this was overruled. Thereupon, counsel for the defendant stated that he “wanted to make a most strenuous objection.” He stated that he objected to the following question which had been propounded to each juror by plaintiff’s attorney:
+‘ ‘ I will ask you whether any of you gentlemen are in any way connected with or interested in the Independent Bonding and Casualty Insurance Company of Newark, New Jersey?”
+He stated that <he thought this prejudiced the interest of the defendant. He stated that he did not object at that time, because he could not consistently do it, and asked the court to consider his objection as made now for then. He further asked the court to give the jury the special instruction in order that the situation be entirely covered, to which the court subsequently replied that it understood that the appellate courts had held the question competent and he stated further, that if he wished the court to charge the jury specially in regard to the matter, for him to hand up what he wanted charged in that connection, and he would have no objection to stating anything to the jury about it that counsel wanted him to say.
+"We are of the opinion that this objection to the question complained of comes too late. Luchessi v. Bernard, 7 Tenn. App., 354.
+We are of the opinion that the attorney for the defendant waived his right to complain as to the question asked when he made no objection at the time the question was asked and accepted the jury and should there have been any merit in the objection made, it came too late.
+The attorney for the defendant seemed to be satisfied as to this question being asked, provided the court in giving his charge to the jury instructed the jury upon the question complained of.
+The court agreed to submit any request along this line that the attorney for defendant would submit.
+There is no error assigned on the coart’s charge. Counsel submitted no special request. It is presumed that he was satisfied with the court’s charge.
+The -rule is that whatever may be the objection, whether to the venire; to the whole jury after selection; misconduct of a juror or of the whole jury; improper influence brought to bear upon the jury, or on a juror, the complaint must be made to the court just as soon as the ground for it is known, or it is waived.”
+The sixth assignment is overruled. As to the first four assignments, there was a conflict in the evidence as to how this accident happened. The plaintiff made out a ease of negligence. The defendant said that he hardly saw the boy until he struck him. He admitted that he did not blow his horn. There is proof that the defendant’s car ran about ninety feet before’ it stopped, after it struck the boy. We find evidence that supports the verdict.
+The theory of each party was submitted to the jury under a proper charge. The first four assignments are overruled. The verdict is not excessive. The boy suffered great pain and mental anguish for several hours. He was earning $10 a week. He had an expectancy of 44.27 years. The deceased was in good health. All the assignments of error by the defendant are overruled and disallowed.
+As to the assignment by the plaintiff, this is overruled. The trial judge saw the witnesses and heard them testify. He would not approve the verdict of $3,000. He approved of a verdict for $2,500. He had to be satisfied with the verdict before he would approve of the same. We see no error in his suggesting the remittitur. There is no mathematical calculation whereby a rule can be established fixing damages for personal injuries or for the loss of life through negligence.
+We are satisfied that the trial judge took into consideration all of the facts and circumstances entering into this case and approved of such verdict as he thought just and proper, and we see no reason why his judgment should be disturbed.
+The plaintiff’s assignment is overruled. The plaintiff will recover of the defendant $2,500, with interest from the date of the rendition of the judgment'in the lower court and all the costs of the cause for which execution will issue. Execution will issue against the defendant-and his surety on appeal bond for the costs of the appeal.
+Heiskell & Senter, JJ., concur.
