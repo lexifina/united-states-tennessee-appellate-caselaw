@@ -1,0 +1,36 @@
+---
+court: "Tennessee Court of Criminal Appeals"
+decided: "1971-02-05"
+citations: ["4 Tenn. Crim. App. 63", "467 S.W.2d 835"]
+reporter: "tenn-crim-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Russell and Mitchell, JJ., concur."]
+parties: ["STURM COUCH, Plaintiff in Error, v. STATE OF TENNESSEE, Defendant in Error."]
+source_url: "https://static.case.law/tenn-crim-app/4/cases/0063-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8505077
+cites_cases: ["213 Tenn. 15", "220 Tenn. 541", "445 S.W.2d 942"]
+---
+
+# Couch v. State
+
+## Majority (GALBREATH. J.)
+
+GALBREATH. J.
+The plaintiff in error appeals from his convictions at a joint trial in the Criminal Court of Hawkins County for manslaughter and assault with intent to commit manslaughter. He was sentenced to serve two years for manslaughter and one year for assault with intent to commit manslaughter, the minimum penitentiary terms fixed by law for these crimes, and the trial judge ordered the two sentences to run concurrently.
+By appropriate assignments of error the defendant below challenges the sufficiency of the evidence; the refusal of the trial judge to grant requests for special instructions of law to the jury; and the refusal of the court to allow expert testimony as to the general health and physical condition of the defendant.
+The first series of assignments go to the weight of the evidence and must be measured against the well known rule that inhibits this Court from disturbing the verdict of the jury unless it appears that the evidence preponderates against it. See McBee v. State, 213 Tenn. 15, 372 S.W.2d 173.
+The jury had urged upon it two separate and distinct versions of how the tragedy resulting in the death of one young man and the wounding of another occurred. Competent evidence introduced by the State showed that the defendant armed himself with a pistol and drove in his truck to a point on a road adjacent to his farm land, where a group of hunters in and around their automobiles were waiting for a rain to subside in order that they could continue a hunt on land other than that of the defendant. One of the two persons later shot by the defendant, Ted Cope, engaged in a verbal exchange with the defendant, his uncle, during which the accusation was made by the defendant and denied by Cope that efforts had been made or would be made by Cope and his friends to hunt on the defendant’s land without permission. Upon being called a liar by the defendant, Cope started toward the truck in which the defendant, a larger man, some 57 years of age, was seated with his pistol. Cope, who was unarmed, became aware of the pistol and jumped toward the truck, slamming its door shut and knocking the defendant back into the truck. Cope then started running away from his uncle, who shot at him twice as he fled, the second shot hitting him in the area just below the belt. The State further introduced credible proof that the deceased, Jay Coffee, also unarmed, sprang toward the defendant as if to prevent further shooting and was himself fatally shot through the chest. Three others in the hunting party corroborated the testimony of Ted Cope.-
+In direct conflict to the above version of the affray, the defendant testified that he was attacked by Cope and Coffee without provocation while on his own land and remonstrating with the hunters who had trespassed on his property to remain there until the game warden he had summoned arrived. He said that Cope attacked from the front and was attempting to throw him to the ground while Coffee jumped him from the rear. He was being choked, and in order to get some breath he fired his pistol without meaning to shoot anyone. The defendant also testified that he was permanently disabled because of a heart condition for which he had been medically treated for years, and that he was not in physical condition to fight the younger and stronger men who were attacking him.
+The defendant’s account of being grabbed and choked by the two victims was not supported by the other available witnesses, and the jury chose to accept the proof offered by the State and reject in large measure the proof offered by the defendant. That strong mitigating circumstances were found favorable to the defendant’s position in the case, however, is apparent from the jury’s acquitting him of murder and finding him guilty of manslaughter.
+In rejecting the theory of self defense, the jury was justified in concluding that it was not necessary for the defendant to shoot a person who may have attacked him without a weapon after the aggressor discovered the defendant was armed and tried to flee. As this Court said in a somewhat similar situation:
+‘ ‘ The moment Mrs. McClain picked up the loaded pistol and pointed it at her husband the odds shifted decidedly in her favor.” McClain v. State, Tenn.Cr.App., 445 S.W.2d 942.
+And, as the Supreme Court said in another case:
+“The right to kill in self-defense begins where the necessity begins and ends where the necessity ends.” May v. State, 220 Tenn. 541, 420 S.W.2d 647.
+In any event, the. evidence does not preponderate against the verdict of the jury and we affirm the conviction.
+The charges requested were properly refused by the Court. One, dealing with the right of a person to protect himself from a stronger and heavier person threatening death or great bodily harm was adequately covered in the charge of the court on self defense. The refusal of the court to instruct the jury on the inference of bad effect justified by the failure of a party to call a witness available to it was not error, since the witnesses in question, other hunters who were near the scene of the shooting, were equally available to each party.
+“The failure to call a witness who could testify to material facts will give rise to adverse presumptions or inference, that the testimony of such person would be unfavorable to the party who has not called him if the witness is available to the party against whom the presumption will operate but is not available to the adverse party. The presumption does not arise if the witness is equally available to both parties, if his testimony would be inadmissible as evidence, or if the witness would be prejudiced against or hostile to the party who has not called him.” Wharton’s Criminal Evidence (12th Ed., 1955) sec. 144, p. 268.
+Finally, error is assigned because the court declined to allow a physician to testify that the defendant suffered from a heart condition that disabled him to such an extent that he could not fight. The defendant himself testified as to his incapacitiation, and there was no dispute as to his having been treated for his heart condition. Although it would have been proper for the court to have allowed the testimony, it would have been merely cumulative in nature; and any error involved in its exclusion was harmless under the circumstances of this case. Whatever the condition of the defendant might have been, it did not prevent him from killing one man and wounding another and did not provide him with justification for doing so when, as the jury found, he was not in imminent danger of loss of life or great bodily harm.
+The judgment of the trial court is affirmed.
+Russell and Mitchell, JJ., concur.
