@@ -1,0 +1,38 @@
+---
+court: "Tennessee Court of Appeals"
+docket: "14"
+decided: "1971-12-15"
+citations: ["62 Tenn. App. 699", "467 S.W.2d 796"]
+reporter: "tenn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cooper, P. J. (E.S.), and Sanders, J., cpncur."]
+parties: ["CLARENCE E. POTTS, Appellant, v. KNOX-TENN RENTAL, INC., Equipment Rental, Inc. and ROGER D. HOWELL, Appellees."]
+source_url: "https://static.case.law/tenn-app/62/cases/0699-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8508495
+cites_cases: ["108 Tenn. 719", "219 Tenn. 321", "28 Tenn.App. 239", "69 S.W. 266"]
+---
+
+# Potts v. Knox-Tenn Rental, Inc.
+
+## Majority (PARROTT, J.)
+
+PARROTT, J.
+In these circuit court common law tort actions Clarence E. Potts sues Knox-Tenn Rental, Inc., Equipment Rental, Inc. and Roger D. Howell, asking $250,000.00 for personal injuries sustained when a tower for a materials hoist fell while being erected at the construction site of a new building.
+Plaintiff Potts has appealed from the action of the circuit judge’s sustaining defendants’ pleas in abatement. The assignments insist the circuit judge erred in holding plaintiff to be a loaned servant with his exclusive remedy being under the Workmen’s Compensation Act, and erred in denying a jury trial.
+The facts present little dispute but the number of parties and similarity of the names of the corporations tend to complicate and confnse. Involved are four separate corporations; namely, Knox-Tenn Equipment Company and Knox-Tenn Rental Company located in Knoxville, Equipment Rental, Inc. and Rental Equipment Company located in Chattanooga. The principal function of these corporations is the renting and selling of equipment.
+Edward Cowan, Knoxville, owns more than 51 percent of the stock of each of the corporations and is president of all the corporations. Charles Carte, also of Knoxville is general manager and vice president of each of the corporations. Cowan and Carte supervise all operations and exercise control over employees in both Chattanooga and Knoxville.
+All four of these corporations are named and insured for workmen’s compensation under a single certificate of insurance issued by Insurance Company of North America.
+Plaintiff Potts lives in Knoxville and receives his pay by checks written on Knox-Tenn Equipment Company. Defendant Howell lives and is employed in Chattanooga. The record is not entirely clear whether Howell is paid by the Chattanooga corporation, Equipment Rental and Sales Company or receives his check on the Knox-Tenn Equipment Company account. At one place in the record, President Cowan states all payroll checks are drawn on the account of Knox-Tenn Equipment Company. Other places it appears Howell and the employees in Chattanooga are paid by Equipment Rental and Sales Company. It is clear that Knox-Tenn Equipment Company and Equipment Rental Company do not have payroll accounts or pay any employees. The bookeeping system of the various corporations is set up so as to allocate costs and charges to the particular corporation performing the work, but all cost, including labor in the Knoxville offices, is paid by Knox-Tenn Equipment Company.
+In the instant case, prior to July 30, 1968, the date of this accident, Mr. Carte received a telephone call from Dr. Horace N. Barker, President of Hiwassee College at Madisonville, asking to rent a materials hoist to be used at the site of a new chapel which was being built on the Hiwassee campus. Thereafter Mr. Carte called Mr. Howell in Chattanooga to determine if the hoist located in Chattanooga but owned by Knox-Tenn Rental Company was available. After determining the hoist was available, Carte instructed Howell to deliver the hoist to the Hiwassee campus.
+There not being sufficient sections of the hoist in Chattanooga to reach the needed height, Carte instructed Potts to take from. Knoxville additional sections. Howell’s and Potts’ instructions were to meet at the Hiwassee campus and with additional help to be furnished by Hiwassee, to erect the hoist.
+When the tower for the hoist had been erected to about the 80-foot level and while Potts and the employee furnished by Hiwassee were attempting to place in position another 10 foot extension, the tower and hoist suddenly fell, throwing both men some 80 feet to the ground.
+From the proof we think it is undisputed that Potts and Howell performed work at different times for the four corporations and were under the direct supervision of Mr. Cowan and Mr. Carte. Although Potts was listed on the payroll as an employee of Knox-Tenn Equipment Company, often a part of Ms work was for Knox-Tenn Rental, Inc. or one of the other corporations. Knox-Tenn Rental did not have a payroll account but when Potts performed services for the Rental Company or one of the other corporations, his labor was charged to that corporation which actually did the work.
+Under the facts we cannot say the evidence preponderates against but must find it supports the circuit judge’s holding that Potts “in working for his immediate specific employer, Knox-Tenn Equipment, Inc., had impliedly contracted to work for or do work for the other corporations, both in Knoxville and Chattanooga, and that the work being done on the day of his injury was essentially that of Knox-Tenn Rental, Inc., and that the special employer had the right to control the details of the work. That both Potts and his co-defendant, Howell, engaged in a ‘dual’ or quadruple employment in the sense that they could be switched from job to job for any one or more of the four compames. ’ ’
+“ ‘Employment may also be “dual,” in the sense that, while the employee is under contract of Mre with two different employers, his activities on behalf of each employer are separable and can be identified with one employer or the other. When this separate identification can clearly be made, the particular employer ivhose tv orle was being done at the time of injury will be held exclusively liable.’ ” [Emphasis added] Winchester v. Seay, 219 Tenn. 321, 409 S.W.2d 378, 381.
+See also Vol. 2, Larson’s Workmen’s Compensation Law, Sec. 48, p. 805.
+The final assignment of error argues the plaintiff was denied the right to trial by jury. It is true each of plaintiff’s declarations demands a jury. However, nowhere in the record does it appear plaintiff ever called to the attention of the trial judge he wanted the issues of fact raised by the pleas in abatement submitted to the jury or did he object to the trial judge’s hearing without a jury the proof introduced on the pleas in abatement. Consequently, under our authorities it must be held plaintiff is in no position to complain he was denied a trial by jury. Taylor v. Sledge, Wells & Company, 108 Tenn. 719, 69 S.W. 266; American Nat. Bank v. Bradford, 28 Tenn.App. 239, 188 S.W.2d 971.
+It results we agree with the circuit judge’s ruling plaintiff’s exclusive remedy is for workmen’s compensation and the sole responsibility is upon Knox-Tenn Rental Company, the particular company he was working for at the time of the injury.
+The judgment entered by the circuit judge is affirmed with costs taxed to appellant.
+Cooper, P. J. (E.S.), and Sanders, J., cpncur.
