@@ -1,0 +1,37 @@
+---
+court: "Tennessee Court of Appeals"
+decided: "1940-11-30"
+citations: ["24 Tenn. App. 635", "148 S.W.2d 39"]
+reporter: "tenn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Faw, P. J., and Crownover, J., concur."]
+parties: ["FULMER v. JENNINGS (Three Cases)."]
+source_url: "https://static.case.law/tenn-app/24/cases/0635-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8512143
+cites_cases: ["10 Tenn. App., 226", "11 Tenn. App., 431", "15 Tenn. App., 618", "150 Tenn., 255", "16 Tenn. App., 576", "173 Tenn., 32", "173 Tenn., 542", "22 Tenn. App., 522", "263 S. W., 974", "5 Tenn. App., 300"]
+---
+
+# Fulmer v. Jennings
+
+## Majority (PELTS, J.)
+
+PELTS, J.
+These three suits are for damages for personal injuries suffered in an automobile collision. They were tried together, resulting in verdicts and judgments for plaintiffs in these amounts: Gilbert Jennings, $1,250; Annie B. Jennings, $100; and Elizabeth Jennings, $150. Defendant, Arthur Fulmer, appealed in error. He insists that verdicts should have been directed for him at the close of plaintiffs’ evidence and at the close of all the evidence. He also complains of the admission of certain evidence, of the charge to the jury, and of the amount of the verdicts.
+The collision occurred about 7 P. M., June 29, 1935, at the intersection of Cedar Street and Seventh Avenue, Nashville. Gilbert Jennings was driving'his automobile east on Cedar Street. His wife, Annie B. Jennings, and his daughter-in-law, Elizabeth Jennings, were on the rear seat of his ear. As he was crossing the intersection, and was about two-thirds of the way across, another automobile, coming west on Cedar Street, suddenly turned south toward Seventh Avenue across the line of eastbound traffic, struck his car, causing the injuries sued for.
+The facts of the accident and the negligence of the driver of this other car were not disputed. The only controversy on the issue of liability was as to the identity of the car and its driver. The driver was a white woman. None of the witnesses knew her. She did not give her name. No one else was in the car. Just after the collision two men came out of the Memorial Hotels located on the corner opposite the place of the accident, got in the car with the woman, and they all drove away.
+However, before the car was moved three witnesses took its license number. Gilbert Jennings wrote the number in a check book, which he produced at the trial. Sam Curtis put the number down in his time book, which he also produced. W. D. Martin also took the license number. All of these witnesses said the number was 120 — -714. Two of them said it was a Tennessee license number, while one of them was able to state only the number but was not able to say whether it was a Tennessee license number. Over defendant’s objection, plaintiffs adduced evidence showing that Tennessee license number 120 — 714 for the year 1935 was registered in the name of Arthur Fulmer, 260 Monroe Street, Memphis, Tennessee, the defendant.
+When the trial court overruled defendant’s motions for directed verdicts at the close of plaintiffs ’ evidence, defendant did not elect to stand on the motions, but waived them by introducing witnesses in his behalf. Duling v. Burnett, 22 Tenn. App., 522, 124 S. W. (2d), 294; John Gerber Co. v. Smith, 150 Tenn., 255, 263 S. W., 974; Hot Blast Coal Co. v. Williax, 10 Tenn. App., 226. Defendant also rendered immaterial his objection to the evidence of registration of the car in his name, because he produced correspondence between himself and Messrs. Cate & Cate, former attorneys for plaintiffs, in which he admitted the car was registered in his name. On July 2, 1935, Cate & Cate wrote him, stating a ‘ ‘ Chevrolet Coach, license number 120 — 714” had struck the car of Gilbert Jennings on Saturday, June 29, in Nashville, and asking him to “refer this letter to your insurance company so that they may contact us.” He replied by letter dated July 3, 1935, as follows:
+‘ ‘ Gentlemen:
+“In answer to yours of July 2nd, 1935, with reference to Chevrolet Coach, license 120 — 714, wish to say that this ear was in my garage in Memphis on the night of June 29th.
+“Believe that there has been a mistake made, and that you have picked up the wrong license number.
+“Very truly yours,
+“Arthur Fulmer.”
+Construing this most strongly in favor of plaintiffs, as we must do on defendant’s motions for directed verdicts, we think this was a plain admission that the Chevrolet Coach, license number 120 — -714, was registered in his name, and this admission left no controversy as to such registration and made immaterial defendant’s objection that the certificate of registration produced by plaintiffs’ witness, Mrs. Joe Dixon, a clerk in the Department of Archives, had not been cer-tilled as a correct copy of such records by Mrs. John Trotwood Moore, the head of this department.
+The evidence for defendant was that, while he owned this Chevrolet Coach and kept it for use of his wife, it was not in Nashville on the night of the accident, but was in Memphis in his garage. He and his wife both so testified.
+This proof of registration of the car in his name made a prima facie case for the jury that the car was being operated by his servant upon his business. Code, secs. 2701, 2702; East Tennessee & Western North Carolina Motor Transp. Co. v. Brooks, 173 Tenn., 542, 121 S. W. (2d), 559; Welch v. Young, 11 Tenn. App., 431; Wright v. Bridges, 16 Tenn. App., 576, 65 S. W. (2d), 265. Defendant, however, insists that this prima facie case was displaced by unimpeached and uncontradicted evidence for defendant that his car was not at the scene of the accident but was in Shelby County; and that verdicts should have been directed for him. Gouldener v. Brittain, 173 Tenn., 32, 114 S. W. (2d), 783; Woody v. Ball, 5 Tenn. App., 300; Phillips-Buttorff Mfg. Co. v. McAlexander, 15 Tenn. App., 618, 627. The evidence for defendant that his car, license number 120 — 714, was not at the scene of the accident, stands in irreconcilable conflict with the evidence for plaintiffs that the car bearing this number was the offending car. It was, therefore, a question for the jury to determine which was true, this evidence for plaintiffs or this evidence for defendant, and the trial judge properly denied the motions for directed verdicts. Welch v. Young, supra; Wright v. Bridges, supra; Phillips-Buttorff Mfg. Co. v. McAlexander, supra.
+We think there was no error in the judge’s charge to the jury. It fairly and accurately submitted the issue to the jury; and the requested instructions were fully covered in the general charge.
+We likewise think the verdicts were not excessive. No complaint is made except against the verdict for Gilbert Jennings. We do not think the verdict for him was excessive. He, a colored man, was employed in the County Health office under Dr. Lentz, at a salary of $65 per month and board. As a result of the accident he developed hernia, was disabled for four or five months, had an operation at Vanderbilt Hospital, where he was confined for twenty-one days. His hospital and doctor bills were more than $100. As a result of his injuries he was unable to continue in his employment.
+All the assignments of error are overruled, the judgments of the circuit court are affirmed, and the costs of these appeals in error are adjudged against defendant and the surety on his appeal bonds.
+Faw, P. J., and Crownover, J., concur.
