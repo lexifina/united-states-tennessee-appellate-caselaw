@@ -1,0 +1,46 @@
+---
+court: "Tennessee Court of Criminal Appeals"
+decided: "1969-11-26"
+citations: ["2 Tenn. Crim. App. 82", "451 S.W.2d 701"]
+reporter: "tenn-crim-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["RUSSELL and MITCHELL, JL, concur."]
+parties: ["STATE OF TENNESSEE ex rel. HAYWOOD QUINN, Plaintiff in Error, v. STATE OF TENNESSEE, Defendant in Error."]
+source_url: "https://static.case.law/tenn-crim-app/2/cases/0082-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8505519
+cites_cases: ["167 S.W.2d 5", "179 Tenn. 428", "187 Tenn. 174", "198 Tenn. 354", "213 S.W.2d 105", "280 S.W.2d 806"]
+---
+
+# State ex rel. Quinn v. State
+
+## Majority
+
+OPINION
+Haywood Quinn appeals from the judgment of the Madison County Criminal Court dismissing his petition for post-conviction relief after an evidentiary hearing.
+He assigns two errors:
+1. Defendant’s record reflects he is serving an indeterminate sentence for an offense that does not carry same.
+2. The trial court was without authority to change the minutes of the Court, to the detriment of the defendant.
+He was represented at the hearing and on the appeal by court-appointed counsel, whom we commend for industriously representing petitioner.
+The record in this cause reflects that petitioner had entered a plea of guilty to the offense of robbery by the use of a deadly weapon. A jury in the Madison County Criminal Court fixed his punishment for committing that offense at confinement for seventeen years in. the State Penitentiary. The trial court sentenced the defendant to serve “not less than 10 years and not more than 17 years.” The judgment of the trial court as pronounced was accordingly entered into the records. This action of the trial court is the basis for petitioner’s petition and his assignments of error. In the hearing of this cause the minutes of the trial court reflected that the said sentence and judgment was entered against the defendant on the 24th-day of May, 1961. -On the 18th day of July, 1968, at the hearing on the petition for a writ of habeas corpus, the trial court found, as a fact, that the sentence of “not less than 10 years and not more than 17 years,” had been entered. The trial court, in dismissing the petition, entered an order reflecting that the sentence which had been imposed was modified to the extent that petitioner was sentenced to serve seventeen years in the State Penitentiary for committing the offense of robbery by the use of a deadly weapon.
+Petitioner’s insistence may be summarized thusly. When the trial court incorrectly sentenced petitioner and applied an indeterminate sentence to a determinate sentence, this action of the trial court rendered the judgment entered to be void. Therefore, he is incarcerated under a void conviction. To this insistence we do not agree. . .
+In Adams v. Russell, 179 Tenn. 428, 433, 434, 167 S.W.2d 5, 8, the following language may be found, quoted from 76 A.L.R., page 476:
+“ 'if the Court had jurisdiction of the person and subject matter of the offense,’ which was clearly true in the instant case, ‘such sentence is not void ab initio because of the excess,’ but is invalid only as to any of such excess.” - ‘
+• This principle would apply equally when the judgment granted concessions beyond the authority, of the statute. It would be invalid only to the extent of such concessions, here as to the indeterminate provisions. (emphasis added)
+There can be no question that the trial court had jurisdiction of the subject matter robbery and the person (petitioner). Therefore, the judgment entered is not void but only invalid as to the concession of the trial court in sentencing him to not less than 10 years-.
+In Franks v. State, 187 Tenn. 174, 213 S.W.2d 105: “After a careful reading of the Code sections above set out, [10771, now 39-2405; 10772, now 39-2406; 10781, now 39-3702; 11766, now 40-2707] we are of opinion that the indeterminate sentence law does not apply to capital offenses of murder and rape. The punishment prescribed for rape is almost identical with the punishment prescribed for murder. We do not think the Legislature had in mind capital offenses when it passed the indeterminate sentence law.” In the concurring opinion by Mr. Justice Gailor:
+“* * * The Indeterminate Sentence Law (Code sec. 11766 [now Code sec. 40-2707]) is limited to felonies punishable by imprisonment in the penitentiary ‘with the punishment for said offense within minimum and maximum terms provided for by law.’ I construe the effect of ‘provided for by law’ to be that Code sec. 11766 [now Code sec. 40-2707] is limited to those crimes for which the statute fixing the punishment provides expressly that the sentence shall be for an indeterminate term within minimum and maximum limits and that the Indeterminate Sentence Law does not apply to those crimes for which no provision for indeterminate sentence is made by the statute. Thus the law applies to a conviction for murder in the second degree because the statute fixing punishment for that offense expressly provides (Code sec. 10773 [now Code sec. 39-2408]) for imprisonment Tor not less than ten nor more than twenty years.’ ”
+The punishment for robbery, as stated in T.C.A., Section 39-3901 is as follows:
+“39-3901. Robbery — Penalty.—Robbery is the felonious and forcible taking from the person of another, goods or money of any value, by violence or putting the person in fear. Every person convicted of the crime of robbery shall be imprisoned in the penitentiary not less than five (5) nor more than fifteen (15) years; provided, that if the robbery be accomplished by the use of a deadly weapon the punishment shall be death by electrocution, or the jury may commute the punishment to imprisonment for life or for any period of time not less than ten (10) years. [Code 1858, §§ 4631, 4632 (deriv. Acts 1829, ch. 23, § 20); Shan., §§ 6472, 6473; Code 1932, §§ 10802, 10803; Acts 1953, ch. 66, § 1; 1955, ch. 72, § 1.]” (emphasis supplied)
+The punishment for murder in the first degree, as prescribed by T.C.A. 39-2406 is as follows:
+“39-2406. Jury to fix punishment for murder in the first degree. — When any person is convicted of the crime of murder in the first degree, or as an accessory before the fact of such a crime, it shall be the duty of the jury convicting him in their verdict to fix his punishment, which punishment shall be death in the mode prescribed by law for the infliction of the death penalty in capital cases, or the jury may, if they are of opinion that there are mitigating circumstances, fix the punishment at imprisonment in the penitentiary for life, or for some period over twenty (20) years. [Acts 1919, ch. 5, § 1; Shan. Supp., § 6442al; Code 1932, § 10772.]” (emphasis supplied)
+The punishment for rape, as prescribed by T.C.A. 39-3702 is as follows:
+“39-3702. Punishment for rape. — Whoever is convicted of the rape of any female shall suffer death by electrocution; provided, the jury before whom the offender is tried and convicted, may, if they think proper, commute the punishment for the offense to imprisonment in the penitentiary for life, or for a period of not less than ten (10) years. [Code 1858), § 4611 (deriv. Acts 1829, ch. 23, § 14); Acts 1871, ch. 56, § 1; impl. am. Acts 1913 (1st E.S.), ch. 36, § 1; Shan., § 6452; Code 1932, § 10781.]” (emphasis supplied)
+Therefore, it must logically follow that it was the intent of the Legislature that the sentence for robbery by the use of a deadly weapon was to be determinate rather than indeterminate, which we accordingly so hold.
+The trial court entered an order correcting the sentence as entered to read, “* * * he is sentenced to serve 17 years in the State Penitentiary for committing the offense of armed robbery * * *” correcting the invalid portion of the judgment he had entered in the record on May 24, 1961, when defendant pled guilty to the offense of armed robbery and was sentenced to serve a sentence of “not less than 10 years and not more than 17 years,” the portion of the verdict being “not less than 10 years.” In view of our holdings in this record that the verdict was invalid and to no effect, the trial court, therefore, had the authority to correct this mistake apparent in the record under the mandate of T.C.A. 20-1513:
+“20-1513. Mistake apparent in record. — Every mistake apparent on the face of the record may be corrected by the court at any term after final judment, at the discretion of the court. [Code 1858, § 2878 (deriv. Acts 1855-1856, ch. 70, § 2); Shan., § 4598; Code 1932, § 8722.]”
+“The rules of this Court recite that every transcript in a criminal case is composed of (1) the technical record and (2) the bill of exceptions. It defines the technical record as ‘all the minute entries pertaining to the case, including the indictment.’ ” Bailey v. State, 198 Tenn. 354, 280 S.W.2d 806.
+The action of the trial judge in correcting the sentence entered and imposed is not in any way an effort to impeach the minutes, as alleged by the defendant.
+The assignments of error being overruled, it is the judgment of this Court that the judgment of the trial court in dismissing the petition for post-conviction relief is affirmed.
+RUSSELL and MITCHELL, JL, concur.
