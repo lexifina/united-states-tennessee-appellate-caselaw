@@ -1,0 +1,45 @@
+---
+court: "Tennessee Court of Appeals"
+decided: "1928-03-23"
+citations: ["7 Tenn. App. 369"]
+reporter: "tenn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Owen and Senter, JJ., concur."]
+parties: ["W. E. GRAVES v. A. GRAVES CO."]
+source_url: "https://static.case.law/tenn-app/7/cases/0369-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8510215
+cites_cases: ["127 Tenn., 96", "14 Fed., 759", "147 N. C., 20", "191 Pac., 47"]
+---
+
+# Graves v. A. Graves Co.
+
+## Majority (HEISKELL, J.)
+
+HEISKELL, J.
+This is a suit by W. E. Graves to recover from defendant corporation $5500 alleged to be due him on account of salary as president for the year 1926 based upon contract. The answer of the corporation denies liability. There was a decree for complainant for the amount claimed, less $142.54 which it was admitted complainant owed to the defendant. From this decree the defendant has appealed and assigned errors.
+There is no objection to the Chancellor’s findings of fact, and it is agreed that the case in this court presents only questions of law. As both sides are satisfied with the findings of fact in the decree of the lower court, we will set out the same as the facts of the case as follows:
+A. Graves was the owner of a jewelry store in the City of Memphis. He was the father of the complainant, "W. E. Graves. He died in 1894. In 1895, W. E. Graves had the business incorporated under the name of “A. Graves Company;” the capital stock of $5000 was divided into fifty shares of $100 each. The complainant, W. E. Graves, was the owner of practically all of this stock, prior to 1912. A. K. Steuwer was. an employee of A. Graves Company, and about that time purchased some of the stock. In the year 1912 W. E. Graves sold him enough stock to give him twenty-five shares. Since that time the entire capital stock has been held by W. E. Graves and A. K. Steuwer, each owing twenty-five shares. No meetings of the directors have been held since 1912; certainly none within the past ten or twelve years. ~W. E. Graves has been president, and A. K. Steuwer, vice president, secretary and treasurer since that time, and Steuwer has managed and had general charge of the business. Mr. W. E. Graves went by the store from time to time, and had the management of the business while Mr. Stuewer was absent from the city on his vacations, or while he was ill. The company has been successful in business, and has made money every year, and on the 1st of January, 1927, its assets were valued at $175,000. At or about that time, Mr. Graves sold to Mr. Steuwer his twenty-shares of stock, so that on that date, Mr. Steuwer became the owner of all of the capital stock in the company.
+Since Mr. Steuwer became the owner of one-half interest in the company, he and Mr. Graves have agreed upon their respective salaries, and from time to time as the business grew and prospered, these salaries have been increased. Since 1923 or 1924, by agreement, Mr. Steuwer’s salary has been $1250 per month. They have not drawn the full amount of their salaries each month, however, and Steuwer has actually drawn $650 from month to month, and Mr. Graves $150 from month to month, and the balance of their salaries has been paid at the end of the year.
+On his cross-examination, Mr. Graves admitted that if the company had lost money any year, he did not think he and Mr. Steuwer would have drawn that part of their salaries which was reserved and paid at the end of the year.
+It is the contention of defendant that complainant is not entitled to recover, because there was no valid contract with the corporation as to the salary sued for and because no services were rendered to the corporation by complainant for said salary. It is' insisted that there was no contract or agreement because the salary was not voted to complainant at a meeting of the directors. It is admitted that the proof shows the agreement between complainant and Steuwer as to complainant’s salary, but it is contended as above set out, that this does not bind the corporation.
+Mr. Thompson, in his work on corporation, says:
+“Stockholders may contract with officers for compensation, which will be binding without the approval of the directors.”
+“And the same may be fixed by the president and another director.” Thompson (3rd Ed.), Vol. 3, sec. 1859.
+In accordance witli this text, the Supreme Court of Tennessee has held:
+1. That in a close corporation, the officers being the owners of the entire stock, they may', without a formal meeting of the board of directors, but by simple agreement among themselves, fix their compensation, or salaries, which will be binding upon the corporation as such, particularly when the corporation is solvent at the time, and there is no fraud.
+2. That no recordation upon the minutes of the corporation is necessary to make such act the valid act of the corporation. Watts v. Gordon, 127 Tenn., 96.
+Watts v. Gordon was cited with approval in a later ease in which the court said:
+“The action of the corporation authorizing the disposal of the corporate property by resolution of the stockholders, and not by the directors, cannot be Complained of in the absence of some showing that the control and management of the corporation was not vested in the stockholders. These are the parties vitally interested, and their determination of corporation affairs is authoritative.” Carrier v. Dixon, 142 Tenn., at p. 126.
+The United States District Court of Minnesota and the United States Circuit Court of Appeals for the eighth circuit have cited, with approval, the above Tennessee case of Watts v. Gordon and applied the principles therein enunciated. Sweet v. Lang, 14 Fed., 759 et seq.
+A promise of stockholders to pay the president a salary is binding upon the corporation, irrespective of lack of action on the part of the board of directors. Caho v. Norfolk Railroad, 147 N. C., 20.
+The last-cited case also holds that stockholders may agree to pay salaries, which will bind the corporation.
+Stockholders may bind the corporation where they act by a unanimous vote, or where the stockholders and directors are identical. C. J., 14, p. 142, sec. 1907.
+If there are but two stockholders, and they agree as to their salaries, it is immaterial that the directors did not pass on the matter, no creditors being involved. Hyman v. Karl Stern Co. (Cal., 1920), 191 Pac., 47.
+The above-styled case was one where,the plaintiff brought suit to recover unpaid salary alleged to be due by the defendant corporation under an agreement made with the other stockholder — the plaintiff Hyman and one Karl Stern being the only stockholders of the corporation, and having agreed among themselves with respect to the salaries which each should be entitled to receive. Bearing upon the right of the plaintiff to recover, the California court said:
+“The first contention of appellant (corporation) is that the condition of the by-law, declaring that the directors should fix the salaries of officers and employees, was not complied with, and that any arrangement entered into between Stern and the plaintiff as to salaries to be paid was invalid. We think there is no merit in this contention. If the two persons who owned and controlled the corporation, to all substantial effect, agreed upon the salaries to be paid, where the corporate form was adopted only as a convenient agency for the handling of business, such an agreement, we think, was valid and binding. Plaintiff testified that Stern and she were the only ones concerned. . . . The association of the two individuals constituted practically a partnership.”
+All the propositions set out in the brief for defendant and supported by abundant authority are admitted, but they do not conflict with the rules and authorities referred to herein. It is conceded that the president in this case is not entitled to compensation except by agreement. That he would not without a contract be entitled to recover for voluntary services. That the law would not imply a promise by the corporation to pay him, and that in the absence of a contract in order to recover the complainant must show valuable services rendered. But, admitting all this, complainant’s right to recover is not affected when his salary was fixed by a valid and binding contract.
+To attempt to add anything to the authorities cited to support the right of complainant to a decree would be merely to repeat the language of the court in those cases. As there were only two stockholders and practically no other directors and the two stockholders agree as to their salaries it is binding upon the corporation without more and neither can be required to prove the value of services rendered in order to recover.
+Defendant’s assignments of error are overruled and. the decree of the Chancellor is' affirmed. A decree will go against the defendant and its surety on the appeal bond for the amount of the decree in the lower court, with interest and costs of appeal.
+Owen and Senter, JJ., concur.
