@@ -1,0 +1,42 @@
+---
+court: "Tennessee Court of Appeals"
+docket: "133"
+decided: "1964-05-19"
+citations: ["53 Tenn. App. 697", "386 S.W.2d 526"]
+reporter: "tenn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["McAmis, P. J., and Cooper, J., concur."]
+parties: ["BROTHERHOOD’S RELIEF AND COMPENSATION FUND v. JOHN N. GRUBBS."]
+source_url: "https://static.case.law/tenn-app/53/cases/0697-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8508594
+cites_cases: ["36 Tenn.App. 20"]
+---
+
+# Brotherhood's Relief & Compensation Fund v. Grubbs
+
+## Majority (PARROTT, J.)
+
+PARROTT, J.
+This is a suit by a member of the Brotherhood’s Relief and Compensation Fund to collect benefits for being held out of service by his employer, L & N Railroad. The trial court heard the case without the intervention of a jury and ruled that the member should be awarded $4800.00 under the terms of the contract of membership.
+John Grubbs, a yardman, was employed by the L & N Railroad in December 1945 and worked continuously for the railroad until discharged on August -25, 1962. At the time of his discharge he was on the “extra board.” On August 4,1962, at 12:55 p.m. G-rubbs was called to report to work for the 2:30 shift. He advised the chief clerk that he would not report to work on the 2:30 job but was claiming, by his seniority, another job on the 7:00 a.m. shift the following day.
+G-rubbs received the following notice from the L & N Railroad:
+“You are charged with the responsibility in connection with the case of failing to protect your assignment, 2:30 p.m., Yard Job 201, West Knoxville, Tennessee, August 4th, 1962.”
+A hearing was held, G-rubbs being present. He was aided in presenting his case by the secretary and treasurer of the union. On August 25th he was notified that his employment was terminated because of his failing to report to work and protect his assignment of August 4th.
+Grubbs bas held a certificate of membership in the Brotherhood’s Belief and Compensation Fund since March 25,1960. The Brotherhood is a non-profit corporation chartered under the laws of Pennsylvania for the purpose of paying benefits to its members for being “held out’of service” or “retirement” as defined by the contract. The Brotherhood has no connection with the L & N Bailroad or the Brotherhood of Bailroad Trainmen which has a labor agreement with the L & N, other than the membership of the Brotherhood is composed of (1) those employed by a railroad in its Motive.Power and Transportation Department, and (2) those who are members of the Brotherhood of Bailroad Trainmen. Under the certificate of membership owned by Grubbs he would be entitled to $24.00 benefits for each day for a period not exceeding 200 days.
+Grubbs filed his claim under his certificate of membership which claim was denied by the Brotherhood. After exhausting his remedies under the contract, he filed this suit alleging the Brotherhood had arbitrarily refused to pay his claim and demanded the 25% bad faith penalty under the provisions of T.C.A. sec. 56-1105.
+The contract states in Article XII, Condition of Payment of Benefits, Section 4:
+“Members shall not be eligible for any benefits or compensation whatsoever for ‘held out of service,’ * * * where such claim is based in whole or part upon refusal to perform any duty or service for the employer * * * missing calls, not being available for duty * * *”
+The term “held out of service” is defined in Article XXXI, Section 1-a, Definitions:
+“The Term ‘Held Out of Service’ as used in this Constitution, shall include all cases, where an employee of the Motive Power or Transportation Department has been entirely and permanently, or temporarily, relieved by his employer from the performance of his said usual duties as discipline for offense or offenses, not, however, because of any willful or intentional violation or infraction of any order or orders, rule or rules, regulation or regulations, expressed or implied, of his employer, or of any violation. * * *” (emphasis supplied)
+There seems to be little doubt from the proof in this record that Grubbs willfully and intentionally refused to honor the 12:55 call requesting him to report to work on the 2:30 shift. There is much testimony as to whether this was a proper call under the labor agreement between the L & N Railroad and the union. Grubbs contends that under the terms of the collective bargaining agreement the L & N was bound to call him no earlier than 1:30 p. m. to report for a 2:30 p. m. job assignment. The question of whether the call complied with the agreement is not before this court, but will have to be decided by another tribunal. We are assuming, but not deciding, Grubbs was properly called to work and refused to honor such call. He gives the reason for his not honoring the call that he was claiming Relief Job No. 10 on the 7:00 a. m. shift the following day. He had a right to claim Relief Job No. 10 due to his seniority but we know of no right he had to refuse the call to report for the 2:30 p. m. job. He could have worked the 2:30 job and still reported for Relief Job No. 10 which began at 7:00 a. m. the following day.
+Grubbs was thoroughly familiar with the extra board, having been on it for some period of time. He. also had the right of having his name placed, at the bottom of the roll if lie did not intend to accept or honor a call to report to work on the 2:30 job.
+There is testimony in this record that Grubbs was a Seventh Day Adventist and, due to his religious beliefs, did not work on Saturday, August 4th being a Saturday. He had never worked on Saturday during his entire employment with the L & N. This testimony is immaterial to the issue of this case hut may have some bearing on the question whether Grubbs’ being held out of service was unjustified.
+We are of the opinion the trial court misconstrued the contract and erred in permitting a judgment to be entered for $4800.00. As we read the conditions of payment of benefits in Article XII, Section 4, the employee is not entitled to benefits under the certificate of membership if he refuses to perform any duty or service for the employer. Even though Grubbs would have been justified in refusing to perform the duty under the labor agreement with the L & N and Grubbs ’ union, the question of whether Grubbs was wrongfully or rightfully discharged as per the labor union agreement is a different question from whether he is entitled to benefits under his certificate of membership in the Brotherhood’s Relief and Compensation Fund.
+A similar contract was before this court in the case of Rule v. Brotherhood’s Relief and Compensation Fund, 36 Tenn.App. 20, 251 S.W.(2d) 309, on page 313, in an opinion written by Judge Howard in which the court stated:
+“It is obvious that the contract does not cover loss of time generally, but is limited to the employee being • held out of service for discipline for offense or offenses, etc. The proof shows that the Company laid complainant off because he had failed to pass an examination, although the company’s action seems to have been erroneous and unjustified. However, it was not a discipline for offenses, and it settled down to being an unjust and improper action on the part of his Company. Accordingly, it does not seem to us that this type of lay-off is covered by the contract.”
+In the Rule case the employee was discharged because of his failure to pass an examination but the court found the employee was excused from taking the examination by his superior. Although benefits were denied because Rule failed to exhaust the remedies provided by the bylaws and constitution of the Brotherhood as to the prosecuting of his claim, we accept the above quoted part of the opinion as a proper construction of the contract.
+As stated in the Rule case, although the company’s actions may have been unjustified in dismissing G-rubbs from its employment, the unjustifiable discharge does not entitle him to a claim under his contract with the Brotherhood. Grubbs’ failure to honor the call to work on the 2:30 job was a willful and intentional act, in violation of Article XII, Sec. 4, of the contract and constituted a breach thereof, making him ineligible for the benefits under the contract.
+For the reasons hereinabove stated, the judgment in the circuit court is reversed and the suit dismissed with the costs taxed to the defendant-in-error.
+McAmis, P. J., and Cooper, J., concur.
