@@ -1,0 +1,41 @@
+---
+court: "Tennessee Court of Criminal Appeals"
+decided: "1968-09-16"
+citations: ["1 Tenn. Crim. App. 241"]
+reporter: "tenn-crim-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["GALBREATH, J., did not participate in this case.", "WALKER, P. J., concurs."]
+parties: ["HAROLD BENNETT, Plaintiff in Error, v. STATE OF TENNESSEE, Defendant in Error."]
+source_url: "https://static.case.law/tenn-crim-app/1/cases/0241-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4796424
+cites_cases: ["105 Tenn. 218", "134 Tenn. 490", "135 Tenn. 446", "184 S.W. 20", "186 S.W. 1053", "199 Tenn. 25", "212 Tenn. 464", "213 Tenn. 15", "214 Tenn. 296", "214 Tenn. 711", "216 Tenn. 89", "217 Tenn. 374", "217 Tenn. 695", "218 Tenn. 31", "218 Tenn. 80", "220 Tenn. 546", "281 S.W.2d 692", "42 Tenn. 178", "50 Tenn. 215", "58 S.W. 216"]
+---
+
+# Bennett v. State
+
+## Majority (OLIVER, Judge.)
+
+OPINION
+OLIVER, Judge.
+Harold Bennett, the plaintiff in error and defendant below, was convicted in the Criminal Court of Washington County of receiving and concealing stolen property valued at less than $100, and was sentenced to imprisonment in the County Workhouse for 11 months and 29 days. His motion for a new trial being overruled, he prayed and was granted and has perfected an appeal in the nature of a writ of error to this Court.
+The defendant adopts his motion for a new trial as his Assignments of Error in this Court. In our view of the case it is only necessary to notice and consider the first two Assignments challenging the sufficiency of the evidence. In reviewing the evidence under these two Assignments of Error, we are bound by the rule, stated and restated over and over by our Supreme Court, that a jury’s verdict of guilt, approved by the trial judge, accredits the testimony of the witnesses for the State and resolves all conflicts in the evidence in favor of and establishes the State’s theory of the case. Under such a verdict, the presumption of innocence, which the law accords an accused prior to conviction, disappears and is replaced by a presumption of guilt which puts upon him the burden of showing upon appeal that the evidence preponderates against the verdict and in favor of his innocence. We may review the evidence only to determine whether it preponderates against the verdict and, in doing so, we must take the verdict and, in doing so, we must take the verdict as having established the credibility of the State’s witnesses. The verdict will be disturbed on the facts only if the evidence clearly preponderates against it and in favor of the innocence of the accused. Pryor v. State, 217 Tenn. 695, 400 S.W.2d 700; Monts v. State, 218 Tenn. 31, 400 S.W.2d 722; Patterson v. State, 218 Tenn. 80, 400 S.W.2d 743; Carroll v. State, 212 Tenn. 464, 370 S.W.2d 523; McBee v. State, 213 Tenn. 15, 372 S.W.2d 173; Kirby v. State, 214 Tenn. 296, 379 S.W.2d 780; Gann v. State, 214 Tenn. 711, 383 S.W.2d 32.
+The rule that the credibility of the witnesses and conflicts in the testimony are all settled by the verdict of the jury, “makes unnecessary and, indeed, inappropriate, a detailed discussion of that evidence, pro and con, * * * in stating what we conclude the material facts to be as established by that testimony.” Hargrove v. State, 199 Tenn. 25, 28, 281 S.W.2d 692, 694; Morrison v. State, 217 Tenn. 374, 397 S.W.2d 826, 400 S.W.2d 237.
+The indictment charged the defendant with receiving and concealing a portable record player and a slide projector belonging to the Trinity Methodist Church of Knoxville, knowing the same to have been stolen, and with the intent to deprive the true owner thereof.
+The pastor of Trinity Methodist Church identified the record player and slide projector in court, and testified that this equipment belonged to the Trinity Methodist Church and disappeared when the church was burglarized in September 1966, and that the value of the two items was approximately $130.
+The property in question was found in the defendant’s home in Johnson City, Tennessee by officers armed with a search warrant, the defendant’s objections to which are pretermitted.
+There is not a word of proof in this entire record that the defendant knew that these items were stolen property. One of the officers testified under cross-examination by defense counsel that he was told by an informer that the defendant bought the property at his own home “from two thieves from Knoxville.” The other officer, advised by defense counsel during cross-examination that “I don’t want hearsay,” testified that all he knew about the defendant’s receiving the property was what two unnamed Police Department informers told him. Thus, there is no competent evidence, none whatever, to show where or when the defendant got the property or that he had any knowledge that it had been stolen. Even if it be accepted that he bought it from “two thieves from Knoxville,” this record is devoid of any evidence that he knew or should have known that they were thieves or that they or anyone else had stolen the property, or that he had any intent to deprive the true owner thereof. In the absence of any evidence of such guilty knowledge, which are the vital elements of this offense, this conviction cannot stand.
+The statutes of this State defining and penalizing traffic in stolen goods expressly provide that the crucial and indispensable elements thereof are (1) knowledge that the property was stolen and (2) intent to deprive the true owner thereof. T.C.A. §§ 39-4217, 39-4218, 39-4219.
+In Rice v. State, 50 Tenn. 215, 226, the Court stated these fundamental rules:
+“The. mere receipt of stolen goods, knowing them to be stolen, is not of itself a crime. For such receiving may be for the most honorable purposes. The essence of the offense is, that the receiving of stolen goods knowing them to have been stolen, is accompanied by fraudulent intent to deprive the true owner thereof. This is the offense, and it must be thus charged in the indictment, as it is in this case, and it must be shown in the proof by such circumstances as leave no reasonable doubt of the guilty knowledge. Unless there be evidence showing this knowledge, either direct or circumstantial, the prosecution must fail.”
+And in Williams v. State, 216 Tenn. 89, 390 S.W.2d 234, the Court said:
+“The offense of receiving or concealing stolen property is codified as T.C.A. § 39-4217. The elements of the offense are specified by the statute to be (1) fraudulently receiving, buying, concealing, or aiding in concealing, (2) goods feloniously taken or stolen from another, or goods obtained by robbery or burglary, (3) knowing such goods to have been so obtained, (4) with intent to deprive the owner thereof.
+“In State v. Missio, 105 Tenn. 218, 223, 58 S.W. 216, 217, the Court, in discussing the elements of this offense, stated:
+“ Tt is not necessary to prove who stole the goods, nor the name of the party from whom taken; but it is necessary to prove the ownership, general or special, of some person, and the fact that they have been stolen from the true owner by some one, and have eventually been received by the defendant, knowing them to have been stolen, and with the intent on the part of the defendant to deprive the true owner thereof; and, when the ownership is laid in a certain person, it must be so proven.’ ”
+The same rules were stated in Deerfield v. State, 220 Tenn. 546, 420 S.W.2d 649:
+“For the defendant to be guilty of the crime of receiving stolen property, it is necessary that he be shown to have received from a third party stolen property, knowing it to be stolen, and with the intention of depriving the true owner thereof.”
+The defendant has sustained the burden of demonstrating here that the evidence preponderates against the verdict of the jury and in favor of his innocence. It is, consequently, neither necessary nor proper to consider or discuss the other Assignments of Error. McCroskey v. State, 42 Tenn. 178; Illinois Cent. R. Co. v. Moriarity, 135 Tenn. 446, 461, 186 S.W. 1053; Middle Tennessee R. Co. v. McMillan, 134 Tenn. 490, 516, 184 S.W. 20.
+The judgment of the trial court is reversed and the case is remanded for a new trial.
+GALBREATH, J., did not participate in this case.
+WALKER, P. J., concurs.
