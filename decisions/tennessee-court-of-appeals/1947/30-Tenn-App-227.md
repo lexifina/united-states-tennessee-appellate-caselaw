@@ -1,0 +1,46 @@
+---
+court: "Tennessee Court of Appeals"
+decided: "1947-06-28"
+citations: ["30 Tenn. App. 227", "204 S.W.2d 539"]
+reporter: "tenn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Pelts and Hickerson, JJ., concur."]
+parties: ["NOLES v. WINN OIL CO., Inc., et al."]
+source_url: "https://static.case.law/tenn-app/30/cases/0227-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8511268
+cites_cases: ["118 A. 47", "122 Tenn. 455", "123 S. W. 747", "181 S. W. (2d) 5", "181 Tenn. 246", "27 A. L. R. 976", "97 Conn. 619"]
+---
+
+# Noles v. Winn Oil Co.
+
+## Majority (HOWELL, J.)
+
+HOWELL, J.
+This case grows out of a controversy as to the possession of some property in Fayetteville, Tennessee, belonging to the plaintiff, E. B. Noles, which was leased to the defendant J. H. Winn. This lease was assigned to the Winn Oil Company, Incorporated. The Spur Distributing Company owns a majority of the capital stock of the Winn Oil Company and upon the property is an automobile filling station in which the products of the Spur Company are distributed.
+The suit originated in a Magistrate’s Court by a de-tainer warrant issued at the instance of the plaintiff against the defendants and was taken to the Circuit Court by a writ of certiorari and there tried by the Court and a jury. The trial Judge granted a motion made by the defendants for peremptory instructions in their favor and the suit was dismissed at the cost of plaintiff,
+The case was appealed to this Court by the plaintiff and errors have been assigned.
+It is insisted for the plaintiff in error that the trial Court erred in failing to grant his motion to dismiss the petition for certiorari and supersedeas carrying the case from the Justice of the Peace Court to the Circuit Court. The assignment of error itself does not disclose the grounds upon which it is based but the brief and argument seem to be based upon the theory that the petition for certiorari does not conform to Section 9266 of the Code of Tennessee, showing sufficient merits and the execution of a proper bond. An examination of the petition shows- that it does show merits and the record discloses that a certified check for more than double the amount of one year’s rent, in lieu of bond, was deposited with the Clerk of the Court.
+There is no controversy about the material facts and no disputed facts appear which required submitting the case to the jury.
+The lease in question was dated March 14, 1935, was for a period of five years expiring March 14, 1940, ‘ ‘ subject to renewal as hereinafter set forth,” and Sections Seven and Eight thereof are as follows:
+‘ ‘ 7. Lessee shall have the right and option, by written notice to Lessor given on or before Peb. i4th, 1940, to extend this lease for a further term of Five Years beginning March 15th, 1940, and expiring on March, 14th, 1945, at a rental of One Hundred-twenty, ($120.00) Dollars per year during the period of such extended term, payable on the first day of each year in advance. In all other respects the extended lease shall be upon the terms of this lease.”
+“8. Lessee shall have the right and option, by written notice tp Lessor given on or before Feb. 15th, 1945, to extend this lease for a further tenn of Five Tears beginning March 15th, 1945, and expiring on March 14th, 1950, at a rental of $120.00- One Hundred Twenty, ($120.00) Dollars per year during the period of such extended term, payable on the first day of each year in advance. In all other respects the extended lease shall be upon the terms of this lease. ”
+On January 2, 1940, the defendants gave notice to the plaintiff that they would exercise their option to renew the lease for a period of five years, and an extension agreement was entered into for another term expiring March 14, 1945, “subject to further renewal in accordance with terms of said lease, this renewal in all other -respects to be upon the terms of the original lease.” Bent-was paid according to the terms of the lease.
+On February 22, 1945, the defendants wrote plaintiff that they desired to exercise their option to renew the lease for a further term of five years from March 15, 1945, and enclosed a check for the rent for the year 1945. This check was endorsed by plaintiff and the rent accepted. On January 1, 1946, the defendant sent to plaintiff a check for the rent for 1946 and this check was endorsed by plaintiff and accepted.
+Between June 5, 1946, and September 7, 1946, there was some discussion between the parties about the lease contract but it does not appear that there was any agreement entered into. On September 7, 1946, the plaintiff in error notified the defendants that the lease had expired and asked that possession be surrendered to him on or before January 1, 1947.
+A check for the rent for the year 1947 was sent to the plaintiff on January 1, 1947, and not accepted.
+It is insisted for plaintiff in error that the notice by defendants of February 22, 1945, came too late to be effective to renew the lease for another five years because the contract provided that this notice be given by February 15, 1945. The plaintiff- in error accepted the check for the rent for the year 1945 and also accepted rental paid by defendants for the year 1946, without any objection or notice to the defendants until after June 5, 1946, and then on September 7, 1946, notified defendants that the lease had expired and asked for possession of the property on January 1, 1947. It is insisted for the defendants that having accepted the rental for the years 1945 and 1946, the plaintiff waived the delay from February 15, 1945 to February 22, 1945, in the giving of the notice of the extension by the defendants and is now estopped to question the validity of the extension.
+Section 980, Vol. 32, American Jurisprudence, on page 823, is in part as follows: “Waiver as to Mode or Time of Notice. — It is well settled that the lessor may waive the requirement in a lease of notice by the lessee of renewal at or within a certain time. As a general rule, it seems that the lessor’s acceptance, without objection, and his acting upon a notice not given within the required time constitute a waiver. A waiver will be implied where the lessee remains in possession and pays the rent to the lessor.”
+The cases upon the subject of waiver of notice and es-toppel are fully annotated in the case of Fountain v. Stein, 97 Conn. 619, 118 A. 47, 27 A. L. R. 976, on page 993.
+We are of the opinion that when the plaintiff in error accepted the notice and check of the defendant on February 22,1945, without any objection that it came too late and should have been given by February 15, 1945, and again accepted the rent upon the property for the year 1946, he waived the few days delay in giving the notice of the extension as provided in the lease.
+It is also insisted for the plaintiff in error that there was no agreement in writing extending the lease from March 14, 1945, for another five years. Under the terms of the original lease we do not think a written agreement for its extension was necessary. The lease does not require an extension agreement in writing.
+In the case of Womble v. Walker, 181 Tenn. 246, on page 255, 181 S. W. (2d) 5, on page 8, the Supreme Court said:
+“Generally speaking, the word ‘renewal’ with reference to a lease implies the execution of a new lease; but the word is not a technical one and is frequently used as synonymous with ‘ extension, ’ and the tendency of the courts seems to be to disregard any distinction between them. 32 Am. Jur., ‘Landlord & Tenant,’ sec. 956; 35 C. J., ‘Landlord & Tenant,’ sec. 175.
+“ ‘And our supreme court in Carhart v. White [Mantel & Tile Co.], 122 Tenn. 455, 461, 123 S. W. 747 [19] Ann. Cas. 396, quotes with approval from Underhill on Landlord & Tenant (Ed. 1909), sec. 803, as follows:
+“ ‘ “So where a lease gives a lessee a renewal at his election, and he elects to continue, a present demise is created, which is subject to all the conditions and covenants of his former lease, and it is not necessary that a new lease shall be executed. In the absence of an express provision that a new lease is intended to be executed, the presumption is that no new lease is intended, but that the lessee is to continue to hold under the original lease. . . . The reason for the presumption is the fact that the making of a new lease would involve trouble and expense, which should be avoided by the courts if possible unless it is very clear that the parties have previously agreed to incur such trouble and expense. For, if the new lease, as is always the case, when executed, is hut a substitute for, and a re-execution of, the old lease, it is in no wise more efficacious or obligatory, nor does it confer any greater rights than the old.” ’ ”
+Other questions raised by assignments of error, and briefs and argument of counsel need not be discussed.
+The assignments of error are overruled and the judgment of the Circuit Court is affirmed. The case will be remanded to the trial court for the payment of any rent that may be due the plaintiff in error.
+The plaintiff in error and the surety on the appeal bond will pay the costs.
+Affirmed and remanded.
+Pelts and Hickerson, JJ., concur.
