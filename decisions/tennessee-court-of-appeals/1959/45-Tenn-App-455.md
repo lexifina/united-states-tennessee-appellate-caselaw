@@ -1,0 +1,33 @@
+---
+court: "Tennessee Court of Appeals"
+decided: "1959-11-07"
+citations: ["45 Tenn. App. 455", "325 S.W.2d 286"]
+reporter: "tenn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hale and Howard, JJ., concur."]
+parties: ["OLIVER KEENE v. FLOYD WILKERSON."]
+source_url: "https://static.case.law/tenn-app/45/cases/0455-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8509040
+cites_cases: ["112 Tenn. 271", "195 Tenn. 383", "25 Tenn. App. 355", "259 S. W. (2d) 862", "79 S. W. 376"]
+---
+
+# Keene v. Wilkerson
+
+## Majority (McAMIS, P. J.)
+
+McAMIS, P. J.
+This is a suit upon a judgment rendered by the Circuit Court of Russell County, Yirginia, on September 23, 1952, against Floyd "Wilkerson of Martel, Tennessee. The principal question is -whether the Floyd Wilkerson served with process in this case is the same Floyd Wilkerson to whom the Secretary of State of Yirginia mailed notice of the suit in Yirginia and against whom the judgment in Yirginia was rendered.
+The question arises out of the following unique circumstances :
+Floyd Wilson Wilkerson is the father of Floyd Woodrow Wilkerson. Both maintained separate residences and both received their mail at Martel, Tennessee, at the time in question. On August 2, 1951, the son while operating a truck, which he testified did not belong to him, on a highway in Yirginia, collided with a truck owned by Oliver Keene, the complainant in this case, causing the damages for which Keene sued and recovered a judgment for $1,200 in the Circuit Court of Russell County, Yirginia. As we understand, statutes of Yirginia designate the Secretary of State of Virginia as the agent of non-residents who use the highways of Yirginia and provide for service of process on him as agent of such non-residents.
+Suit having been instituted and process served as provided by statute, the Secretary of State of Virginia, on July 23, 1952, mailed by registered mail a copy of the Virginia process along with notice that such process had been left with him to Floyd Wilkerson, Martel, Tennessee.
+The father Floyd Wilson Wilkerson testified in this case that he received the letter with enclosures from the Secretary of State around July 25, 1952, but tbat be tbougbt it was something connected with another son, M. L. Wilkerson; that he filed it in a drawer and left it there without telling anyone anything about it until after this suit was instituted on November 25, 1953, when he turned it over to his son’s attorney. He further testified that he was never in Virginia until after the accident. The son, Floyd Woodrow Wilkerson, testified that he knew nothing of the suit in Virginia or of the letter until after this suit was instituted. According to his testimony he then employed a lawyer and filed an answer in this case under the name “Floyd Wilkerson” in which he attacked the Virginia judgment as void for lack of notice and process.
+As to the service of process in this present ease, the elder Wilkerson testified that when Deputy Sheriff Allen appeared at his home and stated that he had a summons to serve upon him he explained to the officer that he had never been in Virginia and that the summons must have been intended for his son who was also named Floyd and that the officer left without serving the summons. On complainant’s objection this evidence was excluded as an attempt to impeach and contradict an officer’s return. The officer did not testify but the son testified the subpoena to answer was served upon him by Deputy Sheriff S. 0. Allen. The return reads:
+“Game to hand 25 day of November, 1953, executed as commanded, and left a copy of the bill with Floyd Wilkerson and a copy of this Subpoena with each adult defendant. This 3 day of December, 1953. S. 0. Allen, D. Sheriff.”
+The Chancellor sustained complainant’s objection when Floyd Woodrow Wilkerson testified that he is the defendant in this case.
+The Virginia judgment, a duly certified copy of which is attached to the bill as an exhibit, is against “Floyd Wilkerson”, the same name appearing in the officer’s return. The able Chancellor, following the general rule that a defendant may not impeach an officer’s return showing process upon him, his sole remedy being against the officer and his sureties for making a false return, excluded evidence that process was not served upon Floyd Wilson Wilkerson, the father, and that the son was the real defendant. Under the Chancellor’s holding this left the father who had filed no answer and who admitted receiving the notice of the Virginia suit as the real defendant. The suit was dismissed as to him, however, because he had filed no answer and no judgment pro confesso had been taken against him.
+As we view it, the question is not whether the subpoena to answer was served. There is no dispute that it was served either upon Floyd Wilson Wilkerson or upon Floyd Woodrow Wilkerson. The question is the identity of the person served. This question can not be resolved from an examination of the return because the undisputed proof is that there are two Floyd Wilkersons, the name appearing in the return of the officer. One of them is a stranger to this proceeding*, the other is the real defendant. The name appearing in the officer’s return is as applicable to one as to the other. The parol evidence offered and excluded by the Chancellor was designed to explain and apply the return to the person actually served as well as to identify the one who is a stranger to the case. We think it was competent. 72 C. J. S. Process, sec. 101, p. 1142; 42 Am. Jur. 18, Process, Sections 17 and 128.
+Because of the exclusion of this evidence, the issue of the identity of the defendant was not developed and we are deprived of the benefit of a finding by the Chancellor on this vital issue. And, while a decree might be rendered against Floyd Wilson Wilkerson without a judgment pro confesso, Sewell v. Tuthill & Pattison, 112 Tenn. 271, 79 S. W. 376; Henry v. White, 195 Tenn. 383, 259 S. W. (2d) 862; Grace v. Johnson, 25 Tenn. App. 355, 157 S. W. (2d) 848, his identity as the person served with process should first be established. It is also proper to note that there is no evidence as to who owned the offending truck or excluding the possibility that it was being operated by the son as agent of the father. In the interest of justice the case will be remanded for a full development of all the issues in the case.
+Costs of appeal will be equally divided. Costs below will abide the final result.
+Hale and Howard, JJ., concur.
