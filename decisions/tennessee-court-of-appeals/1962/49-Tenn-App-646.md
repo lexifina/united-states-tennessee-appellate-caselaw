@@ -1,0 +1,50 @@
+---
+court: "Tennessee Court of Appeals"
+decided: "1962-03-02"
+citations: ["49 Tenn. App. 646", "358 S.W.2d 477"]
+reporter: "tenn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Humphreys, J., and Crownover, Special Judge, concur."]
+parties: ["MRS. MILDRED DRIVER, Register of Trousdale County, Tennessee, et al., v. TOM PRICE THOMPSON, County Judge of Trousdale County, Tennessee."]
+source_url: "https://static.case.law/tenn-app/49/cases/0646-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8509043
+cites_cases: ["152 Tenn. 555", "154 Tenn. 576", "280 S. W. 24", "290 S. W. 2", "43 Tenn. App. 489"]
+---
+
+# Driver v. Thompson
+
+## Majority (SHRIVER, J.)
+
+SHRIVER, J.
+The bill in this canse was filed by Mrs. Mildred Driver, Register of Trousdale County, and James A. Donoho and Russell Wright, practicing attorneys of said County, against Tom Price Thompson, County Judge, seeking an injunction to restrain him from tearing out the walls and changing vault door in the Register’s Office, or having same done, and from interfering with the County Register’s occupancy of said office.
+An answer was filed and the cause was heard before Chancellor A. P. Officer on the pleadings, depositions of witnesses and arguments of counsel and resulted in an opinion, which is made a part of the record, and a decree granting the injunction as prayed.
+From this decree the defendant has perfected his appeal and has assigned errors.
+The bill avers and the proof shows that the defendant County Judge occupies an office adjoining the Register’s Office in the Courthouse at Hartsville, Tennessee, which office is approximately 11 feet wide and 18 feet long and is the same office that has been used by the County Judge of that County for many years.
+The Register’s Office is approximately 15 feet wide and 24 feet long and has a built-in vault with the door of the same opening into said office. The customary records of the County Register’s Office are kept in this vault and two tables are provided in the office where lawyers and others interested in examining these records can place the large books in which the deeds and other papers are registered, and it is shown that the office of the Register is barely large enough to accommodate these records and the people who go there to examine them.
+The County Judge found that he needed more space in which to conduct the affairs of his office, so he suggested to the Register that they exchange offices, but Mrs. Driver, the Register, stated to him that her office was already too small and that the office occupied presently by the County Judge would be entirely inadequate for the needs of the Register’s Office and, therefore, declined to agree to the exchange of offices. However, subsequently, the County Judge informed the Register that he intended to make the change. He said he had consulted the Sheriff of the County, who is custodian of the Courthouse, and that the Sheriff had told him to go ahead with his plans. Soon thereafter workmen were employed and on Monday after the August election last year began to cut a hole in the wall of the Register’s Office in order to change the vault door so as to make it open into the other office. Thereupon, the two complainant attorneys, Donoho and Wright, filed the bill on behalf of themselves and Mrs. Driver and obtained a temporary injunction which, as hereinabove stated, was made permanent at the hearing.
+There is proof to the effect that the present Register’s Office is scarcely large enough to take care of the records and provide reasonable working space for the Register and for attorneys and others who use the office to search titles and do other such work.
+On the other hand, it is also shown that the quarters of the County Judge are rather inadequate and he, no doubt, justifiably feels that he needs additional space including a private office. It was Ms purpose, therefore, to force Mrs. Driver to occupy the office now occupied by him and to cause the vault door to be changed so as to open into the office, and to put a partition in the office now used by the County Register so as to provide a reception room and private office for his use.
+It is the insistence of counsel for defendant that the Sheriff of each county, where' a paid custodian is not employed, is the custodian of the Courthouse and that he has authority to direct the repair and renovation of the various offices in the Courthouse as outlined in Sections 5-707 and 5-708, T.C.A.
+As stated in the brief of the defendant,
+“The Appellant, Tom Price Thompson, takes the position that by obtaining the authorization of the then Sheriff of Trousdale County, Claude Kerr, he had a right to make the proposed changes in the offices of the County Judge and County Register so as to provide adequate room for the records of the County Register and also enlarge his own office so as to provide a reception room and a private office for the transaction of official county business.”
+It is further insisted that a preponderance of the evidence shows that the present office of the appellant is a small cramped office without a reception room or private office and that it is inconvenient for persons having business with the County Judge to wait in the lobby of the Courthouse, as they now have to do, and that the office now occupied by him is adequate for the use of the County Register.
+As is stated in the brief of counsel for the complainants, the Chancellor’s memorandum is addressed only to the proposition whether or not the Sheriff of Trous-dale County, is authorized and empowered under the law to order such change in the structure of the Courthouse as is contemplated by the County Judge.
+The Chancellor held that the matter addressed itself to the discretion of the Quarterly County Court and not to the Sheriff and decreed that the injunction be made permanent unless and until the Quarterly County Court passed on the matter and ordered to the contrary.
+With this position we thoroughly agree.
+Section 5-707, T.C.A., provides that the Quarterly County Court is authorized but not required to employ a competent person to superintend the construction and repair of such county building, bridges, levees, etc., as may be necessary.
+Section 5-708, provides as follows:
+“The sheriff has charge of the courthouse, unless some other person is specially appointed by the court for that purpose, and shall prevent trespasses, exclude intruders, and keep it and the grounds attached thereto in order, reporting from time to time the repairs required, and the expense, to the county court. (Code 1858, sec. 413; Shan., sec. 505; Code 1932, sec. 757.)”
+Learned counsel failed to take note of Section 5-706, T. C. A. which is as follows:
+“County expense — Tax levy. — The county buildings are to be erected and kept in order and repair at the expense of the comity, under the direction of the comity court, and it may levy a special tax for the purpose. (Code 1858, sec. 411; Shan., sec. 503; Code 1932, sec. 755.)”
+When these sections of the Code are read together it seems perfectly clear that the Sheriff, as custodian of the Courthouse, is a mere agent or administrator of the County Court and must report from time to time to the County Court such repairs as are required, and this implies that he must get the authorization of the County Court for any major repairs that are required to be made. There is neither express nor implied authority for the Sheriff to dictate to the other elected officials of the County what space they shall occupy in the Courthouse and other such matters affecting them in the discharge of their official duties. This is peculiarly a function of the Quarterly County Court as to matters in its jurisdiction.
+In the recent ease of Rutherford County v. City of Murfreesboro, 43 Tenn. App. 489, 309 S. W. (2d) 778, this Court reviewed the statutes and authorities dealing with the title to and custody of county property, including the Courthouse, and, in the course of the opinion, held as follows:
+“Under a number of authorities in Tennessee, it is generally held that the Quarterly County Court cannot delegate its authority in such matters as the appropriation of money, the disposition of property etc. For instance in Hickman County v. Nashville Bridge Co., 6 Cir., F. (2d) 174, it was held that the vesting of power in the County Courts to enter into contracts for the construction of bridges did not authorize delegation of such power to a committee and further that, generally, where a governing body of a county is given authority to exercise corporate powers, such powers cannot be delegated, but only ministerial acts of carrying out the details of such matters may be delegated.”
+As was said in Cannon County v. McConnel, 152 Tenn. 555, 280 S. W. 24,
+“Counties in Tennessee are corporations, and the justices of the peace, assembled in county court, are their representatives, and authorized to act for them. They are vested with the power to acquire property for county purposes, and the grants and conveyances therefor are required to be made to the county acquiring the same.”
+And in Henry v. Grainger County, 154 Tenn. 576, 290 S. W. 2, 3, in an opinion by Mr. Chief Justice Green, it was pointed out that county buildings and their equipment are public property held by the county in trust for the public use and that the same rule should be applied to the disposition of the courthouse yard, as to the space within the courthouse, and, in effect, held that same was under the jurisdiction of the Quarterly Court as the representative agency of the County at large.
+As was said in that case, any rule other than the one we declare would lead to entanglements and abuses against which the public should be protected as a matter of public policy.
+The Chancellor was correct in his conclusions and we, therefore, affirm his decree at the cost of the defendant.
+Affirmed.
+Humphreys, J., and Crownover, Special Judge, concur.
