@@ -1,0 +1,46 @@
+---
+court: "Tennessee Court of Appeals"
+decided: "1962-03-23"
+citations: ["51 Tenn. App. 205", "366 S.W.2d 141"]
+reporter: "tenn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Avery, (P. J. ~W... S.), and Bejaeh, J., concur."]
+parties: ["LOUISE M. JOHNSON, Appellant, v. KING R. JOHNSON, Appellee."]
+source_url: "https://static.case.law/tenn-app/51/cases/0205-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4790487
+cites_cases: ["15 Tenn. App. 287"]
+---
+
+# Johnson v. Johnson
+
+## Majority (CARNEY, J.)
+
+CARNEY, J.
+The petitioner below, Louise M. Johnson, has appealed from a decree of the Circuit Court of Shelby County refusing to modify a former decree of the Court so as to award the appellant an interest in appellee’s real estate in lieu of the weekly payments of $25.00 previously allowed as alimony and child support.
+His Honor the Trial Judge held that he had no authority under the law to make such a modification.
+On November 10, 1960, the petitioner, Mrs. Louise M. Johnson, was awarded an absolute divorce from the defendant-appellee, King R. Johnson; was awarded the custody of their minor child; and the husband was ordered to pay $25.00 per week as alimony and child support. In addition the petitioner, the wife, was awarded the full interest of her then husband, King R. Johnson, in their residence and furnishings which they owned as tenants by the entireties.
+On or about February 10, 1961, the appellant filed the present petition in the Circuit Court averring that her former husband was in arrears with the alimony payments in the amount of $150.00 and in contempt of court. She further averred that her husband was the owner of a remainder interest in real estate located in Dyer County, Tennessee, subject only to a life estate of his mother, Mrs. Bertha Johnson; that the defendant had remarried; was not gainfully employed and was willfully refusing employment in order to avoid the weekly payments of alimony. Petitioner prayed that the defendant be ordered to convey to the petitioner such portion of his interest in the real estate as the court should determine' to be proper in lieu of the monthly payments of alimony.
+The husband was cited for contempt and he answered denying the same but averring that he was looking for employment and would pay the alimony and child support as soon as he was able to do so. He further answered that the interest in the real estate under his grandfather’s will was contingent upon his surviving his mother and a copy of the will was filed as an exhibit to the answer. The defendant expressly stated that he received no income from the real estate and would not be entitled to any so long as his mother the life tenant, lived.
+Upon the hearing His Honor the Trial Judge rendered judgment for the $150.00 which the defendant owed as back alimony; dismissed the citation for contempt; and expressly held that the court was without jurisdiction to modify the decrees for divorce, alimony and child support so as to award the petitioner an interest in defendant’s real estate in lieu of further installments of alimony. The court expressly refused to hear any proof regarding the necessity or propriety of making such a modification.
+The appellant cites and relies upon the following quotation from the case of Cullins v. Cullins, 15 Tenn. App. 287:
+“It was well settled in this State that where a decree of divorce and alimony expressly retains the case for such future orders as the Court may deem proper to make with respect to the payment of alimony, the Court does not lose control of the cause and may thereafter modify the decree or attach the defendant for contempt in refusing to pay the alimony, or both * * * and the Court may make all such readjustments of the rights of the parties as might thereafter appear to be proper. ’ ’
+T.C.A. sec. 36-820 provides as follows-:
+“36-820. Alimony for support of wife and children.—Whether, the marriage be dissolved absolutely, or a perpetual or temporary separation be decreed, the court may make an order and decree for the suitable support and maintenance of the complainant and her children, or any of them, by the husband, or out of his property, according to the-nature of the case and the circumstances of the parties, the order or decree to remain in the court’s control; and, on application of either party', the court may decree an increase or decrease of such allowance on cause being shown. Courts having jurisdiction of the subject-matter and of the parties are hereby expressly authorized' to provide for the future support of wives and children, in proper cases, by fixing some definite amount or amounts to be paid in monthly, semimonthly, or weekly instalments, dr dtherwise, as circumstances may warrant, and such awards, if not paid,, may be enforced by any appropriate process of the court having jurisdiction thereof, including levy of execution. The order or decree of the court may provide that the payments for the support of such child or children shall be paid either to the clerk of the court or direct to the mother or other person awarded the custody of said child or children. [Code 1858 sec. 2468 (deriv. Acts 1835-1836, ch. 26, secs. 10,19); Shan., sec. 4221; mod. Code 1932,’sec. 8446; Acts 1949, ch. 53, sec. 1; mod. C. Supp. 1950, sec. 8446.]”
+T.C.A. sec. 36-821 provides as follows:
+“36-821. Portion of husband’s estate decreed to wife.—In such case, the court may decree to the wife such part of the husband’s real and personal estate as it may think proper. In. doing so, the court may have reference and look, to the property which the husband received by his wife at the time of the marriage, or afterwards, as well as to the separate property secured to her by marriage contract or otherwise. [Code 1858 sec. 2469 (deriv. Acts 1841-1842, ch. 133, sec. 2); Shan., sec. 4222; Code 1932, sec. 8447.]”
+Apparently there have been.no amendments to Section 36-821 since it was codified in 1858.
+On the other hand, T.C.A. sec. 36-820 is the result of two amendments to Section 2468 of the Code of 1858.
+Section 2468 of the Code of 1858 reads as follows:
+‘ ‘ Alimony for support of wife and children.— Whether the marriage be dissolved absolutely, or a perpetual or temporary separation be decreed, the court may make an'order and decree for the suitable support and maintenánce of the complainant and her children, or any of them by the husband, or out of his property, according to the nature of the case and the circumstances of the parties. ”
+Section 2468 was carried into the Code of 1932 as Section 8446 and provided as follows: , .
+“Alimony for support of wife and children.— Whether the marriage be dissolved absolutely, or a perpetual or temporary separation be decreed, the court may make an order and decree for the suitable .support and maintenance of the complainant and her children, or any of them, by the husband, or out of his property, according to the nature of the case and the circumstances of the parties, the order or decree to remain in the court’s control; and, on application of either party, the court may decree an increase or decrease of such allowance on cause being shown.”
+Section 8446 of the Code of 1932 (later T.C.A. sec. 36-820) was amended by the Acts of 1949 and was carried into the Supplement of the Code of 1950 as Section 8446.
+T.C.A. sec. 36-820 and T.C.A. sec. 36-821 were codified in their present form into the new Tennessee Code Annotated by the Acts of 1955 effective January 1, 1956.
+Apparently the question presented on this appeal has never been determined or treated in any of our reported cases, The language of T.C.A. sec. 36-820 relating to increases and decreases in allowances for alimony and child support refers only to allowances of money and does not contemplate the further award of the husband’s property in solido after a decree of absolute divorce.
+T.C.A. sec. 36-821 relating to the award of a portion of the husband’s property to his wife antedates the amendments to 36-820 providing for increases or decreases in allowances. The Legislature has not seen fit to amend T.C.A. sec. 36-821 so as to provide that after a divorce decree the Court may make further awards of the husband’s property to the former wife and we do not think the Court should make such amendment by judicial decree.
+We are of opinion that His Honor the Trial Judge correctly held that he was without authority to award any part of the defendant’s alleged interest in the real estate in Dyer County to the petitioner in lieu of monthly payments of alimony.
+We have not considered the right of a court under its general equity jurisdiction to vest a portion of the father’s interest in property directly in the child in lieu of monthly payments- of child support because the question was not directly presented on this appeal. This opinion deals solely with the question of the right of the court after absolute divorce to divest the husband of title to property and vest the same in the former wife in lieu of monthly payments of alimony.
+The decree of the lower court will be affirmed and the appeal dismissed at the cost of the appellant.
+Avery, (P. J. ~W... S.), and Bejaeh, J., concur.
