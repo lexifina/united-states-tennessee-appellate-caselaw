@@ -1,0 +1,67 @@
+---
+court: "Tennessee Court of Appeals"
+decided: "1941-04-19"
+citations: ["25 Tenn. App. 144", "153 S.W.2d 135"]
+reporter: "tenn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Pelts and Howell, JJ., concur."]
+parties: ["BAIRD v. McDANIEL PRINTING CO., Inc., et al."]
+source_url: "https://static.case.law/tenn-app/25/cases/0144-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8511696
+cites_cases: ["12 S. W., 1030", "129 Tenn., 24", "138 Tenn., 77", "141 Tenn., 1", "151 Tenn., 239", "164 S. W., 775", "17 Am. St. Rep., 910", "195 S. W., 775", "206 S. W., 31", "22 Tenn. App., 681", "23 S. W., 113", "269 S. W., 4", "269 U. S., 572", "40 A. L. R., 1483", "46 S. Ct., 100", "7 L. R. A., 706", "70 L. Ed., 418", "88 Tenn., 476", "9 Tenn. App., 256", "98 Tenn., 161"]
+---
+
+# Baird v. McDaniel Printing Co.
+
+## Majority (CROWNOVER, P. J.)
+
+CROWNOVER, P. J.
+This is a suit on a note given by a corporation in purchase of its own stock.
+The McDaniel Printing Company, Inc., is a Tennessee corporation with a capital stock of $3,000. The stockholders were D. J. McDaniel, Sr., D. J. McDaniel, Jr., and Gordon Baird, each of whom owned ten shares of the par value of $100 a share. The three stockholders later disagreed and Baird wished to withdraw from the corporation. The corporation purchased his stock, giving him a note for $1,000, on which it paid $30. D. J. McDaniel, Sr., signed the note as joint maker.
+The original bill in this cause was filed by Baird to collect the note, and also filed as a general creditors’ bill praying for the appointment of a receiver for the corporation, etc.
+The complainant later filed an amended bill also suing the corporation for $152 salary.
+The defendant Company answered and admitted the purchase of the stock and the execution'of the note, and alleged that the purchase of> this stock rendered the Company technically insolvent, but denied that it was insolvent to the extent that a receiver should be appointed and denied that it had committed any overt act of insolvency, and insisted that it is a going concern. It filed its answer as a cross-bill and asked for the rescission of the contract of purchase and that the note be cancelled.
+D. J. McDaniel, Sr.,' answered and denied that he was indebted to Baird and alleged that he excuted- the note but received nothing in consideration thereof and that the note was unenforceable against him.
+The complainant Baird answered the cross-bill and later filed another amended and supplemental bill and denied that the execution of the note was illegal. He alleged that an agreement was entered into between him and the two McDaniels that he would subscribe for ten shares of stock, paying $1,000 cash for same, and that he should be an officer of the corporation at a salary of $30 a week; that after he had paid the $1,000 the two McDaniels had undertaken to “squeeze” him out of the corporation; that an agreement was then entered into between them that the Company would buy his stock; that he would resign as an officer of the Company; and that he would compromise, as to the amount of salary due him; that as the result of this agreement the note in question was executed, he agreed to accept $100 in payment of salary due him, and withdrew from the corporation. He contended that it would now be unconscionable for him to be denied a recovery on his note and at the same time be deprived of his employment and salary and a voice in the affairs of the Company. He pleaded that the Company was estopped to contend that the note was invalid. He prayed that in the event the court should deny recovery on this $1,000 note he have a recovery on a quantum meruit or quantum valebant for the balance of his salary.
+The Chancellor ordered a reference to the Master to take proof and report: (1) Whether Baird was a creditor of the corporation, and if so iii what amount and in what character. (2) Whether the corporation was insolvent and had committed any overt act of insolvency.
+The Clerk and Master reported: (1) That the claim of the complainant Baird on the note should be disallowed, as, at the time of the purchase of the stock, the liabilities of the Company exceeded its assets, therefore the purchase was unauthorized. (2) That the Company had breached its agreement as to Baird’s salary, therefore he was entitled to collect the full amount of salary due, which was $152. (3) That the Company was insolvent but had committed no such acts of insolvency as would enable the bill to be sustained as a general creditors’ bill.
+The Chancellor confirmed the report of the Clerk and Master and decreed that the complainant was not entitled to recover on the note sued on in this cause, but should recover of the defendant Company the sum of $159. But the Chancellor did not restore him to his office or allow him wages after he resigned.
+To all of said decree except that part which renders judgment in favor of complainant for $159, the complainant excepted and prayed an appeal to this court.
+To the action of the court in entering decree against it for $159, the defendant Printing Company excepted and prayed an appeal to this court.
+But only the complainant perfected his appeal.
+The complainant has assigned in this court errors, which are, in substance, as follows:
+(1) The Chancellor erred in holding and decreeing that the purchase of the stock by the corporation was illegal and void.
+(2) The Chancellor erred in failing to hold that the defendants were estopped to assert that the transaction was invalid.
+(3) The Chancellor erred in not restoring complainant to his positions as vice-president and treasurer and in not allowing him his salary from the time he resigned to the present.
+The essential facts as disclosed by the record are as follows:
+D. J. McDaniel, Sr., and his son, D. J. McDaniel, Jr., were engaged in the business of job printing, under the name of the McDaniel Printing Company.
+In January, 1939, they entered into an agreement with Gordon Baird to organize a corporation to engage in such business. It was agreed that the corporation should have a capital stock of $3,000, 30 shares of stock of the par value of $100 each; that Baird should subscribe for ten shares for which he should pay $1,000 cash; that D. J. McDaniel, Sr.,'should transfer to the corporation his printing equipment, accounts receivable and the good will of his Company, all of the appraised value of $5,085.34, for which ten shares of stock should be issued to him and ten shares to D. J. McDaniel, Jr., and the corporation should execute its note, payable to him, for $3,085.34. It was a part of the agreement that D. J. McDaniel, Sr., should be the president and general manager of the corporation, that D. J. McDaniel, Jr., should be the secretary and salesman, and that Baird should be the 'vice-president, treasurer, and production manager at a salary of $30 a week.
+The corporation was organized and the stock issued, Baird paying $1,000 cash for his stock.
+After about sixty days friction and discord developed between Baird and the McDaniels.
+Baird testified that McDaniel, Sr., failed to turn over to the Company all accounts receivable and that some of the accounts on the books were applied in payment of the McDaniels’ personal accounts with such firms.
+The McDaniels testified that Baird’s work was unsatisfactory; that he did not know how to operate presses and linotype machines, and the printing was not true to color and was smeared.
+On August 31, 1939, the McDaniels’ attorney submitted to Baird a proposition to withdraw from the Company. They offered to purchase his stock in the name of the corporation for which a note for $1,000 should be executed, and to pay him $100 in full settlement of his past due salary to that date, which amounted to $235.
+It was agreed that the $1,000 note should have precedence of McDaniel, Sr. ’s note for $3,0854.34.
+And it was a part of this agreement that Baird should resign as officer and director and withdraw from the Company.
+Baird agreed to the proposition, and the note herein sued on was executed in the name of the corporation and signed by the corporation by D. J. McDaniel, Sr., president. D. J. McDaniel, Sr., joined in the execution of the note as joint maker.
+A separate written agreement was entered into by which Baird agreed to accept $100 in settlement of all claims on account of salary up to that date, $50 to be paid in cash and $50 on September 6, 1939.
+The sum of $30 has been paid on the note and $83 on the salary. Nothing further has been paid on this indebtedness.
+1 & 2. Code, sec. 3722, subsec. 9, provides .that no corporation shall purchase its own shares of capital stock except from the surplus of its assets over its liabilities including capital.
+There is a distinction between a corporate transaction that is illegal (forbidden by statute) and one that is ultra vires. Corporate transactions which are illegal because prohibited by statute are void, and cannot support an action nor become enforceable by performance, ratification, or estoppel. 14A C. J., 309, 310, sec. 2158; 19 C. J. S., Corporations, 421, 422, sec. 966; Eastern Products Corporation v. Tennessee Coal, Iron & R. Co., 151 Tenn., 239, 269 S. W., 4, 40 A. L. R., 1483, certiorari denied, 269 U. S., 572, 46 S. Ct., 100, 70 L. Ed., 418; Cummins v. McCoy, 22 Tenn. App., 681, 125 S. W. (2d), 509; State ex rel. v. American Sav. Bank & Trust Co., 9 Tenn. App., 256.
+Tennessee follows tlie English rule that a corporation cannot buy its own stock, and has no power to reduce the capital stock by purchase of its own shares (except as now authorized by statute). A purchase' of its own shares is ultra vires and illegal. Vartanian on Tennessee Corporations, see. 82; Cartwright v. Dickinson, 88 Tenn., 476, 12 S. W., 1030, 7 L. R. A., 706, 17 Am. St. Rep., 910; Civil Service Investment Association v. Thomas, 138 Tenn., 77, 195 S. W., 775.
+The amount paid for the purchase of its own stock may be recovered. Whaley v. King, 141 Tenn., 1, 206 S. W., 31.
+This rule in Tennessee has been modified by statute, (Acts of 1929, Chapter 90, sec. 12, Code, sec. 3722, subsee. 9), so as to permit corporations to purchase their own stock with their surplus, as above stated.
+Where the transaction is illegal and void the principal is not bound and the surety or comaker will also be relieved. Pingrey on Suretyship, (2 Ed.), secs. 30, 135.
+A court of equity, upon a bill filed by a corporation, will rescind a contract still executory, where the same is against a statutory inhibition. 14A C. J., 310, sec. 2158, 19 C. J. S., Corporations, sec. 966.
+Hence we hold that assignments numbers one and two are not well made and must be overruled.
+3. We think that the third assignment should be sustained, and that the complainant should be restored to his positions as vice-president, treasurer, and production manager, and that he is entitled to his salary of $30 a week from April 12, 1940, the date when he filed his amended and supplemental bill, to the present.
+When the court orders a contract rescinded at the instance of one of the parties, the law requires that the parties be put in statu quo. The court will not grant to a party rescission of so much of the contract as militates against his interest and allow him to retain the benefit of that portion which inures to his benefit or profit. 24 Am. & Eng. Ency. of Law (2 Ed.), 624; 13 Michie’s Digest of Tennessee (2 Ed.), 491.
+“A court of equity, in decreeing the rescission or. cancellation of a contract, applies the familiar rule that when a court of equity obtains jurisdiction, it will proceed to administer full equity, and adjust the rights of all the parties, and give complete relief.” 18 Ency. of Pleading & Practice, 857.
+‘ ‘ The court in 'decreeing the rescission or cancellation of a contract must, as a general rule, set aside the contract in toto or not at all. In granting such relief the court requires equity at the hands of the complaining party as well as from the defendant, and will not treat the contract as valid in part and invalid 'in part, but will place the parties in statu quo by requiring the plaintiff to restore to the defendant everything of value which the plaintiff has received under the contract.” 18 Ency. of Pleading & Practice, 858.
+We think the complainant is entitled to his salary from the date that he filed his said amended.and supplemental bill to the present, less whatever salary or wages he earned in other employment, or might have earned by due diligence, during said time. Allen v. Maronne, 98 Tenn., 161, 23 S. W., 113; Menihan Co. v. Hopkins, 129 Tenn., 24, 164 S. W., 775, Ann. Cas., 1916A, 470.
+The complainant is not entitled to his salary from the time that he resigned as an officer of the Company up until the defendants repudiated the note and the complainant expressed a desire that his status quo be restored.
+The cause will be remanded to the Chancery Court of Davidson County for a reference to the Master to take proof and ascertain the balance of salary that is due the complainant, after deducting that earned by him at other employment after he filed said amended and supplemental bill, or should have earned by the exercise of due diligence, as hereinabove set out.
+The costs of the cause that accrued in the lower court, including the costs of the appeal, will be adjudged against the defendants.
+Pelts and Howell, JJ., concur.
