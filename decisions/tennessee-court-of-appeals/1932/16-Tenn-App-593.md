@@ -1,0 +1,31 @@
+---
+court: "Tennessee Court of Appeals"
+decided: "1932-02-08"
+citations: ["16 Tenn. App. 593"]
+reporter: "tenn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Portrum and Thompson, JJ., concur."]
+parties: ["HINKLE v. SMITH et al., and three other cases."]
+source_url: "https://static.case.law/tenn-app/16/cases/0593-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8511272
+cites_cases: ["100 S. W., 700", "117 Tenn., 601", "7 Lea, 374", "9 L. R. A. (N. S.), 298"]
+---
+
+# Hinkle v. Smith
+
+## Majority (SNODGRASS., J.)
+
+SNODGRASS., J.
+These four causes were heard together before his honor, Judge Vines, and a jury, resulting in a directed verdict in favor of defendant' Guy L. Smith and a jury verdict finding in favor of the defendant Appalachian Publishers, Inc.
+After the motion by plaintiffs for a new trial had been made and overruled, they appealed in error to this court, and have assigned errors. The causes originated in an automobile accident which occurred on the late afternoon of the 4th of March, 1931, on or near the paved highway between Johnson City and Elizabethton, Tennessee, at the junction of the paved highway with the rocked county road leading off to Smallings.
+A map illustrative of the situation and place of the accident is filed in the record as Exhibit No. 1 to the testimony of J. C. McCready.
+The plaintiff W. F. Hinkle, with three of his grandchildren in his automobile, was driving from the direction of Johnson City towards Elizabethton on the Glanstoff highway on the day of the accident, intending to cross to his left and enter the said rocked road, which it seems led to or in the direction of his premises. We think the proof shows without contradiction, when properly reconciled, that he had reached the junction of this road; that his car had left the paved highway when the accident occurred; that the car driven by one Duckworth from the direction of Elizabethton to Johnson City at a high rate of speed was negligently permitted without any necessity therefor to leave the paved highway, veering too far to Duckworth’s right, so as to strike the plaintiff’s ear, which at the time, had cleared the pavement, a somewhat glancing contact near the front door, knocking it over against the bank of the rocked road, from whence it bounded back, leaving there not quite as indicated on the map, but nearly so, except that the car of plaintiff, we think, had cleared the pavement and the other car after the accident was moved off of the highway thus as the illustration would seem to indicate.
+We think, therefore, that the evidence established negligence upon the part of Duckworth which was the proximate cause of the injury the car and its occupants received, and that it does not show any negligence upon the part of the plaintiff that should bar or mitigate any right of recovery had those who were liable been sued. •
+We are of opinion that the case was properly directed to be dismissed as against defendant Guy L. Smith, and that the jury properly found in favor of the Appalachian Publishers, Inc., as the said Duckworth, the driver of the offending car, as appears from the proof, was not a servant of either defendant, neither of whom, at the time, had any control over his movements. On the contrary, the proof clearly shows, we think, that, at the time, he was a servant of the Charles Partlow Company, which company at the time, under a contract filed in the record as Exhibit No. 1 to the testimony of Gerald Goode, was conducting a Partlow plan campaign to increase the circulation of'the Johnson City Chronicle, a newspaper published by the said Appalachian Publishers, Inc.
+We think the contract shows that the Charles Partlow Company was and should be regarded as an independent contractor with respect to the operation of the car, and that its driver, Duckworth, was its servant at the time, and that no liability for his negligence was derived as against either of the defendants named as such. It is true that the car belonged to the defendant Guy L. Smith, president of the Appalachian Publishers’ Company, who had rented it to the said company, which was thus enabled to furnish it to the Charles Partlow Company as means of transportation which it had contracted to furnish, and which discharged its obligation as interpreted by the proof," for said company under the contract assumed entire charge of the campaign from the time of the opening announcement to its close, and was to pay all salaries and attend to all inside and outside work in connection with said company. This we think sufficiently defines its relationship to be that of independent contractor under the case of McHarge v. M. M. Newcomer & Co., 117 Tenn., 601, 100 S. W., 700, 701, 9 L. R. A. (N. S.), 298, where such independence is said to be comprehended in “a person who, in the pursuit of an independent business, undertakes to do specific jobs of work for other persons without submitting himself to their control in respect to the petty details of the work.” See, also, Knoxville Iron Co. v. Dobson, 7 Lea, 374.
+In this view of the ease there is no evidence to support a liability against the parties sued, and the verdict as directed by the court and as returned by the jury is entirely supported by the record and is not contrary to law. The first and second assignments are overruled. The third assignment that the proof preponderates against the verdict is inapplicable in a jury case. All insistence that the court was in error in directing a verdict because, as insisted, plaintiff was entitled to enforce a lien against the car, is overruled.
+There was no attachment against the car which had been disposed of by its owner before suit, and, in absence of the ear and the limitation of the pleadings, no personal judgment could be supported as against defendant. And, while we are not prepared to say that the excerpts from the charge complained of evidence any erroi’, it is immaterial if they do, as the proof does not mature any liability against the parties sued.
+All assignments are therefore overruled, and the judgment affirmed, with costs against appellants.
+Portrum and Thompson, JJ., concur.
