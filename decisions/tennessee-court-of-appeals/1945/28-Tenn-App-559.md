@@ -1,0 +1,35 @@
+---
+court: "Tennessee Court of Appeals"
+decided: "1945-03-05"
+citations: ["28 Tenn. App. 559", "192 S.W.2d 79"]
+reporter: "tenn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hale and Burnett, JJ., concur."]
+parties: ["BARBER v. BARBER."]
+source_url: "https://static.case.law/tenn-app/28/cases/0559-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8511619
+cites_cases: ["160 Tenn. 685", "178 S. W. (2d) 84", "28 S. W. (2d) 350", "36 Tenn. 683", "70 Am. Dec. 269"]
+---
+
+# Barber v. Barber
+
+## Majority (McAMIS, J.)
+
+McAMIS, J.
+W. F. Barber appeals from a decree awarding his former wife, Helen Barber, as alimony all his right, title and interest in real property owned by the parties as tenants by the entirety. No bill of exceptions was preserved but it appears from the pleadings that the interest so decreed to the wife is valued at about $1,500.
+Mrs. Barber filed her petition for divorce on December 18, 1941, charging’ the defendant with cruel and inhuman treatment entitling her to a divorce. On December 24, 1941, the defendant answered denying the charges of the petition and, on February 2, 1942, he filed a cross-hill charging various acts of cruel and inhuman treatment. Mrs. Barber filed an answer to the cross-petition denying in detail all of the charges.
+On these pleadings and proof offered by the respective parties, the case was heard on March 23,1942. The Court reached the incongruous conclusion that both parties had been guilty of such cruel and inhuman treatment as to entitle the other to a decree of absolute divorce. On August 20, 1943, a decree carrying out these conclusions of the trial judge was entered of record. By the same decree certain of the household goods and furnishings accumulated by the parties during their married life was decreed to Mrs. Barber “as part alimony”; she was granted also a recovery of an attorney’s fee and the Clerk was directed to report on the financial holdings of the defendant. The final disposition of the real estate was reserved by the court, Mrs. Barber being allowed to remain in the property until it should be finally disposed of.
+On September 20, 1943, W. F. Barber filed a petition reciting the prior proceedings in the case and seeking a decree requiring Mrs. Barber to make a give or take offer or, in the alternative, “that the Court enter such an order for the sale of said real estate, as to the Court may seem fit and proper. ’ ’
+On October 20,1943, Mrs. Barber answered the petition asserting that, at the time the decree of divorce was granted, the defendant was worth approximately $7,000 or $8,000 in cash and other assets accumulated during their married life and that she should be decreed defendant’s interest in the real estate “as her rightful share and portion of the property "accumulated by the parties.”
+The Court found that the defendant had withdrawn from his personal hank accounts approximately $2,537 and was the owner of an interest in a business of an undetermined value. It was, accordingly, held that Mrs. Barber was entitled to defendant’s interest in real estate “as her reasonable alimony.”
+Thereafter defendant filed a motion for a new trial in which he asserted for the first time that because he was also granted a divorce, the parties being held equally guilty, no alimony should be awarded petitioner.
+In Brewies v. Brewies, 178 S. W. (2d) 84, 85, we held in an opinion by Judge Hale that a finding that both parties in a divorce action are entitled to a divorce is,“self-emasculating” and “destroys itself so far as any inference or presumption can be based thereon in this court” but that a decree giving the husband a divorce and the wife alimony is not void because “both were given at the same time and neither supersedes the other.”
+The husband in this case appears to be satisfied with that portion of the decree which severs the matrimonial ties but dissatisfied with an award of alimony.
+Evidently to meet the holdings of some courts that, under the common law, the wife may in some cases be entitled to alimony notwithstanding the husband is granted a divorce for the misconduct of the wife, it is provided by statute in this State that if the husband obtains a divorce the wife is not entitled to alimony. Code, Section 8449. In this case it will be remembered both parties were granted a divorce and it is doubtful whether the statute would have application but, in any case, it benefits only tbe husband and serves to shield him from liability for alimony. He can invoke it or not as he chooses but he should seasonably assert his rights. In this case, as noted, the wife was awarded as part alimony the household goods by the same decree in which the divorce was granted and, in the same decree, the disposition of the real estate was reserved without any question being raised by defendant that alimony could not be allowed because he was granted a divorce. The question was not raised until the 60th day after the decree of divorce was entered. This was eighteen months after the case was heard and we as sume, equally as long after the Court announced orally his conclusion to give both parties a divorce and allow the wife alimony.
+If the question had been raised when the divorce decree was granted the trial court might have reconsidered his holding that the husband, was entitled to a divorce or, if not, Mrs. Barber could have laid the grounds for obtaining a review of this finding. If so, as held in Brewies v. Brewies, supra, the finding of the trial court would have been entitled to no weight and this court could have entered such decree as might be warranted by the evidence. As the case stands, as the result of defendant’s apparent acquiescence in the allowance of alimony, Mrs. Barber has lost the right to have the evidence reviewed since it was not preserved by bill of exceptions. The decree seemed to settle her right to alimony and defendant’s petition, filed September 20, 1943, seeking a final disposition of the real estate contains no hint that alimony should not be allowed because the husband was also granted a divorce. We hold that as a matter of simple justice and upon principles of estoppel the contention that alimony should not be allowed because the husband was also granted a divorce comes too late and may not be sustained. The first assignment of error is therefore overruled.
+It is next insisted that upon the'granting of the divorce the parties became tenants in common as held in Ames v. Norman, 36 Tenn. 683, 70 Am. Dec. 269, and Brown v. Brown, 160 Tenn. 685, 687, 28 S. W. (2d) 350. These cases have no application because the court reserved the right to adjudicate at a future time the rights of the parties in the real estate.
+Other questions made by the assignments that the award is inequitable and excessive cannot be considered in the absence of a bill of exceptions.
+The judgment will be affirmed and costs, including costs of appeal, adjudged against plaintiff in error.
+Hale and Burnett, JJ., concur.
