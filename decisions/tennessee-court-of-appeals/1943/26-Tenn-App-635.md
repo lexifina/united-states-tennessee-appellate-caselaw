@@ -1,0 +1,42 @@
+---
+court: "Tennessee Court of Appeals"
+decided: "1943-07-10"
+citations: ["26 Tenn. App. 635", "176 S.W.2d 369"]
+reporter: "tenn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Felts and Hickerson, JJ., concur."]
+parties: ["TENNESSEE CONSOL. COAL CO. v. LAYNE et al."]
+source_url: "https://static.case.law/tenn-app/26/cases/0635-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8511836
+cites_cases: ["161 Tenn. 23", "28 S. W. (2d) 993", "29 S. W. 220", "7 Tenn. App. 46", "93 Tenn. 542"]
+---
+
+# Tennessee Consol. Coal Co. v. Layne
+
+## Majority (HOWELL, J.)
+
+HOWELL, J.
+This is an ejectment suit filed by the complainant seeking to have its right and title to a tract of land in Marion County set up and established and to enjoin the defendants from entering upon same and cutting and removing timber therefrom or from opening any coal mines and digging coal thereon. The complainants claimed title by successive conveyances from the David 'Schoolfield Grant No. 3384, dated July 30, 1834.
+The answers to the defendant claimed title by adverse possession of more than twenty years and that the land he occupied was a part of the Jubal Dixon Entry No. 1070, which was older and superior to the David Schoolfield Grant, and that if there was an overlap their title was superior. Later the defendants filed a supplemental answer in which it was claimed that two deeds executed by Daniel Layne and which were in the chain of title of the complainant, one dated August 28,1908, and the other dated June 8, 1912, were void on account of the fact that Daniel Layne was a person of unsound mind at the time these deeds were executed and therefore incapable of executing a valid conveyance.
+The Chancellor found the facts in favor of the complaint and granted the relief prayed in the bill.
+The defendant Isiah Layne has perfected an appeal and assigned errors as follows:
+“1. The Court erred in not finding that Daniel Layne was of unsound mind at the time he executed the deeds to E. M. Jones, which bear dates of (a) August 28th, 1908, (b) June 8th, 1912, and that said deeds were void and of no force and effect. Because a deed is a contract and to make a contract there must be a union of the minds.
+‘ ‘ 2. The Court erred in not sustaining defendant’s title, as defendant possession was open, notorious, adverse, and unbroken-for more than the time required by the statute of limitation.
+“3. The Court erred in permitting the complainant to file what purported to be a lease contract signed by Wm. Layne, bearing date of October 18th, 1928, and the same has never been recorded without which complainants possession broken.”
+These assignments raise two questions: The sanity of Daniel Layne at the time the two deeds were executed, and the possessory rights of the defendant Isiah Layne.
+The first deed in question from Daniel Layne to E. M. Jones was dated August 28, 1908, and conveyed a tract of 350 acres more or less, for a consideration of $1,750. The second deed from Daniel Layne to E. M. Jones was dated June 8, 1912, and conveyed 210 acres, more or less for a consideration of $1,050. The consideration stated in these deeds amounted to $5 per acre for this land.
+There is much conflicting testimony in the record as to the sanity of Daniel Layne in 1908 and 1912, given by relatives and acquaintances, and without setting forth and discussing the evidence of these witnesses we are not convinced that Daniel Layne was not of sufficient mentality to execute the deeds in question. The consideration he received upon the execution of these deeds is not shown to be inadequate, he was never adjudged insane and everyone is presumed to he sane until the contrary is made to appear by satisfactory proof, the burden of which must be borne by him who avers insanity.
+Each case of this character must be determined upon its own facts, and where the person executing a deed is capable of doing so and there is no fraud or concealment and no advantage taken, the Courts will not set aside such deed. The law does not require that persons shall be able to dispose of their property with judgment and discretion in order to make a valid conveyance. It is sufficient if they understand what they are doing.
+See Seat v. McWhirter, 93 Tenn. 542, 29 S. W. 220; Clark v. Wilburn, 7 Tenn. App. 46, 58.
+The rule as to testimony in a case of this kind is stated in the case of Wheeler v. Parr, 3 Tenn. Civ. App. (3 Higgins), 374, on page 389, as follows:
+“It is clear that one who is perfectly sane, going about his ordinary avocations, and whose sanity has never been questioned, is judged by his entire course of conduct rather than by any particular incident or incidents; and to require a witness who expresses an opinion that such person is sane to give facts on which to base that opinion, further than that he has or had sufficient acquaintance with the person whose sanity is in question, or sufficient dealing or relations with him to form an opinion,- would be to require the picking out of some special act or acts as distinguished 'from a series of thousands of afcts, and to base his opinion of sanity . . . on, such special acts. This, it occurs to ús, is requiring a witness to separate one sane act or a few sane acts from a thousand, and say that he bases his opinion on those, when in truth he does not do so, but rather on the acts of years, or a lifetime. On the other hand, take one whose sanity has never been questioned during an acquaintance of years and let reason become dethroned; his talk, his actions and looks will bespeak his changed condition by becoming-unusual. His acquaintances notice the unusual, the changed conditions, they impress everyone and are not difficult to detail, as compared with the former condition. The changed look, talk and actions that thus impress the friend, neighbor or acquaintance is that on which the opinion of insanity is based; and it (is) but reasonable that the facts be given as the basis of the opinion of insanity. In other words, the exceptions to the rule attract attention and make such impressions as that those who are called on to give reasons for noting the exceptions can give them.”
+This case is quoted with approval of Chief Justice Green in the ease of Davis v. State, in 161 Tenn. 23, on page 36, 28 S. W. (2d) 993, on page 997, where the court said:
+“The third assignment of error criticizes an instruction of the trial judge to the effect that a nonexpert witness might not testify to the insanity of another without giving the facts on which the opinion was based, but that such a witness might testify to the sanity of another without setting out the facts upon which his opinion rested. The court below followed the rule announced in Wheeler v. Parr, 3 Tenn. Civ. App. (3 Higgins), 374, and we think this rule is sound. In that case, in a scholarly opinion, Judge Hughes reviewed the authorities, our own case and others. He pointed out, while previous decisions of this court had stated broadly that a nonexpert witness might .not testify as to the mental condition of another without stating1 the facts on which his opinion was based, that in none of those cases had a differentiation been made between such a witness testifying as to insanity and such a witness testifying as to sanity.”
+The remaining assignments of error are not relied upon by the appellant. In the brief filed in support of the assignments of error counsel for appellant says:
+“Now, in conclusion, I will say, that if, Dan Layne, was of sound and contracting mind on the 28th day of August 1908, and also on the 8th day of June 1912, then I will not insist upon the Possession of Isiah Layne to the property herein described in this suit and will submit the merits of the claim of Isiah Layne to the property involved in this litigation upon the one question of his Father’s sanity or insanity.”
+We are of the opinion from a careful examination of the entire record that the Chancellor reached a proper conclusion,'that it is not shown that Daniel Layne was not capable of executing the deeds in question and that the defendant had failed to establish any rights to possession of the property involved. All assignments of error are overruled and the decree of the Chancellor is affirmed.
+All costs will be paid by the defendant appellant.
+Affirmed.
+Felts and Hickerson, JJ., concur.
