@@ -1,0 +1,36 @@
+---
+court: "Tennessee Court of Criminal Appeals"
+decided: "1970-01-26"
+citations: ["2 Tenn. Crim. App. 575", "455 S.W.2d 622"]
+reporter: "tenn-crim-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["RUSSELL and MITCHELL, JJ., concur."]
+parties: ["JAMES E. DAVENPORT, WAYNE KENDALL, CALVIN L. ROBERTS and TOMMY L. WOLFENBARGER, Plaintiffs in Error, v. STATE OF TENNESSEE, Defendant in Error."]
+source_url: "https://static.case.law/tenn-crim-app/2/cases/0575-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8506359
+cites_cases: ["188 Tenn. 312", "212 Tenn. 464", "213 Tenn. 15", "214 Tenn. 711", "215 Tenn. 268", "215 Tenn. 338", "219 S.W.2d 188", "220 Tenn. 155", "441 S.W.2d 485", "443 S.W.2d 675"]
+---
+
+# Davenport v. State
+
+## Majority (HYDER, Judge.)
+
+OPINION
+HYDER, Judge.
+James E. Davenport, Wayne Kendall, Calvin L. Roberts and Tommy L. Wolfenbarger were convicted of burglary in the third degree and sentenced to three years to five years each in the penitentiary. The case is before this Court on an appeal in the nature of a writ of error properly perfected by each defendant.
+The record discloses the following facts.
+The Clarksville Coca-Cola Bottling Plant has an automatic burglar alarm system which sounds an alarm in the office of the police dispatcher. On the night of August 19, 1968, as a result of the sounding of this alarm officers were dispatched to the Bottling Plant. They arrived at approximately one thirty o’clock in the morning. A search of the premises revealed the defendant Tommy L. Wolfenbarger on the roof of the plant, hiding inside a cooling tower which contained about one foot of water. He was wearing black clothes and gloves. Calvin L. Roberts was found inside the building on the second floor hiding behind a locker. He was wearing dark clothes and gloves, and he was almost soaking wet with sweat. Wayne Kendall was found hiding in the beams of the ceiling on the first floor, an area where they stored drinks. James E. Davenport was caught coming out of an open window of the Bottling Plant. Calvin L. Roberts had a set of lock picks in a leather case, somewhat like a glasses case, in his pocket. None of the defendants had authority to be in the plant.
+When the officers first arrived at the Bottling Plant they observed James Davenport and Wayne Kendall lying on the floor right in front of the safe. The officer who observed this fired his revolver to attract the attention of his fellow officer, who was on the other side of the building, and the alarm apparently scattered the defendants and caused them to hide.
+The defendants did not offer any proof in the case.
+The first two assignments of error contend that there is no evidence to support the verdict and that the verdict is against the greater weight or preponderance of the evidence.
+We can not imagine a case where the State could present any stronger evidence of guilt of burglary in the third degree than was presented here. A reading of this record by a person with an unbiased mind impresses us that there is simply no evidence except evidence of guilt. In most criminal cases where the jury and trial judge have seen and heard the witnesses face to face we recognize the proposition that they are in a far better position to determine who is correctly detailing the truth of the matter than are we, who see only the record. Gann v. State, 214 Tenn. 711, 383 S.W.2d 32. This proposition is equally applicable in this case, however, as we have said, there was no proof presented except proof of guilt, and there was no other testimony. The jury then had only to determine whether the evidence was sufficient to overcome the presumption of innocence as properly instructed by the trial judge.
+It is well established by numerous decisions of the Supreme Court of Tennessee, and of this Court, that a verdict of guilty, approved by the trial judge, accredits the testimony of the State’s witnesses, resolves all conflicts in the testimony in favor of the State and establishes the State’s theory of the case. Under such a verdict the presumption of innocence disappears, and upon appeal that presumption of innocence is replaced by a presumption of guilt. This Court is not permitted to reverse a conviction upon the facts unless the evidence clearly preponderates against the verdict of the jury and in favor of the innocence of the accused. The defendant, on appeal, has the burden of showing that the evidence pre-ponderales against the verdict and in favor of his innocence. McBee v. State, 213 Tenn. 15, 372 S.W.2d 173; Bacon v. State, 215 Tenn. 268, 385 S.W.2d 107; Brown v. State, Tenn. Crim. App., 441 S.W.2d 485. Each of the defendants has failed to show that the evidence preponderates against the verdict of guilty and in favor of his innocence.
+The third assignment of error complains that the verdict is excessive and shows that the jury was prejudiced in assessing punishment.
+The punishment for burglary in the third degree is imprisonment in the penitentiary for not less than three years nor more than ten years. T.C.A. § 39-904. It is the duty of the jury, in addition to finding the defendant guilty, to fix the maximum term of the convicted defendant. T.C.A. § 40-2707. In this case the jury fixed the maximum sentence for each of the convicted defendants at a term of five years in the penitentiary. This was within the limits of the statute, and certainly cannot be said to be so excessive as to evidence passion, prejudice or caprice. Wheeler v. State, 220 Tenn. 155, 415 S.W.2d 121; Carroll v. State, 212 Tenn. 464, 370 S.W.2d 523. There is no merit in this assignment.
+The fourth assignment of error contends that the District Attorney General, in his closing remarks, used statements directed at the defendants implying that they should have testified in their own behalf. Examples of the statements complained of are quoted in defendants’ brief.
+The record does not contain all of the arguments to the jury, but it does contain the closing argument of the District Attorney General. In this he refers to what has been said by counsel for the defendants in their arguments which must have been directed towards a search for mercy from the jury, or an effort by counsel to get the jury to reduce the crime to an attempt to commit burglary in the third degree. Much of that complained of appears to be in answer to what was said by other counsel.
+There was no objection made to the argument of the District Attorney General at the time, and none was included in the original motion for a new trial. It was first raised in an amendment to the motion for a new trial. Under rulings of our Supreme Court such issues cannot be considered on appeal. Turner v. State, 188 Tenn. 312, 219 S.W.2d 188; Rivera v. State, Tenn. Crim. App., 443 S.W.2d 675. We have, nevertheless, made a careful study of the argument complained of and it could not have affected the verdict of the jury to the prejudice of the defendant. Harrington v. State, 215 Tenn. 338, 385 S.W.2d 758.
+We find no error in this record, and we therefore affirm the judgment of the trial court.
+RUSSELL and MITCHELL, JJ., concur.
