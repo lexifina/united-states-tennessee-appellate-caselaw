@@ -1,0 +1,39 @@
+---
+court: "Tennessee Court of Appeals"
+decided: "1955-11-08"
+citations: ["39 Tenn. App. 679", "287 S.W.2d 931"]
+reporter: "tenn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hale and Howard, JJ., concur."]
+parties: ["JOHN BOLE, Jr., Complainant-Appellant, v. B. FRANK LYLE et al., Defendants, Appellees."]
+source_url: "https://static.case.law/tenn-app/39/cases/0679-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8512384
+---
+
+# Bole v. Lyle
+
+## Majority (McAMIS, P. J.)
+
+McAMIS, P. J.
+John Bole, Jr., instituted this suit against B. Prank Lyle, Homer S. Peters and W. J. Barton, Jr., partners formerly operating under the name and style of Cherokee Box and Handle Company to recover $738.60 alleged to have been advanced to defendants for the purchase of lumber which was never delivered. The primary question, resolved by the Chancellor in favor of defendants, is whether or not W. J. Barton, Jr., in executing the contract of sale was acting within the apparent scope of his authority as a partner.
+On April 15,1946, the date of the alleged contract, the Cherokee Box and Handle Company owned and operated a manufacturing business in Johnson City, Tennessee where it made packing crates, insulating pins and “dimensional stock”, the last under a contract with the United States Government. All of these products were made from wood and, to supply the needs for lumber, defendants had previously purchased a boundary of timber which they were in the process of cutting and manufacturing into lumber at the time in question. The defendant, W. J. Barton, Jr., was the managing partner.
+On a trip to Chattanooga, Barton became acquainted with A. E. Darling of the Darling Lumber Company of Big Rapids, Michigan. Darling was, apparently, in some way connected with the Lakeview Lumber Company of Lakewood, Michigan, which latter company the bill alleges was owned and operated by complainant Bole.
+■ The bill is predicated upon a letter dated April 15, 1946, from A. E. Darling Lumber Company addressed to Cherokee Box and Handle Company and written by A. E. Darling, purporting to confirm a telephone conversation of that date between Darling and Barton for the purchase of 'certain specified types and amounts of lumber and enclosing Darling’s check for $1,500. The letter bears the following acceptance:
+“It is understood and agreed by the Cherokee Box & Handle Company, Johnson City, Tennessee, that the above is agreed to and fully understood and the money is to be used and the title vested in Lakeview Lumber Company and A. E. Darling Lumber Company as above noted.”
+(Signed) Cherokee Box & Handle Company
+by ¥m. J. Barton, Jr.
+Gen. Mgr.”
+After endorsing the check ‘ ‘ Cherokee Box and Handle Co. by Wm. J. Barton, Jr. Gen., Mgr.”, Barton opened a bank account in the name of “Wm. J. Barton, Jr., Agent”, endorsing the check in his name as agent. He explained to the bank official that he was trading in his individual name and for that reason desired a separate account from that of Cherokee Box and Handle Company. The partnership received no part of the proceeds of the check and the other partners knew nothing of the transaction until claim was made after the dissolution of the partnership.
+While the record is not clear, it is perhaps inferable that that part of the lumber which was shipped by Barton came from the tract of timber owned by the partnership. No other lumber was ever sold in this manner by Barton or by the partnership and the undisputed proof shows that neither this timber nor any other was ever boug'ht for sale. The partnership was not a trading partnership but solely engaged in the business of manufacturing.
+It is the insistence of complainant that the Chancellor erred in not holding that Barton, as partner and operating manager of the business, acted within the apparent scope of his authority. There is no assignment directed to the Chancellor’s finding that the partnership had never dealt in lumber although it is insisted that the sale was not outside of the scope of the business since it was necessary for the partnership to have lumber on hand in order to carry on the manufacture of wood products. We think the Chancellor reached the right conclusion.
+Code, Sec. 7848, Section 9 of the Uniform Partnership Act, provides in part as follows:
+“ (1) Every partner is an agent of the partnership for the purpose of its business, and the act of every partner, including the execution in the partnership name of any instrument, for apparently carrying on in the usual way the business of the partnership of which he is a member, binds the partnership unless the partner so acting has in fact no authority to act for the partnership in the particular matter, and the person with whom he is dealing has knowledge of the fact that he has no such authority.
+“ (2) An act of a partner which is not apparently for the carrying on of the business of the partnership in the usual way does not bind the partnership unless authorized by the other partners.” (Italics ours.)
+The act of Barton was not done “for apparently carrying on in the usual way the business of the partnership ’ ’. On the contrary,' the act was ■ entirely outside the only business ever conducted by the partnership and there is no showing that his act ‘1 apparently” had a connection with the manufacturing business. This was not surplus or defective lumber such as a buisiness engaged in the manufacture of wood products might find it desirable to sell from time to time, in which case the sale might conceivably have the appearance of being incident to the business of the partnership. Sub-section (2) above quoted exonerates the partnership for such an act in the absence of ratification or a prior course of conduct upon which third parties are entitled to rely.
+The general rule is that each partner is a general agent of the firm but only for the purpose of carrying on the business of the partnership. Any sale by g/ partner to' be valid must be in furtherance- of the; partnership business, within the real scope of .the business or such as third persons may reasonably conclude1, from all the circumstances, to be embraced within. it. If the act is embraced within the partnership business or incident to such business according- to the ordinary and usual course of conducting it, the partnership is, bound regardless of whether the partner, in performing, the act, proceeds in good faith or bad faith toward- his-copartners.
+Sales made by a partner in a trading firm are, of course, not viewed with the same strictness as ip. non-trading firms such as here involved because in trading firms sales are usually within the scope of the business while in nontrading firms they are exceptional and only incidental to the main business. A priori, in determining' whether an act is within the scope of the business it is of importance, first, to determine the character of the partnership operations. 40 Am. Jur. 255, Partnership, Sec. 180; 68 C. J. S., Partnership, Secs. 138-140, pages 573-575.
+We think the- case here presented is simply that of a nonresident, unfamiliar with the partnership operations, being defrauded by one of the partners acting in a matter beyond both the real and apparent scope of the business and beyond the real or apparent scope of the agency. There was nothing in the firm name to suggest that it was in the business of selling lumber. Complainant chose to deal with -one of the partners without knowing anything of the nature of the partnership, operations and we agree with the Chancellor that the nonparticipating partners were in no way responsible for his loss and that recovery should be against Barton alone.
+Affirmed with costs to appellant and sureties.
+Hale and Howard, JJ., concur.
