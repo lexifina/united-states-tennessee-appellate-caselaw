@@ -1,0 +1,57 @@
+---
+court: "Tennessee Court of Appeals"
+decided: "1949-07-30"
+citations: ["34 Tenn. App. 632", "241 S.W.2d 871"]
+reporter: "tenn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Howell and Hickerson, JJ., concur."]
+parties: ["BROWN et al. v. MAYS et al."]
+source_url: "https://static.case.law/tenn-app/34/cases/0632-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8512685
+cites_cases: ["176 S. W. (2d) 806", "180 Tenn. 476", "184 Tenn. 363", "199 S. W. (2d) 99"]
+---
+
+# Brown v. Mays
+
+## Majority (PELTS, J.)
+
+PELTS, J.
+Complainants filed the bill herein against J. L. Mays and ~W. H. Mays to recover on certain rent notes alleged to have been given by them pursuant to a written lease exhibited with the bill. Process was not served on W. H. Mays, it appearing that he was living out of the state, and the suit was dismissed as to him and proceeded against J. L. Mays alone.
+He set up a number of defenses by demurrer. The demurrer was overruled, with leave to rely thereon, and he filed an answer presenting the same defenses. Proof was taken by depositions, the cause was heard, and the Special Chancellor found against these defenses and entered a decree for complainants for $4,039.88, the amount of the notes and interest, after allowing all proper credits, plus an attorney’s fee of $500, and the costs of the cause.
+Defendant appealed and has assigned a number of errors presenting’ the same defenses relied on below. His first insistence is that he signed the lease and the notes only as agent for a disclosed principal, Mays & Dilts Drug, Inc., and was not personally a party to the contract and not individually liable on the notes.
+One of the complainants, Mrs. Claire Brown Beard, gave her deposition. According to her testimony, she and her father owned the lot and J. L. Mays came to see them and asked them to erect a building thereon so that he could rent it and use it as a drugstore. He, his brother W. H. Mays, and Plarry Dilts were operating a drug business under the name of Mays-Dilts Drug, Inc., which was a corporation.
+Complainants erected a building for the drugstore and built it to fit fixtures that the lessees were to put into it. Complainants did not know the financial responsibility of the corporation, but were satisfied with the responsibility of J. L. Mays and 'W. H. Mays. They had a lease drawn naming the company, J. L. Mays, W. H. Mays, and Harry Dilts as lessees; and they insisted that it be signed by J. L. and W. H. Mays individually, but did not require Harry Dilts to sign it because J. L. Mays told them be was furnishing the money and Mr. Dilts was a good drugstore man.
+Defendant gave bis deposition. He stated, that while he had conducted the negotiations for the lease, he was acting for the corporation and not for himself individually. He denied that complainants had requested him to sign the lease in his personal or individual capacity, and denied that he had told them he was furnishing the money for the business. He admitted that the parties had executed the lease and the notes which were exhibited with the bill, but said that he had done so only as agent for the company.
+The lease and the last twenty-three notes, those being the ones sued on, are sent up in their original form. The lease was a printed form with blank spaces filled in in typewriting. We set out here the material parts of it, italicizing the typewritten parts:
+“Rent or Lease Contract, this day entered into between A. J. Brown & Claire Brown as owners and Mays & Dilts Drug Company Inc.; and J. L. Mays & W. H. Mays & Harry Dilts Lessees, and Lessee. The said owners A. J. Brown & Claire Brown as Agents, hereby Lease or Bent to the above named lessees the following described property, located in the city of Nashville, or suburbs, and fronting 30 feet on Hillsboro Road at 2211 Hillsboro Street, and being the property of said A. J. and Claire Brown; a brick store, newly erected. “The said above named lessees agree and bind themselves to take good care of the property, .
+“The lessees shall use this building for a Drug Store and for a beauty parlor
+“Tbe term of this Lease to begin on the 10th day of June 1935 and continue from month to month, for the term of Sixty Months
+“The rent shall be $100.00 per month in advance for the first 36 months; $125.00 per month for the next 12 months; and $135.00 per month for the last twelve months; one month having been paid; and notes for the other 59 months being now given
+“Signed this, the 4th. day of June 1935;
+/s/ A. J. Brown /s/ Claire Brown
+Owner
+Witness
+/s/ Noah W. Cooper
+By Owner
+Mays & Dilts Drug Inc.
+/s/ Pres J. L. Mays Lessee,
+/s/by J. L. Mays /s/ W: H. Mays”
+It is true, as insisted by learned counsel for appellant, that where an agent discloses his principal and contracts so as to bind the principal, the contract will ordinarily be regarded as that of the principal alone. But the contract may bind the agent alone, or the principal alone, or both together, depending on the intention of the parties manifested by the terms of the contract. That is, one as agent may make a contract on behalf of his principal and also on behalf of himself individually, making them both parties and joint principals to the contract. “It is entirely competent for the agent, although his agency is known and he is fully authorized to bind his principal, to pledge his own personal responsibility. He may do this in two ways, namely, he may add his responsibility to that of the principal, or he may tender his own responsibility instead of that of his principal. The other party may say to him, ‘I know your principal, and I mean to bind him, bnt I also mean to make such a contract that, if I prefer, I may hold you upon it.’ ” (1 Mechem on Agency, 2d Ed., Sec. 1419, p. 1048)
+“There may he an agreement that the principal alone is a party, that the agent alone is a party, or that the principal and the agent are both to be parties . . . ” Restatement, Agency, Section 146, Comment a. To the same effect: 2 Am. Jur., Agency, Section 239; 3 C. J. S., Agency, Section 215, p. 122; Wyatt v. Davidson, 1 Tenn. Cas., Shannon, 613, 614, 616, 617.
+In the case before us we think appellant, in making the lease, and the notes, which were signed in the same manner as the lease, contracted both as agent on behalf of the corporation and on behalf of himself individually, making himself and the company both joint principals and lessees, along with the other lessee, W. H. Mays.
+As we have seen, the writing named all of them as lessees. All of them joined in the covenants in the lease, including the covenant to pay rents; likewise all of them signed the rent notes in the same manner as they signed the lease. Appellant signed twice — in two capacities: Acting as agent he signed the corporate name followed by his own as president, and acting as an individual he signed his own name.
+So we think the learned Special Chancellor was right in holding that appellant was personally bound on the lease and the notes thereunder.
+Appellant, however, insists that the form of his last signature was such as conclusively to show that his intention was to act as agent only and not as an individual. It is said that he used the word “by” before his last signature, and that this is the usual form used by agents in acting for their principals. A number of authorities are cited for this insistence.
+We think they are inapposite and we need not review them. It is true that the form in which an agent ordinarily acts for his principal is the use of such words as “By,” “Per,” etc., before his signature. But the question is to be determined not alone by the form of the signature but also by the whole of the contract.
+Here we think the contract clearly manifests the intent that appellant was to be a party in his own individual capacity, and that the use of this symbol before his name does not negative that intent.
+Appellant also contends that there was no consideration for the notes because the lease was void under the statute of frauds, in that it failed to give a description of the property sufficient to satisfy the statute. ' This description was: “The following described property, located in the city of Nashville, or suburbs, and fronting 30 feet on Hillsboro Road at 2211 Hillsboro Street, and being the property of said A. J. and Claire Brown; a brick store, newly erected.”
+We think this description was particular and definite enough to satisfy the statute of frauds. It said the property was in Nashville or suburbs, fronted 30 feet on Hillsboro Road at 2211 Hillsboro, the property of A. J. and Claire Brown, and was a brick store newly erected. This description refers to one particular piece of property and cannot possibly be referred to any other. It is much more definite than was the description which was held sufficient in Kirshner v. Fiegenbaum, 180 Tenn. 476, 176 S. W. (2d) 806. It is likewise much more specific and definite than vas the description which was held insufficient in Parsons v. Hall, 184 Tenn. 363, 199 S. W. (2d) 99.
+It is also urged that the lease was void under the statute of frauds because it was not signed individually by appellant, the party to be charged. What has been said above is, we think, a sufficient response to this insistence.
+Appellant further contends that the lessors accepted surrender of the premises from the lessees, agreed for a new tenant to lease and occupy the property, and thereby terminated the pre-existing lease and discharged the lessees from all liability for future rents thereunder. We think the proof does not support this insistence.
+A month or so after moving into the premises appellant and Mays-Dilts Drug, Inc., sold their drug business to the Foxall-Moon Drug Company, which took charge of and began operating the business. Complainant testified that appellant told her that they were selling the Mays-Dilts Drug Company to the Foxall Drug Company and asked her to transfer the lease to the latter company. She told him she did not know anything about that company, would not agree to transfer the lease, but would continue to look to him and his associates for the future rents; and complainants did not transfer the lease, or make a new one, or surrender the notes.
+The Foxall-Moon Drug Company continued to run the business and to pay the rents each month until June 10, 1938, until the rents for the first thirty-seven months of the lease had been paid. Then the company vacated the premises. Complainant Mrs. Beard undertook to notify appellant the day the property was vacated, but was unable to get in touch with him. She later went to Memphis to see him and was again unsuccessful.
+She began making an effort to re-rent the property for the account of the lessees, as she had a right to do under the terms of the lease. It remained vacant until March, 1939, when a real estate agent procured a tenant for her who paid $50 a month up until the expiration of the term of the lease with appellants. The net amounts she received on this reletting were credited on the notes.
+This disposes of the questions made by appellant’s assignments of error. All of them are overruled. The decree of the Chancellor is affirmed. A decree will be entered here for complainant against appellant and the surety on his appeal bond for the amount of the decree below, with interest and the costs of the appeal.
+Howell and Hickerson, JJ., concur.
