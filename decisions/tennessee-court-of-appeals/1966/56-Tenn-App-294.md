@@ -1,0 +1,40 @@
+---
+court: "Tennessee Court of Appeals"
+docket: "48"
+decided: "1966-03-30"
+citations: ["56 Tenn. App. 294", "406 S.W.2d 169"]
+reporter: "tenn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["McAmis, P. J., and Cooper, J., concur."]
+parties: ["GERALD DINGUS, v. CLAUDE CAIN. GERALD DINGUS, v. CLAUDE CAIN, INC."]
+source_url: "https://static.case.law/tenn-app/56/cases/0294-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8506966
+cites_cases: ["106 Ga.App. 486", "12 A.L.R.2d 310", "12 A.L.R.2d 317", "127 S.E.2d 320", "155 So.2d 265", "195 N.Y. 273", "195 Pa. 127", "210 Pa. 101", "233 S.W.2d 759", "31 Tenn.App. 240", "45 A. 685", "52 L.R.A. 33", "59 A. 693", "85 Mo.App. 367", "88 N.E. 382"]
+---
+
+# Dingus v. Cain
+
+## Majority (PARROTT, J.)
+
+PARROTT, J.
+Plaintiff, Claude Cain, obtained a verdict and judgment for $7991.00 for personal injuries received in an automobile accident which occurred on January 6, 1964, with the defendant who has appealed.
+Claude Cain is the president of Claude Cain, Inc. which corporation is engaged in the general contracting business and employs eight to fifteen people. Aside from being president, he is job superintendent, foreman, estimator, engineer, and has been personally engaged in such business for approximately nine years.
+The corporation owned the automobile involved in the accident as well as five trucks and other machinery used in its operation. At the time of the accident the corporation was engaged in work at the Holston Defense Corporation.
+At the trial the plaintiff was permitted to introduce in evidence, over the objection of the defendant, the profits and/or losses of Claude Cain, Inc. for the months of January, February and March for the years 1963, 1964 and 1965. Defendant insists it was error to permit testimony as to profits and/or losses of the corporation and to allow the jury to consider the same in arriving at a verdict as to personal injuries of Mr. Cain.
+It is the traditional and general rule that evidence of the profits of a business in which the plaintiff in a personal injury damage action is interested, which depend for the most part upon the employment of capital, the labor of others, or similar variable factors, is inadmissible in such an action and cannot be considered for the purpose of establishing the pecuniary value of lost time or loss or diminution of earning capacity, for the reasons that a loss of such profits is not the necessary consequence of the plaintiff’s injury and that such profits are uncertain and speculative. 22 Am.Jur.2d, Damages, Sec. 175; 25 C.J.S. Damages sec. 44; Damages to Persons and Property, deck, Sec. 183 at page 283; 12 A.L.E. 2d 288.
+However, in the cases of Wallace v. Pennsylvania R. R. Co., 195 Pa. 127, 45 A. 685, 52 L.R.A. 33; Globe Motors, Inc. v. Noonan, 106 Ga.App. 486, 127 S.E.2d 320; Mire v. Timmons, La.App., 155 So.2d 265; Stewart v. St. Louis Public Service Co., Mo.App., 233 S.W.2d 759, business profits were admitted in evidence to show a loss of earning capacity. See also Eestatement, Torts, Secs. 912(d) and 924(c).
+Admissibility is on the theory that such profits were entirely or almost entirely the direct result of the personal labor and endeavor of the owner, and consequently, constitute the best standard of earning power. All of these cases hold that it must be clearly and fairly shown that the loss of profits is in the form of loss of earnings and such loss must be definitely proven and attributed to the injury.
+As to cases holding that profits of contracting operations were not earnings and, therefore, inadmissible, see Pryor v. Metropolitan Street R. Co., 85 Mo.App. 367; 12 A.L.R.2d 310; Gombert v. New York Central & H. R. R. Co., 195 N.Y. 273, 88 N.E. 382.
+It is well established in our State that in personal injury cases the measure of damages is determined by the loss of ability or capacity to earn. The rule applies whether the loss is permanent or temporary. It is proper to introduce into evidence the past and future earnings of the injured person. Such evidence is admissible to show one’s ability to earn. Eecovery is allowed for loss of capacity to earn even though there has been no monetary loss as where plaintiff’s employer gratuitously pays his wages during his incapacity because the test is ability or capacity to earn and not the actual pecuniary loss suffered. Southern Coach Lines v. Wilson, 31 Tenn.App. 240, 214 S.W.2d 55, and cases cited therein.
+In this case we are of the opinion the introduction of the profits and losses of this corporation fall within the rule of being uncertain and speculative so as to constitute reversible error.
+In the instant case it is shown that as a result of the injuries suffered in the automobile accident Mr. Cain was incapacitated the first three months of 1964. His uncorroborated testimony was the corporation earned a net profit of $6426.60 during the first three months of 1963, suffered a loss of $2321.46 for a similar period in 1964 and made a profit of $5996.85 the first three months of 1965. He also testified he received a salary of $100.00 per week from the corporation and as profits accumulated m the corporation, he would transfer these profits to his personal account.
+The record is silent as to the number of and type contracts the corporation performed during the above mentioned periods. Mr. Cain admitted that in some years he would have more business than other years. Obviously this is true, depending upon the number of contracts he is able to obtain. The profits made on these contracts Avould not necessarily depend upon the number completed. As heretofore stated, there are many factors and variables which enter into the making of profits.
+On the other hand, in our opinion, there are some cases in which the allowance of proof of loss of profits may be admissible in evidence. In cases where the injured person is the sole operator or partner of the business, an injured person’s services rather than the capital invested or labor of others is the predominate factor in producing the profits, evidence of diminution of profits could be received as a proper measure of his earning capacity. In cases of this character it must be shown that the business was personally conducted by the injured person with the profits depending entirely or substantially upon his individual labor and skill and are not derived from investment or labor of others.
+The courts in Pennsylvania follow this theory in the cases of Wallace v. Pennsylvania R. R. Co., supra; Simpson v. Pennsylvania R. R. Co., 210 Pa. 101, 59 A. 693. For other cases holding such, see Damages to Persons and Property, deck, Sec. 183; 12 A.L.R.2d 317.
+In this case the evidence as introduced does not meet the above test and, when we consider the evidence as a whole, it is insufficient to support damages for loss of profits by the plaintiff. The proof here does not show the loss of profits was directly attributable or a necessary consequence of plaintiff’s injury.
+There are other assignments of error but in view of our disposition of the question of the admissibility of profits in relation to damages, it is unnecessary to answer these assignments. To do so would unduly lengthen the opinion and be of no value.
+The companion suit of Claude Cain, Inc. for property damages to the automobile was tried at the same time and appealed. A judgment for $558.41 was entered in favor of plaintiff. There are no assignments of error in this suit. If appellant meant for the assignments in the other case to apply to both cases, he has failed to include in his brief any proposition of law or citation of authorities and under our Rula 12, such assignments are deemed waived. Nevertheless, we have considered these assignments and find no error.
+Thus it results the case of Claude Cain, individually, is reversed and the case of Claude Cain, Inc. is affirmed with the costs in this court taxed to the appellee.
+McAmis, P. J., and Cooper, J., concur.
