@@ -1,0 +1,36 @@
+---
+court: "Tennessee Court of Appeals"
+decided: "1934-03-24"
+citations: ["18 Tenn. App. 128", "73 S.W.2d 1114"]
+reporter: "tenn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CLEVENGER v. RAINS et al."]
+source_url: "https://static.case.law/tenn-app/18/cases/0128-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8510078
+cites_cases: ["123 Tenn., 605", "133 S. W., 1110"]
+---
+
+# Clevenger v. Rains
+
+## Majority (THOMPSON, J.)
+
+THOMPSON, J.
+On December 30, 1929, J. L. Rains executed a $600 note, due six months after date, to the First National Bank of Newport, and on the same date he and his wife, Carrie Rains, conveyed the house and lot involved in this cause to J. W. Marshall, Jr., trustee, to secure the payment of said note.
+On June 13, 1930, J. C. Clevenger recovered a judgment before a justice of the peace against J. L. Rains for $228.10. An execution was issued on this judgment, but the officer’s return on it was “no property found.” A garnishment was also issued on said judgment and was served on the First National Bank and the trustee in the deed of trust seeking to impound Rains’ equity in said house and lot.
+The above-mentioned note was not paid and the trustee in the deed of trust advertised a foreclosure sale for September 15, 1930.
+A short time prior to September 13, 1930, Mack Brown, to whom Rains was indebted in the sum of $469, learned of the prospective foreclosure .and also of the justice of the peace judgment and the attempted garnishment thereon. He made an agreement with Rains that if Rains would convey him the house and lot he would pay the $600 note and interest, etc., and would cancel the $469 indebtedness.
+On September 12, 1930, Rains and his wife executed and delivered a deed to Mack Brown conveying the house and lot to him. It was a general warranty deed and recited that the property was free of all incumbrances except the above-mentioned $600 indebtedness. The recitation as to the consideration was a cash payment of $1,000. However, it was not prepared by an attorney.
+At 1:13 P. M., on September 13, 1930, the complainant, Clevenger, tiled the original bill in this cause against Rains and Marshall, the trustee in the deed of trust, for the general purpose of reaching Rains’ equity in the property.
+At 1:15 P. M., on September 13, 1930, Mack Brown filed his deed from Rains and wife in the register’s officer for registration.
+At 4 P. M., on September 13, 1930, the complainant filed an attachment bond, and procured the immediate issuance of an attachment which was levied or served at 7:30 A. M., on September 15, 1930.
+On September 15, 1930, the complainant filed an amended and ■supplemental bill bringing Mack Brown into the litigation, etc.
+On the final bearing tbe chancellor held that upon the filing of the original bill, which was two minutes prior to the registering of the deed, complainant acquired a lien on Bains’ equity in the property which was superior to Mack Brown’s interest under the deed. He therefore decreed in favor of the complainant for the amount of his judgment, interest, and costs, and declared the same to be a lien on the property to secure the payment of the judgment, and ordered that unless said recovery was satisfied within thirty days the clerk and master should advertise and sell the property on a credit of six, twelve, and eighteen months and in bar of the equity of redemption.' Brown and Bains have appealed to this court and have assigned errors.
+It should have been stated that either on or before September 15, 1930, Brown and Bains filed a bill against the bank and trustee to enjoin the foreclosure sale upon the alleged ground that they had offered to pay the full amount of the indebtedness but that the defendants had refused to accept the payment and release the lien. At some time later Brown paid the indebtedness and the costs of the suit and procured a surrender of the $600 note and the deed of trust; the total amount paid being $669.90.
+Brown and Bains insist that the judgment of the justice of the peace was invalid. We do not think so. It is true that Bains testified that he was never served with process and knew nothing about the suit. The papers were introduced in evidence and show that the suit was instituted on June 5, 1930, that he was served with process, that the case was set for trial at 1 P. M., on June 13, 1930, and that the judgment was rendered on June 13, 1930. The assignment raising this question will therefore be overruled.
+Another contention made by the defendants is that the chancellor exceeded his discretion in setting aside a pro confesso which the clerk and master had entered against Clevenger on a cross-bill filed by Brown. At the time the cross-bill was filed the case had been heard and taken under advisement by the chancellor, and when the process was served Clevenger did not understand what it was, he simply filed it among his other papers without reading it or realizing that a cross-bill had been filed. Both the affidavits of Clevenger and his attorney were filed with the motion to set the pro confesso aside, as was an answer setting up a meritorious defense. Owing to the peculiar situation of the case, we think the chancellor was within his discretion in relieving Clevenger from his failure to read the process, and of course Clevenger’s attorney knew nothing about the filing of the cross-bill until after the pro confesso had been entered. So, the assignment making this question will be overruled.
+We think the chancellor was correct in holding that the filing of the original bill fixed a lien on the property. The bill described the property, alleged the rendition of the judgment, the is-suauce of the execution, and the nulla bona return. Also, the facts with reference to the $600 note and deed of trust securing the same, and the foreclosure thereof. And the object of the bill was to reach the excess value of the property over the $600 indebtedness, etc. So, we think that under Harris v. Beasley, 123 Tenn., 605, 133 S. W., 1110, Ann. Cas., 1914B, 942, the chancellor’s holding was correct. See, also, section 1018 of Gibson's Suit’s in Chancery.
+Defendants also insist that Rains being married was the head of a family and therefore entitled to a homestead exemption in the excess value of the property over the $600 indebtedness as to which the exemption had of course been waived in the deed of trust. Rains having sold and conveyed the property to Brown by general warranty deed will, of course, be liable to Brown for a breach of the covenants in said deed on account of Clevenger’s lien, etc. But can he claim or get the benefit of a homestead exemption in this manner? We do not think so. But even if he could, the record indicates that the excess value in the property over the $600 indebtedness exceeded the $1,000 exemption by more than the amount of Clevenger’s recovery.
+We do not see how Brown, in so far as Clevenger is concerned, can be subrogated to the bank’s lien of the deed of trust. He simply bought the property and paid off an indebtedness on it which was set out in his deed.
+It results that in our opinion there was no error in the decree of the chancellor, and the same will be affirmed, with costs.
