@@ -1,0 +1,29 @@
+---
+court: "Tennessee Court of Criminal Appeals"
+decided: "1970-03-25"
+citations: ["2 Tenn. Crim. App. 418", "454 S.W.2d 187"]
+reporter: "tenn-crim-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HYDER and RUSSELL, JJ., concur."]
+parties: ["JAMES A. ELLIOTT, Plaintiff in Error, v. STATE OF TENNESSEE, Defendant in Error."]
+source_url: "https://static.case.law/tenn-crim-app/2/cases/0418-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8506099
+cites_cases: ["11 Tenn. 588", "21 S.W. 525", "213 Tenn. 15", "92 Tenn. 282"]
+---
+
+# Elliott v. State
+
+## Majority (GALBREATH, Judge.)
+
+OPINION
+GALBREATH, Judge.
+The plaintiff in error sought to interpose a rather interesting but unavailing defense and from the trial judge’s refusal to allow its interjection on voir dire examination or by specially requested charge we have this appeal seeking to overturn the conviction for armed robbery and ten year sentence.
+Simply stated, the theory of the defendant was that because he claimed the victim owed him a debt, the jury, if it believed the existence of the debt, would be lawfully justified in finding that a forcible taking of a watch and ring from the person of the victim to satisfy the debt was not robbery.
+According to the defendant, the victim had stolen a pair of shoes from him about ten days before he took the jewelry at gun point. Assuming that the victim had stolen the defendant’s shoes, the law in this State recognizes no right to enforce payment of the debt thus created by force and violence. Indeed, even if the property the defendant alleged was stolen, from him had been the very watch and ring later taken from the person of the victim, the jury would still have been justified, in finding the crime of robbery was perpetrated. The right of possession of or title to the property taken is not the issue; the gist of the offense of robbery is the felonious and forcible taking from the person of another goods of value by putting him in fear. (See Clemons v. State, 92 Tenn. 282, 21 S.W. 525.) If the victim had stolen the defendant’s watch, ring and the shoes the right of the defendant to recover his property, or the value of same, is limited to legal means of redress. The old adage that “two wrongs do not make a right” applies with as much logic and force here as does the settled law in Tennessee setting out the same principle in somewhat more legalistic language.
+In the case of Black et al. v. State, 11 Tenn. 588 (1832) the defendants sought to prove as their defense to a robbery charge that the property taken from the victim by force and arms, a slave girl valued at $300, was in fact owned by them. In refusing to even allow proof of ownership to be considered as a material element of defense, :the judge instructed the jury “that every man must seek to redress his own wrongs by due process of law. One having lost property, may, when he finds it, lawfully retake it, if in the act of re-caption he commit no breach of the peace, or violate the person or personal rights of another. The peace and harmony of society must be preserved. It is of more importance than that the defendant should be delayed in obtaining possession of [his property], if he even had the unquestioned title thereto.” In approving the charge, the Supreme Court said: “Men are not permitted to redress their own wrongs, or to restore themselves to lost rights, at their own will and pleasure; others have rights too. The process of the law and courts are open to them, and to these resort must be had, not to force and acts of violence.”
+The other assignments of error are addressed to the sufficiency of the evidence and to the refusal of the trial judge to grant the defendant’s preliminary motion to be allowed access to such information as the State might have affecting the credibility, character, conflicting statements and motives of the State’s witnesses and to the failure of the court to give requested instructions to the jury during the course of the trial as to the elements necessary to constitute the crime of larceny. The victim’s corroborated testimony that he was forced to give Elliott his property at the point of a gun is ample to sustain the verdict in the absence of a preponderance of the evidence against it. (See McBee v. State, 213 Tenn. 15, 372 S.W.2d 173.) It is equally evident that the type of evidence the defendant designated in his disclosure motion predicated on T.C.A. § 40-2044 would not fall within that statute’s provisions regarding “books, papers, documents or tangible objects, obtained from or belonging to the defendant or * * * others” but would be the con-clusionary type of subjective information obtained from other witnesses, primarily the prosecutor, not made available by the statute which excludes “any work product of any law enforcement officer or attorney for the state or his agent or to any oral or written statement given to any such officer * * * by any witness other than the defendant.” The motives, attitudes, characters, personal views and backgrounds of witnesses are matters that must be determined by such investigation as the party seeking the information deems sufficient and in the absence of a designation of tangible objects that might tend to shed some light on the area of investigation the court should not permit a blanket inspection of the files of the State on the off-chance something “might” be found that “might” help the defendant. Such “fishing expeditions” have not as yet been authorized in Tennessee.
+We find no error in the refusal of the trial judge to instruct the jury as to the elements of the crimes embraced within the indictment until after all the proof was presented. The charge when delivered was full, fair and complete.
+The judgment is affirmed.
+HYDER and RUSSELL, JJ., concur.
