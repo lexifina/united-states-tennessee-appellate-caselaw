@@ -1,0 +1,43 @@
+---
+court: "Tennessee Court of Appeals"
+docket: "2"
+decided: "1970-02-20"
+citations: ["62 Tenn. App. 218", "460 S.W.2d 852"]
+reporter: "tenn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["McAmis, P. J., and Cooper, J., concur."]
+parties: ["MARY LIVELY, Appellant, v. ELIJAH C. NOE and wife, ELLA MAE NOE, Appellees."]
+source_url: "https://static.case.law/tenn-app/62/cases/0218-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8508135
+cites_cases: ["166 S.W.2d 1044", "179 Tenn. 394", "18 S.W. 245", "28 Tenn.App. 231", "34 Tenn.App. 294", "43 Tenn.App. 349", "46 Tenn. 98", "5 Tenn.App. 127", "83 Tenn. 153", "90 Tenn. 556"]
+---
+
+# Lively v. Noe
+
+## Majority (PARROTT, J.)
+
+PARROTT, J.
+In this chancery cause complainant, Mary Lively, has appealed from the chancellor’s decree sustaining defendants’ cross-bill and dismissing her original bill which sought damages and to enjoin the defendants, Elijah C. Noe and wife, Ella Mae, from using 4 roadway across complainant’s property to reach defendants’ property>
+It is averred and shown by the undisputed proof that the tract of land now owned by the complainant and the tract owned by the defendants were at one time a single tract consisting of 12 or more acres owned by John Liles and wife. On March 14, 1936, John Liles and wife conveyed a one-half acre tract to Lilly Langley and Richard Bedford. Now and at that time the one-half acre tract was completely surrounded by property of strangers or by property from which it was severed without any access-way to a public road. On June 7, 1954, defendants’ acquired this one-half acre tract from Bedford.
+The lands of complainant are the remaining lands of John Liles which were acquired by deed dated April 18, 1946. Complainant’s deed excludes by reference the one-half acre tract which had been originally conveyed to Bedford. Neither complainant’s nor defendants’ deeds or other deeds in the chains of title make any reference or mention of a right-of-way or easement to the one-half acre tract.
+In 1962 defendant purchased from complainant and her late husband a small tract of land which was a part of the original 12 acres and adjoins defendant’s one-half acre. This tract of land has no frontage on a public road nor does the deed include any mention of a right-of-way or easement.
+The complainant’s land fronts on a public road known as Cemetery Eoad. It is admitted by all the defendants have continuously used a roadway leading from Cemetery Road and extending some 452 feet across the lands of complainant since 1954. Defendants do not claim an adverse use of this roadway but say, and complainant admits, their use has been by permission.
+\n 1954, when defendants were building a house on the óne-half acre, John Lively, complainant’s deceased husband, gave defendants permission to haul lumber across his land. Since this grant of permission, defendants and others have continuously used this as an access-way to defendants’ property. During this 14 years no controversy or dispute ever arose until July 1968, when complainant ordered the. defendants to stop using the roadway. According to complainant’s testimony, Mr. Noe, without permission and in her absence, caused the county roadgrader to come upon and improve the road. During the course of working this road, the grader knocked down two fence posts and deposited some dirt on complainant’s property precipitating this controversy.
+A great part of the testimony in this record is directed to the question of the use of the disputed road. Some witnesses testified that in 1954, when the defendants acquired their property, no road was in existence. Other witnesses say a roadway has been in existence and constant use since as far back as 1912.
+From all the evidence we think it is reasonable to conclude that since 1936 the owners and occupants of the one-half acre have used complainant’s property as a means of ingress and egress to the public road. However, the record is not clear that during all this time there has been a house on the half acre or that the roadway has been used continuously and adversely for a twenty-year period. There is testimony indicating that even prior to the 1936 conveyance there was one or more houses either on or in the vicinity of defendants’ one-half acre tract and the roadway was used but until 1936 the entire tract was under one ownership.
+Under the established facts in this record we cannot agree with the chancellor’s finding that the roadway in question is a public road. The fact that the county grader has improved the roadway three or four times in the past several years is not sufficient to establish a dedication of a public road.
+Neither do we agree with the chancellor’s finding that by adverse use or prescription the defendants have acquired an easement. By defendants ’ awn testimony their use of this roadway was by permission, not adverse or under a claim of right. Nor does the proof establish an uninterrupted continuous use for a period of twenty years or more.
+However, we do think that the evidence shows the establishment of an easement by implication. "We are aware that such easements are not looked upon with favor and the policy of the law is to restrict the doctrine of implied easement. 17 Am.Jur. p. 945; Line v. Miller, 43 Tenn.App. 349, 309 S.W.2d 376. Nevertheless, our courts have long recognized the doctrine. In 1868, in Brown v. Berry, 46 Tenn. 98 at 106, our Supreme Court stated:
+“* * * when the owner of two parcels conveys one parcel, which is wholly surrounded by the other land of the grantor, or partly by this and partly by that of a stranger. The way is so far appurtenant to the land, as to pass with the land to the grantee, provided he have no other way of access to the same. ’ ’
+In the later case of LaRue v. Greene County Bank, 179 Tenn. 394, 166 S.W.2d 1044, the court said :
+“We recognize the fact that in several jurisdictions the rule that easements by implication -will not arise except in ease of strict necessity, has not been followed. Our cases do not lay down the rule of ‘strict' or ‘absolute’ necessity. We think an easement by implication, or implied reservation, should not arise except where it is of such necessity that it must be presumed to have been Avithin the contemplation of the parties.”
+Of like import see also Rightsell v. Hale, 90 Tenn. 556, 18 S.W. 245; Powell v. Riley, 83 Tenn. 153; Lewisburg v. Emerson, 5 Tenn.App. 127; Harris v. Gray, 28 Tenn.App. 231, 188 S.W.2d 933; Johnson v. Headrick, 34 Tenn.App. 294, 237 S.W.2d 567.
+In 25 Am.Jur.2d, Easements and Licenses, Sec. 27, is found the prevailing rule:
+“Where, during the unity of title, an apparently permanent and obvious servitude is imposed on one part of an estate in favor of another part, which servitude is in use at the time of severance and is necessary for the reasonable enjoyment of the other part, on a severance of the ownership a grant of the right to continue such use arises by implication of law. Similarly, where the owner of property, one part of which has been subjected to such a use for the benefit of another part, sells both parts to different purchasers, the respective portions granted are subject to or benefited by, as the case may be, an easement corresponding to such use. The principle under which the existence of an apparent use affords the creation of an implied easement has been applied to create an easement in a grantor by implied reservation. ’ ’
+With the proof in this case showing the complainant’s and defendants’ property at one time was a single tract with the defendants’ property being served first without an accessway, it is reasonable to presume the grantor and grantee contemplated an easement to the public road across the lands of grantor. This presumption is greatly strengthened by the further fact that since the original severance in 1936, the owners and occupants of the one-half acre have used the disputed lands as a way of ingress and egress to the public road. Further, it is also clearly shown that at the time of the 1936 conveyance and at the present time, the owners of the one-half acre tract could not have had reasonable enjoyment of their land without some accessway.
+We think the chancellor should have held defendants were entitled to an easement by implication instead of on the grounds of estoppel, prescription or declaring the roadway to be a public road.
+The cause is remanded so that the chancellor can definitely fix the width and location of the right-of-way.
+Let the chancellor’s decree as modified be affirmed with costs taxed to appellant.
+McAmis, P. J., and Cooper, J., concur.
