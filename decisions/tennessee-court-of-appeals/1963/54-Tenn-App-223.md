@@ -1,0 +1,84 @@
+---
+court: "Tennessee Court of Appeals"
+decided: "1963-10-18"
+citations: ["54 Tenn. App. 223", "389 S.W.2d 80"]
+reporter: "tenn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MEMPHIS LIGHT, GAS & WATER DIVISION, Appellant, v. NATE EVANS and IRVIN EVANS, d/b/a Evans Grading Company, Appellees."]
+source_url: "https://static.case.law/tenn-app/54/cases/0223-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8506683
+cites_cases: ["100 Tenn. 65", "106 Tenn. 242", "127 Tenn. 167", "154 S.W. 530", "160 S.W.(2d) 434", "202 Tenn. 141", "22 Tenn.App. 356", "25 Tenn.App. 514", "303 S.W.(2d) 335", "33 Tenn.App. 132", "40 Tenn.App. 127", "42 S.W. 1062", "61 S.W. 84"]
+---
+
+# Memphis Light, Gas & Water Division v. Evans
+
+## Majority (CARNEY, J.)
+
+CARNEY, J.
+Honorable Andrew 0. Holmes, Judge of Division 3 of the Circuit Court of Shelby County, Tennessee, now Justice Holmes of the Tennessee Supreme Court, sitting without a jury on December 18, 1962, entered a judgment in favor of the cross-plaintiffs, Nate Evans and Irvin Evans d/b/a Evans Grading Company, and against the Memphis Light, Gas & Water Division in the amount of $1,217.39. From this judgment the Memphis Light, Gas & Water Division has appealed and assigned error.
+The litigation began in the General Sessions Court of Shelby County, Tennessee, on June 4, 1962, when the Memphis Light, Gas & Water Division brought suit against the Evans Grading Company for damages resulting when the Grading Company allegedly struck and damaged a water main owned by the Memphis Light, Gas & Water Division. On June 11, 1962, the cross-plaintiffs sued out the following summons and cross action against the Memphis Light, Gas & Water Division:
+‘ ‘ To any Lawful Officer to Execute and Eeturn: •
+Summon Memphis Light, Gas & Water Division to appear before the Court of General Sessions of Shelby County, Tennessee, to be held at the Courtrooms of said Court in said County on the-day of-, 19-, at-M., then and there to answer in a cross civil action brought by Nate Evans & Irvin Evans DBA Evans Grading Co.
+For the sum of $1,400.00 as damages and for cause of action says: that sometime during the month of October 1961, the agents, servants or employees of the defendant while on or about the business of the defendant cut or severely damaged a sewer main at 23-87 Section A-l Fox Meadows Subdivision, which damage cross-plaintiff was forced to repair and that the cost of said repair was $1,400.00, all of which expense was incurred by the negligence and carelessness of the defendant in damaging said main.
+Under 2,000.00 Dollars.
+This 11 day of June, 1962.
+VANCE GRIFFIN
+Clerk of Court of General Sessions
+By /s/C Hall
+Deputy Clerk.
+BOND
+We Nate Evans & Irvin Evans DBA Evans Grading Go., Principal, and James 8. Shields, Surety, do hereby bind ourselves, our heirs and assigns in the penal sum of Twenty-five ($25.00) Dollars, conditioned that the plaintiff shall prosecute this suit with effect or pay such costs and damages as may be adjudged against him by the Court having cognizance thereof.
+This the 8 day of June, 1962.
+/s/ Nate Evans & Irvin Evans
+By James S. Shields, Principal
+/s/ James S. Shields, Surety”
+Upon trial in the General Sessions Court the Light, Gas & Water Division was cast and judgment rendered against it in the amount of $1,217.32. The cross action was seasonably appealed to the Circuit Court of Shelby County and the case retried on oral evidence before the Circuit Judge without a jury. The only written pleading in the record was the summons copied above.
+The Evans Grading Company had a snb-contract for laying sewers, curbs and gutters and finishing grades on streets in Section A-l, Fox Meadows Subdivision in Memphis, Tennessee.
+The substance of the cross-plaintiffs’ evidence is that during the spring and summer of 1961 the sewer lines and laterals thereto running to the respective residential lots were laid in accordance with plans and specifications required by the engineering department of the public works department of the City of Memphis and these lines were covered by gravel; that sometime during the latter part of October, 1961, an employee of the Memphis Light, Gas & Water Division, while operating a trenching or ditching machine preparatory to putting down a gas main which was laid just over the sewer line, knocked a hole in the top of the lateral sewer line which served the lot located at 5578 Cottonwood Road. The hole which was knocked in the top of the sewer lateral was about four inches in diameter. The employee of Memphis Light, Gas & Water Division did not repair the hole in the sewer lateral and did not notify cross-plaintiffs that the hole had been knocked in the sewer line. The gas main was laid in the ditch about six inches above the sewer line and the ditch refilled with gravel. The sewer lateral at the point where the hole was broken was located about 3% feet below the surface.
+In October, 1961, the Evans Grading Company began washing out the sewer lines for the purpose of final inspection and acceptance by the Public Works Department of the City of Memphis. Gravel was located in the sewer line near 5578 Cottonwood Road after plaintiff had dug up about 48 lineal feet of sewer line in order to locate the gravel. The gravel was removed and the sewer pipe replaced. About a month later the lines were again tested and washed out and gravel was again discovered in the lines near 5578 Cottonwood Eoad. Cross-plaintiffs filled the line with water which backed up through the broken place in the sewer lateral. Cross-plaintiff dug up the lateral and found the broken place which was then repaired. No gravel was found in the sewer subsequently and the project was accepted.
+On April 2, 1962, Evans Grading Company submitted a bill to the claim department of the Memphis Light, Gas & Water Division as follows:
+‘‘April 2, 1962
+Claim Department
+Memphis Light, Gas, and Water Division
+179 Madison Avenue
+Memphis, Tennessee
+Attention: Mr. William Sands
+Re: FOX MEADOWS SUBDIVISION
+Gentlemen:
+This is to advise you that damages caused by the Gas Department of your organization cutting Sewer Services on Cottonwood Road in the above mentioned subdivision have been repaired. We are herewith enclosing a breakdown in detail of the following charges and will greatly appreciate reimbursement as soon as possible.
+Total Machine Time $478.50
+Total Materials 26.69
+Total Labor 712.20
+1,217.39
+15% Overhead and profit 182.61
+TOTAL DUE_$1,400.00
+We thank yon for yonr past courtesies and assure you of our co-operation at all times.
+Very truly yours,
+EVANS GRADING COMPANY
+Irving Evans
+IE/ab”
+Accompanying the letter was a second page which purported to contain a detailed statement of the dates and hours that the machinery was used and name of the laborers and the pay rate of each.
+The defendant, Light, Gas & Water Division, admitted that its employee knocked the hole in the sewer lateral while digging a ditch for the installation of its gas main. The substance of its defense is that the gravel which was found in the sever line did not get in the sewer line through the small hole knocked in the lateral; that the plaintiffs’ bill for repairing the sewer line and flushing the sewer was exorbitant; and that its employee was not chargeable with knowledge that the sewer line was located just underneath the trench he was digging.
+His Honor the Trial Judge stated that the Water Division’s operator apparently knew he had cut the sewer line hut did not tell his superiors what he had done. Further, His Honor stated that while the plaintiff’s bill for the location of the damaged line and the repair thereof seemed high yet the defendant offered no evidence to controvert it and the court allowed the full amount of the hill less the 15% overhead and profit and rendered judgment for $1,217.39.
+The Light, Gas & Water Division has made five assignments of error as follows:
+“I
+The Court erred in rendering a judgment against the defendants on acts of negligence or a breach of a legal duty that were not alleged or embraced in the pleadings.
+“II
+The Court erred in basing an inference upon an inference in order to predicate liability on the part of the plaintiff in error.
+“Ill
+The Court erred in rendering a judgment in the amount of $1217.32 against the plaintiff in error where there was no evidence introduced in the cause that the defendant knew or in the exercise of reasonable care should have known that there existed in the street in front of 5578 Cottonwood Road an underground and buried sewer pipe or that said pipe was buried at such a depth below the surface of the street that it would be struck by the digging machine of the defendant excavating for the normal installation of a gas main.
+“IV
+The judgment is against the greater weight and preponderance of the evidence.
+“V
+There was no competent or credible evidence to support the judgment and the judgment is contrary to the law and the facts.”
+It will be noticed that by assignment of error No. Ill appellant insists that there was no evidence that the defendant’s employee knew or in the exercise of reasonable care should have known of the existence of the sewer lateral at a depth where it was likely to he struck by the trenching machine nsed in laying the gas main. Mr. Makowsky, an employee of Evans Grading Company, testified that the laying of sewer mains and laterals in subdivision projects are rigidly and closely inspected by officials of the City of Memphis. Mr. Newman Taylor, assistant superintendent of the Memphis Light, Gas & Water Division, testified that he had been employed by the Division for 28 years and that in the course of installing gas mains for the Division he regularly worked with the contractors who were engaged in developing subdivision property; that the depth of the gas mains ran from 2% to 4 feet; that he regularly inspected the installation of the gas mains along Cottonwood Road in the Pox Meadows Subdivision.
+We think this evidence on the part of cross-plaintiffs and the defendant clearly charges the defendant, Memphis Light, Gas & Water Division, and its employees with knowledge that there were sewer mains and laterals in the same area in which the defendant was laying its gas mains. Therefore, the employee of the Memphis Light, Gas & Water Division in charge of digging the trench for the installation of the gas main was obligated to use due care to prevent striking one of the sewer lines installed by cross-plaintiff. Assignment of error No. Ill is therefore respectfully overruled.
+There is no merit in assignments of error IV and Y. Under T.C.A. Section 27-303 this case comes before this court for a trial de novo but accompanied by a presumption of correctness of the judgment of the lower court. The evidence does not preponderate against the finding of the Trial Judge. The employee in charge of digging the ditch for laying the gas line and who allegedly was operating the trenching machine at the time it struck the sewer lateral was not offered as a witness by the defendant. No explanation was given for the failure to call him as a witness. Absent such reasonable explanation we must assume that his testimony would have been detrimental to the defendant’s case. Management Services, Inc. v. Hellman, 40 Tenn.App. 127, 289 S.W.(2d) 711.
+It is true that one of defendant’s witnesses testified that it was possible for the trenching machine to have struck and broken the sewer lateral without the knowledge of the operator of the trenching machine because a certain amount of dirt falls back into the trench behind the machine. If this debris is not removed by a process called “crumbing the ditch” the hole in the pipe might be covered up. There is no proof in the record whether the ditch was crumbed or not and no proof by any of the employees of defendant who participated in the laying of the gas main and refilling it at the location of the broken sewer line. Absent any testimony by the employee operating the trenching machine and bearing in mind that the operator was chargeable with knowledge of the existence of the sewer laterals, we concur in the finding of the lower court that the operator was guilty of negligence in breaking the sewer lateral. Assignments of error IV and V are therefore overruled.
+By assignment of error No. I the appellant insists very strongly .that the Trial Judge was in error in awarding damages which included the cost of searching for and finding the broken lateral as well as the cost of washing out the gravel in the sewer line. Appellant cites and relies upon the following cases: Redding v. Barker, 33 Tenn.App. 132, 136, 230 S.W.(2d) 202; Wilson v. Moudy, 22 Tenn.App. 356, 123 S.W.(2d) 828; Shay v. Harper, 202 Tenn. 141, 303 S.W.(2d) 335; East Tennessee Coal Co. v. Daniel, 100 Tenn. 65, 42 S.W. 1062; Metropolitan Life Ins. Co. v. Brown, 25 Tenn.App. 514, 160 S.W.(2d) 434; Utley v. Louisville & N. R. Co., 106 Tenn. 242, 61 S.W. 84; Nashville, Chattanooga and St. Louis R. R. Co. v. Davis, 127 Tenn. 167, 154 S.W. 530.
+We have read and studied all of these cases. While they do establish appellant’s general legal proposition that a judgment based upon acts of negligence not pleaded is void however well proven such facts may have been, we do not believe these cases are controlling of the case at bar. In our opinion the summons sued out in the General Sessions Court was sufficient to notify the appellant of the cross-plaintiffs’ claim and enable it to defend said action intelligently.
+If appellant’s employee had repaired the damage or if the cross-plaintiff had been notified of the damages to the sewer line before the gas main ditch was refilled with gravel then of course cross-plaintiffs’ damages would have been very small. Since the ditch was refilled before cross-plaintiff received knowledge of the damage to the sewer line, then all of the cost of locating the broken sewer line and removing the gravel from both the lateral and main sewer line was the direct and proximate result of the negligence of defendant’s employee. This is true whether the defendant’s employee knew he had broken the sewer line or not. His proximate negligence consisted of the breaking of the sewer line. Of course, if he had actual knowledge that he had broken the sewer line and failed to notify his superiors and/or cross-plaintiffs then such conduct aggravated but did not become an intervening cause of the cross-plaintiffs’ damages. Therefore, assignment of error No. I is respectfully overruled.
+With reference to assignment of error No. II that the Trial Court erred in basing an inference upon an inference in order to predicate liability on the part of the appellant, we find this assignment also to be without merit. The evidence in this case makes it more probable than not that the defendant’s employee running the trenching machine did cut the sewer line. Proof by appellant’s witness that it is possible that the operator could have broken the sewer line without knowledge is offset by the fact that he was chargeable with knowledge that a sewer line was in close proximity to the trench he was digging. It seems reasonable to assume that when the trenching machine struck the concrete sewer line some extra noise and vibration resulted which would normally have been noticed by the operator. These circumstances, along with the fact that the defendant did not offer such employee as a witness and made no reasonable explanation for its failure so to do, make it more probable than not that the employee did know that he had broken the pipe. However, as we stated above we do not think knowledge on the part of the employee that he had broken the pipe is essential to the defendant’s liability. Therefore, assignment of error No. II is respectfully overruled.
+While the appellant did vigorously insist by cross-examination that the bill for repairing the sewer line and flushing the sewer was exorbitant, yet it offered no affirmative evidence in contradiction of the ampunt claimed by cross-plaintiffs. Appellant did offer evidence through one of its officials that the sand and gravel found in the main sewer line could not have come from the small hole which was knocked into the sewer .lateral. This evidence is insufficient to refute the affirmative testimony of the cross-plaintiffs that the sand and gravel deposits were found on two occasions prior to the repair of the broken sewer and that after the repair there were no more sand and gravel deposits found and the sewer line was accepted by the city. It follows that all of the assignments of error mnst be respectfully overruled and the judgment of the lower court affirmed. The costs will be taxed against the appellant, Memphis Light, Gas & Water Division.
