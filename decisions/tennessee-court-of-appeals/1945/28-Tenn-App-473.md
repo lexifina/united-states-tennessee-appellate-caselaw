@@ -1,0 +1,37 @@
+---
+court: "Tennessee Court of Appeals"
+decided: "1945-07-28"
+citations: ["28 Tenn. App. 473", "191 S.W.2d 449"]
+reporter: "tenn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Felts and Hickerson, JJ., concur."]
+parties: ["METROPOLITAN LIFE INS. CO. v. BRYANT et al."]
+source_url: "https://static.case.law/tenn-app/28/cases/0473-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8511576
+cites_cases: ["136 Tenn. 520", "153 Tenn. 362", "179 S. W. (2d) 937", "179 S. W. (2d) 939", "190 S. W. 459", "284 S. W. 72", "3 Tenn. App. 80"]
+---
+
+# Metropolitan Life Ins. v. Bryant
+
+## Majority (HOWELL, J.)
+
+HOWELL, J.
+The hill in this cause was filed by the Metropolitan Life Insurance Company against David E. Bryant and Smith Wall, administrator cum testamento annexo of the estate of Bessie Booney Bryant, as a bill of interpleader and alleged that at the time of her death there was two policies of life insurance issued by it upon the life of Bessie Booney Bryant and that 'each of the defendants were claiming the proceeds of these policies. David E. Bryant Was named as beneficiary in both policies. The complainants admitted its liability on these policies in the amount of $861.26 and later paid that amount into the office of the clerk and master. While the cause was pending David E. Bryant died and the suit was revived in the name of his executrix, Georgia Edna Bryant.
+By an amendment to the original bill Georgia A. Chad-well was made a party defendant.
+Demurrers and answers were filed, proof taken and upon the hearing the Chancellor found the facts in favor of Georgia Edna Bryant, executrix of the estate of David E. Bryant, the named beneficiary in these policies. A fee of $50 was ordered paid to the solicitors for the Insurance Company who filed the bill of interpleader.
+The defendant Georgia A. Chadwell has perfected an appeal to this Court and has assigned errors.
+The questions raised by the assignments of error are similar in' many respects to those decided by this Court in the case of National Life and Accident Insurance Co. v. Bryant et al., reported in 179 S. W. (2d) 937, which was a controversy between the same parties involving policies of Insurance upon the life of the same insured in that company.
+In addition to the questions disposed of by that opinion the defendant Georgia A. Ohadwell contends in this case that on the night that Bessie Booney Bryant executed her will and while she was hopelessly sick and realized that she could not live much longer she delivered a box containing the policies in question to James Ohadwell, husband of Georgia A. Ohadwell, telling him to deliver the box with its contents to Georgia A. Ohadwell as her own property. Upon this question the Chancellor, in his memorandum filed, said: “The Court must agree-with' the proposition stated by counsel for Georgia Edna Bryant, executrix, etc., in his brief, to the effect that ‘Even if the law were, which it is not, that a policy of insurance in which a beneficiary is named, could be disposed of by gift so as to defeat the rights of the named beneficiary, the defendant Georgia A. Ohadwell, could not recover in this case because there is no competent and material evidence to support the insistence of said defendant that the policies were given to her by the insured, Bessie Booney Bryant.”
+After a careful consideration of the record and briefs and arguments of counsel we agree with the Chancellor in his finding of facts and conclusions of law. The defendant Georgia A. Ohadwell has failed to sustain her claim of a gift causa mortis by proving the necessary requisites for such a gift and had she done so, would not have been entitled to the proceeds of the policies in which David E. Bryant was named as the beneficiary.
+The proceeds of an insurance policy in which a beneficiary is named are not subject to an oral gift or assignment and do not pass by will so as to defeat the rights of the named beneficiary.
+In the National Life case, supra, quoting the opinion in the case of Cronback v. Aetna Life Insurance Co., 153 Tenn. 362, 284 S. W. 72, 73, we said:
+“The rules of law applicable to such cases and approved generally by the courts of this country are succinctly and accurately set forth in 37 Corpus Juris, sec. 350, p. 584, as follows:
+“ ‘¡Policies authorizing a change of beneficiary usually specify the mode of effecting the change, as by filing a written notice or request, accompanied by the policy, at the home office of the company, and the indorsement of the change on the policy by the company. In order to effect a change of beneficiary the mode prescribed in the policy must be followed, it being held in some cases that a substantial compliance is necessary and in others that a strict compliance is required. A mere unexecuted intention to change the beneficiary is not sufficient. The company has a right to insist upon compliance with the provisions of the policy, and while it may waive or be estopped to assert provisions intended for its benefit and protection, a waiver by it after the death of insured is ineffectual as against the original beneficiary. On the principle that equity regards as done that which ought to be done, the courts will give effect to the intention of insured by holding that the change of beneficiary has been accomplished where he had done all that he could to comply with the provisions of the policy, as where he sent a proper written notice or request to the home office of the company but was unable to send the policy by reason of circumstances beyond his control, as where it has been lost, or was in the possession of another person who refused to surrender it or was otherwise inaccessible, or where he sent both the policy and a proper written notice or request and all that remained to be done were certain formal and ministerial acts on the part of the company, such as the indorsement of the change of the policy, and these acts were either not done at all or were done after the death of insured. Of course the rule is not applicable where insured has not done all that he reasonably could to meet the conditions of the policy.’ ”
+Also in the National Life case it is said [179 S. W. (2d) 939]: “The maxim invoked by appellants cannot be relied upon against the complainant and the beneficiary to create a right contrary to the terms of the policy and in disregard of the rights of the named beneficiary. It is unfortunate for Georgia Chadwell that the insured did not enter upon her undertaking to change the beneficiary earlier. The fact that the insured died on the afternoon of the day that the Superintendent Rhodes was asked to visit her and secure a request for change of beneficiary and before he saw her and before the change could reasonably have been consented to by an official of the Company is equally unfortunate'.. Mere intention to make the change will not suffice. See also Holmes v. Gooch & Metropolitan Life Insurance Company, 3 Tenn. App. 80; Davis v. Davis, 136 Tenn. 520, 190 S. W. 459.”
+We therefore concur with the Chancellor in his findings and decree. The assignments of error are overruled and the decree of the Chancellor affirmed.
+The cause will be remanded to the Chancery Court of Davidson County, for the execution of the decree of that Court.
+The appellant Georgia A. Chadwell and her surety on the appeal bond will pay the costs of the appeal.
+Affirmed and remanded.
+Felts and Hickerson, JJ., concur.
