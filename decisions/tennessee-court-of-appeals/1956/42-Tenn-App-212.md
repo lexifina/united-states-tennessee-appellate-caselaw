@@ -1,0 +1,74 @@
+---
+court: "Tennessee Court of Appeals"
+decided: "1956-11-20"
+citations: ["42 Tenn. App. 212", "301 S.W.2d 374"]
+reporter: "tenn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["McAmis, P. J., concurring.", "Hale, J., did not participate."]
+parties: ["SOUTHERN RAILWAY CO. v. NEAL CRADIC."]
+source_url: "https://static.case.law/tenn-app/42/cases/0212-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8511868
+cites_cases: ["12 L. R. A. 184", "132 Tenn. 576", "135 S. W. (2d) 441", "136 F. 573", "138 Tenn. 562", "15 S. W. 919", "175 Tenn. 389", "179 F. 471", "179 S. W. 140", "199 S. W. 394", "22 Tenn. App. 468", "24 L. R. A. 693", "24 Tenn. App. 576", "30 Tenn. App. 390", "32 Tenn. App. 200", "4 Tenn. App. 558", "61 F. 605", "69 L. R. A. 525", "69 Tenn. 516", "79 Tenn. 205", "89 Tenn. 370", "9 Tenn. App. 589"]
+---
+
+# Southern Railway Co. v. Cradic
+
+## Majority (HOWARD, J.)
+
+HOWARD, J.
+Referring to the parties as they appeared in the trial court, the plaintiff, Neal Cradic, sued the defendant Railroad for damages for personal injuries sustained when he fell from a trestle located on the defendant’s line between the town of Church Hill and the community of New Canton, in Hawkins County. The accident occurred about 9 a.m. on January 2, 1955, while plaintiff was walking across the single track trestle which was described as being 200 feet long and 35 feet high.
+Plaintiff’s declaration contained three counts, alleging (1) common law negligence, (2) failure to observe the Statutory Precautions Act, T. C. A. secs. 65-1208 (4), 65-1209, and (3) failure to observe the last clear chance doctrine, to which the defendant filed a plea of general issue.
+A motion for a directed verdict made by the defendant at tbe conclusion of all the evidence was overruled, and the trial resulted in a jury verdict for the plaintiff for $4,250. Motion for new trial was likewise overruled, and this appeal in error was granted and perfected. No question is made regarding the amount of the verdict, nor were there any exceptions to the charge.
+By the defendant’s 1 assignment it is urged that the trial court erred in refusing to sustain its motion for a directed verdict, (1) because there was no material evidence on which the case should have been submitted to the jury; (2) because of plaintiff’s contributory negligence, and (3)'because the Statutory Precautions Statute was inapplicable by reason of the fact there was no collision between plaintiff and the front end of the train.
+In considering a motion by the defendant for a directed verdict, the trial court as well as the appellate courts are required to take the strongest legitimate view of all the evidence that supports the theory and contention of the plaintiff, disregard all evidence and inferences to the contrary, and if there be any doubt as to the conclusion to be drawn therefrom, the motion must be overruled. Lackey v. Metropolitan Life Ins. Co., 30 Tenn. App. 390, 206 S. W. (2d) 806. And only where one conclusion can be reasonably reached from the evidence and inferences is it proper for a trial court to direct a verdict. Coca Cola Bottling Works v. Selvidge, 4 Tenn. App. 558; Supreme Liberty Life Ins. Co. v. Pemelton, 24 Tenn. App. 576, 148 S. W. (2d) 1.
+After reviewing the evidence in the light of the foregoing rules, we are convinced that the case was properly submitted to the jury.
+On the date of the accident the plaintiff, whose home was located east of the trestle near Chnrch Hill, had started to visit his mother in the New Canton community. New Canton is located a few miles to the west, and by using a short cut across the defendant’s trestle, a distance of approximately a mile and a half could he saved. Plaintiff and several of his witnesses testified that they had been using this short cut for periods of from 12 to 30 years, without objections by the defendant, and that no trespassing signs had ever been erected.
+According to the plaintiff’s proof, the weather immediately prior to and at the time of the accident was clear, the sun was shining, and there was nothing to obstruct his view for a distance of 500 feet east of the trestle, and describing what occurred the defendant testified, as follows:
+“Q. Now, before you entered on the trestle what did you do? A. I stopped, listened and looked.
+“Q. Now, from the time you left home, did you hear any whistle or bells? A. No sir, never did.
+“Q. In other words, * * * about how far is Church Hill from where you started across this trestle? A. About a mile and a half.
+“Q. About a mile and a half * * * did any bell or any whistle sound from the time you entered up there on that — from the highway up on to the railroad? A. Never did.
+######
+“Q. Now, Neal, you stated that you stopped, looked and listened before you entered upon the trestle, after you heard no train, saw no train, heard no whistle, heard no hells, did yon start across? A. I certainly did.
+“Q. About how far did yon get across? A. About half way.
+“Q. Did you hear any whistle then? A. No, sir, never did hear one.
+“Q. Did you hear any bells? A. No sir.
+“Q. Did you look bade? A. Yes, heard the racket and looked back.
+“Q. Heard the racket and looked back. Now, Neal, * * * where were you on the trestle at that time? A. About half way on.
+‘ ‘ Q. About half way. Now when you looked back, how far up the track could you see? A. About five hundred feet.
+‘ ‘ Q. Now about how far was the train back of you, approaching, when you heard the noise? A. It hit the trestle.
+‘ ‘ Q. What ? A. It hit the trestle.
+######
+“Q. Now was there anything*, any obstruction between you and that train, on up the road there, as far as you could see that would prevent the engineer or fireman from seeing you on the trestle? A. No. sir, wasn’t a thing.
+“Q. Now, when the train approached you was there anyone on the engine that you could see? Did the fireman or the engineer have their faces anywhere looking out ahead? A. No sir.
+“Q. Is there — assuming that this is the edge of the cross-ties, is there a piece about four by six inches, something like that along the edge on the top of the cross-ties? A. Yes sir.
+“Q. Had they recently put tar or creosote on that woodwork? A. Yes sir.
+“Q. Were your finger prints on that piece where you held and fell from? A. Yes sir.
+‘ ‘ Q. Now when you saw the train bearing down on you there, Neal, just tell the jury what you did? A. I swung on the side. I was down and the pounding of the train jarred me loose.
+“Q. Just show the jury how you hung on there. A. I was holding it like that with my hands swung down to the side.
+“Q. If you hadn’t done that, was there room for you to stand on either side? A. No, no there wasn’t any room to stand on at all, if I hadn’t swung down it would have knocked me off.
+“Q. If you hadn’t swung down — • A. It would have knocked me off.
+“Q. Now, how far did you fall? A. About thirty-five feet.
+“Q. How fast would you say, in your honest opinion, was the speed of that train that morning? A. About fifty or sixty miles, fifty or fifty-five miles that morning.
+‘ ‘ Q. Now, Neal, did the engineer on that train, did he ever check it? A. He never did check a bit.
+‘ ‘ Q. Did lie ever slow down. A. He never slowed down.
+“Q. Did the train keep going? A. Yes, it kept going.”
+Plaintiff further testified that at the time his eyesight and hearing were liormal, and that if defendant’s servants had sounded any warnings of the approaching train he would have heard them; that because the crossties on the trestle extended only 28 inches beyond the rails, it was impossible for him to have remained on the trestle without being struck; that the engine was only a few feet away when he swung over the south side of the trestle, where he remained for only a few seconds before the vibrations from the train shook him loose and he fell onto the rocks and gravel 35 feet below. Besides minor injuries, plaintiff sustained a broken shoulder, a fractured collar bone, a fractured skull, a wrenched back and 4 broken ribs. He was unable to work for about a year, and was still wearing a brace at the time of the trial.
+There was a sharp conflict in the evidence over the condition of the weather at the time, the plantiff and his witnesses testifying that it' was clear and visibility good, while the defendant’s engineer and fireman testified there was a heavy fog which made it impossible for them to see the plaintiff on the trestle. There was likewise a conflict in the evidence as to whether the defendant’s servants sounded any warning as the train approached the trestle. These conflicts were settled by the verdict of the jury, and we are bound thereby. Mitchell v. Farr, 32 Tenn. App. 200, 222 S. W. (2d) 218.
+The train consisted of 40 empty and 60 loaded cars, and it was admitted that it was coasting downgrade at the time, which reasonably accounted for plaintiff’s not hearing its approach. It was likewise admitted that if the plaintiff had not swung over the edge of the trestle, he would have been struck by the front of the engine. The engineer stated that if the train had been stopped on the trestle, it would have been impossible to have removed the plaintiff from his perilous position.
+Thus, after a review of the record we find there was credible evidence from which the jury could find (1) that visibility was good, (2) that plaintiff was an obstruction on the defendant’s track within the sweep of the moving train, and (3) that defendant’s servants did not, upon seeing plaintiff as an obstruction upon its track, make any attempt to comply with either its common law duty or the provisions of the Statutory Precautions Act, T. C. A. sec. 65-1208 (4), which reads as follows:
+“Every railroad company shall keep the engineer, fireman, or some other person upon the locomotive, always upon the lookout ahead; and when any person, animal, or other obstruction appears upon the road, the alarm whistle shall be sounded, the brakes put down, and every possible means employed to stop the train and prevent an accident. ’ ’
+Appearance “upon the road” within the meaning of subsec. (4) of the above Section means appearance upon the track or roadbed in front of the moving train, and extends as far as there is danger of the obstruction being struck and injured by the engine or train while moving on the rails, but does not extend to the whole right of way. Gaines v. Tenn. Cent. Ry. Co., 175 Tenn. 389, 135 S. W. (2d) 441; Southern R. Co. v. Harris, 9 Tenn. App. 589; Louisville, N. & G. S. R. Co. v. Reidmond, 79 Tenn. 205; Nashville & C. R. Co. v. Anthony, 69 Tenn. 516; Byrne v. Kansas City, Ft. S. & M. R. Co., 6 Cir., 61 F. 605, 24 L. R. A. 693; Rogers v. Cincinnati, N. O. & T. P. R. Co., 6 Cir., 136 F. 573; Southern R. Co. v. Sutton, 6 Cir., 179 F. 471.
+In Whittaker v. Louisville & N. R. Co., 132 Tenn. 576, 179 S. W. 140, 142, the plaintiff was injured when she jumped from a wagon while crossing the defendant’s track in front of one of its approaching trains. Neither the plaintiff nor the wagon collided with the train, and it was held that it was for the jury to say whether plaintiff was negligent in jumping from the wagon, the Court saying:
+“As the case, however, must go back for a new trial, it is proper to say that the circuit judge committed no error in charging the substance of subsection 4 of sec. 1574.* It was the common-law duty of the railroad company, on seeing the wagon on the track, so near, and especially in view of the great speed at which the train was going — 50 miles an hour —to do the things prescribed in that subsection. If an effort had been made to stop the train, it is very probable that the plaintiff would not have felt the necessity of jumping out of the wagon as she did, since she would have seen a better hope of escaping injury in the additional time thus allowed the wagon to clear the track. It was for the jury to say whether, under all the circumstances, she acted with reasonable prudence and caution; that is to say, whether she was reasonably justified in springing from the wagon instead of trusting her safety to the speed of the horses, as the driver did.”
+In the instant case, if an effort had been made to stop the train or if warning had been sounded of its approach, it is probable that the plaintiff would not have felt the necessity of swinging over the side of the trestle as he did, since he would have had an opportunity of escaping injury by running to the opposite end of the trestle. In 44 Am. Jur., it says:
+“It is the duty of a railroad company to use reasonable care to avoid injuring a person, even though a trespasser, who is caught, in some situation from Avhich it is physically impossible to escape in time to avoid injury, as, for example, upon a bridge or trestle, or where the person has caught his foot in the rails so that he is unable to extricate himself. Thus, it has been held that if the engineer on an approaching train sees a person on a railroad bridge or trestle, whose only means of escape is to reach the end of the bridge, he must give such person ample time to cross in safety, and if the engineer speculates upon the chances of the- latter’s reaching the end of the trestle before the train does, until it is too late to stop the train, and he is run over and killed, the railroad corporation is answerable in damages, because it is recklessness for engineers to speculate upon such chances.” Sec. 472, p. 708.
+For numerous decisions supporting the above rule, see Annotation, 69 L. R. A. 525.
+In Nashville, C. & St. L. Ry. v. Brymer, 22 Tenn. App. 468, 124 S. W. (2d) 261, 263, the plaintiffs obtained judgments for damages for personal injuries sustained by being struck by a train while walking on defendant’s bridge, and in affirming the judgments this Court, Middle Section, said:
+“The mere fact that a party is a trespasser upon the railroad track and is injured while thereon, or while contributing to the injury by his own negligence, will not prevent him from recovering damages for injuries negligently inflicted by the railroad company, if the injuries might have been averted by the use of ordinary care on the part of the company. Chattanooga Station Co. v. Harper, 138 Tenn. 562, 199 S. W. 394; Patton v. East Tennessee, V. & G. R. Co., 89 Tenn. 370, 15 S. W. 919, (12 L. R. A. 184).”
+In the above case it was also held that whether plaintiffs would have had time to escape after the whistle had been sounded at a point at which time the evidence showed they could have been seen by the lookout on the engine, was a question for the jury.
+For reasons indicated, we find no merit in the defendant’s assignment of error and it is accordingly overruled, and the judgment is affirmed at defendant’s costs.
+McAmis, P. J., concurring.
+Hale, J., did not participate.
