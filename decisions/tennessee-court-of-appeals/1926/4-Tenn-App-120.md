@@ -1,0 +1,38 @@
+---
+court: "Tennessee Court of Appeals"
+decided: "1926-10-15"
+citations: ["4 Tenn. App. 120"]
+reporter: "tenn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Heiskell and Senter, JJ., concur."]
+parties: ["CARRIE MORRIS ESTES et al v. PAUL O. MORRIS."]
+source_url: "https://static.case.law/tenn-app/4/cases/0120-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8509716
+---
+
+# Estes v. Morris
+
+## Majority (OWEN, J.)
+
+OWEN, J.
+The complainants have appealed from a decree of the chancery court of Obion county, wherein their bill was dismissed and they were denied any relief.
+The complainant, Carrie Morris Estes, is a sister of the defendant, Paul Morris.
+Complainants filed their bill April 9, 1925, alleging that on August 24, 1924, Carrie Morris Estes, who had intermarried with A. P. Estes, her co-complainant, conveyed a tract of land, lying in the 16th civil district of Obion county, and which tract was described in the bill, and that said conveyance was made to her brother at his earnest solicitation; that the conveyance was made without consideration and made upon the suggestion of the defendant that complainant, Carrie Morris Estes, would likely soon lose control of the land by reason of her newly acquired husband’s spendthrift habits and that he would persuade her to dispose of the tract of land and squander the proceeds. It was insisted that the defendant would reconvey this tract of land to complainant upon her demand. Complainant alleged that her brother, and her mother and her sister were displeased with her marriage to her co-complainant and to secure peace and harmony in the family she agreed to convey said tract of land, and did convey the same, to her brother, the defendant, in trust; that there was no consideration, and she asks that title he divested out of her brother and be vested in her.
+The defendant, in his answer, alleg'es that the conveyance was made to him for the purpose of defrauding the former wife of A. P. Estes in a suit that she contemplated bringing against complainant for alienating the affections of A. P. Estes, from the former wife of A. P. Estes, who resided at Dresden, in Weakley county, Tennessee.
+Upon the hearing the Chancellor dismissed complainant’s bill, they excepted, and prayed and were granted an appeal to this court, perfected the same and have assigned errors upon the action of the Chancellor in refusing them the relief sought.
+The facts briefly stated are as follows:
+Complainant, A. P. Estes, left his home and wife and some small children in Weakley county, Tennessee, and moved to Los Angeles, California. The Weakley county Mrs. Estes procured a divorce. The defendant, Paul Morris, in 1924, or some time prior thereto also lived in Los Angeles, California. Some few months prior to the execution of the deed sought to be annulled, complainant, Carrie Morris, left her home in Frdton, Ky., she being a woman about forty years of age, and went to visit her brother, Paul Morris, two years her junior, at his home in Los Angeles.
+Some time after complainant, Carrie Morris, reached California a divorce having been granted to the Mrs. Estes of Weakley county, complainant, Carrie Morris, and A. P. Estes were married. This seems to have- met with the disapproval of the defendant.
+There is no proof to show that the complainant, Carrie Morris knew that A. P. Estes was in Los Angeles, at the time she arrived there to visit her brother, tire defendant. It appears that one Mitt Shaw, a citizen of near Pulton, Ky., made the trip to Los Angeles on the same train that complainant did in February, 1924. Mitt Sharv located A. P. Estes in Los Angeles and brought him to the home of the defendant. Paid Morris, a few weeks after Mitt Shaw arrived in California; and soon after Estes’ visit to the home of the defendant he and' the complainant, his present wife, were married.
+Some months after the execution of the deed in controversy Mrs. Estes of Weakley county, the former wife of A. P. Estes, sued Carrie Morrie Estes in the circuit court of Obion county, for alienating her husband’s affections. It appears that the father of A. P. Estes secured some settlement with the plaintiff, Mrs. A. P. Estes of Weak-ley county. Complainant said she heard that her father-in-law paid some $1700 toward the support and maintenance of the Estes children; that she had nothing to do with this settlement or compromise.
+When complainant left Fulton, Ky., she entrusted ber mother with forty or fifty thousand dollars worth of property, consisting of bonds, stocks in the Illinois Central Railroad Company, and Standard Oil Company of Louisiana. She also left several hundred dollars deposited in one of the banks of Fulton, Ky. The complainant gave a check to some parties in Los Angeles on her bank account for $208. This check was returned indorsed by the Fulton Bank “All funds of complainant, the drawer, had been withdrawn by Mrs. Susie Morris, mother of complainant.”
+The facts further sjhow that complainants returned from Los Angeles in 1925 to Fulton, Ky., and A. P. Estes operated a garage in Fulton. The defendant, and his mother and sister quit speaking to complainant. Their relations became strained, prior to the institution of this suit.
+"We find from the weight of the evidence that the complainant conveyed this land to her brother to satisfy his requests and whim and to try to keep peace and harmony in the family; that at the time she made this conveyance she had no information as to any contemplated suit for alienating the affections of her. husband from his former wife, and that she did not convey this tract of land to defeat any creditor, or creditors; that the conveyance was not made for any fraudulent purposes. The defense set up by the defendant is not supported by the facts.
+We find furthermore that complainant, Carrie Morris Estes, at the time she made this conveyance, retained assets sufficient at the date of the conveyance to meet all of her existing debts. We further find that no suit or demand had been made upon her for any claim by Mrs.. Estes of Weakley county, at the time this conveyance was made, and the defense claimed in law is contrary to the rule announced in Sanders v. Logue, reported in 4th Pickle, page 354.
+It appears upon the face of complainant’s bill that they do not come into court with unclean hands. The defendant sets up by way of defense and asks the court to let him hold the land in controversy because of an admitted and acknowledged fraud on his part, wherein he insists that he participated in a fraud with his sister and her husband, the purpose being that she would convey to him and he would accept the conveyance of the lands in controversy for the sole purpose of defeating an expected lawsuit. The defendant has not carried his contention and defense by a preponderance of the evidence, while the complainant has sustained her allegations by the greater weight of the evidence, as we have viewed it.
+It results that the decree of the Chancellor is reversed and the assignments of error of complainant are sustained and a decree will be entered here divesting title out of the defendant and vesting it in Carrie Morris Estes.
+Tbe defendant will pay all tbe cost of tbe cause for which execution will issue, and tbe complainant having prayed for an accounting for rents and profits for tbe use and occupation, this cause will be remanded to the chancery court of Obion county for the purpose of ascertaining what is due her for rents, etc.
+Reversed and remanded.
+Heiskell and Senter, JJ., concur.
