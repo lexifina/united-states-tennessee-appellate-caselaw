@@ -1,0 +1,30 @@
+---
+court: "Tennessee Court of Appeals"
+decided: "1945-12-11"
+citations: ["29 Tenn. App. 8", "193 S.W.2d 91"]
+reporter: "tenn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Ketchum and Baptist, JJ., concur."]
+parties: ["PALMER BROS. et al. v. HAVENS."]
+source_url: "https://static.case.law/tenn-app/29/cases/0008-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8511080
+cites_cases: ["10 Tenn. 31", "107 Tenn. 647", "144 Tenn. 113", "19 C. C. A. 108", "230 S. W. 391", "30 Tenn. 1", "31 L. R. A. 415", "401 Am. Rep. 37", "53 Am. Dec. 742", "61 L. R. A. 888", "64 S. W. 1075", "71 F. 787", "74 Tenn. 286"]
+---
+
+# Palmer Bros. v. Havens
+
+## Majority (ANDERSON, P. J.)
+
+ANDERSON, P. J.
+Referring to the parties as of their status on the record in the other court, the original plaintiff, Mrs. Yirginia P. Havens, sued the defendants, Palmer Brothers and J. L. Beauchamp, to recover the earnest money paid to Palmer Brothers on a contract for the purhase of a parcel of real estate in Memphis. The judgment was for the plaintiff and the defendants appealed. ...
+The property was owned by the defendant Beauchamp. He had listed it for sale with the defendants, Palmer Brothers, who are licensed real estate brokers. They negotiated the sale of the property to the plaintiff for a specified sum, reducing the contract to a writing, which was signed by both the plaintiff- and Beauchamp and also by Palmer Brothers as agent. A deposit of $200 earnest money was required and made. The contract of sale recited the receipt of this sum and that it was deposited “as earnest money and in part payment of the-purchase price of the follwing described real estate, etc.” There was a provision that if the title was good and. the property not paid for as provided for in the agreement, “this earnest money is to be forfeited to the seller.” It was also provided that “such forfeiture shall not in no way affect the right of either party to enforce the specific performance of this contract. ’ ’
+At the time of the trial the property had been sold to other parties.
+The theory of the action was that the real estate agents had represented that the property was on a street on which no colored persons lived and that this representation was false, justifying a rescission and requiring a return of the earnest money.
+• The trial judge found against the plaintiff as to the alleged misrepresentation, but it developed in the course of the trial that the transaction had been initiated and consummated on' Sunday and this was the basis of his action in giving judgment for the plaintiff.
+Code, Section 5253, makes it a misdemeanor to exercise any of the common vocations of life on Sunday. It is conceded that the transaction under review was consummated on Sunday; that the owner of the property, the defendant Beauchamp, was represented therein by Palmer Bros., who were licensed real estate brokers; that in negotiating the contract they were engaged in one of the common vocations of life in violation of the statute. But the contract was not with Palmer Bros. It was with Beauchamp, who,, so far as appears, was not engaged in the business of buying and selling real estate. In view of this fact, if it were open for consideration, the question of whether the contract was valid might be a serious one. Amis v. Kyle, 10 Tenn. 31, Am. Dec. 463; Cook v. Carmichael, 3 Tenn. Civ. App. 477, 3 Higgins 477; 1 page on Contracts, Sec. 455; Moseley v. Vanhooser, 74 Tenn. 286, 401 Am. Rep. 37; City of Knoxville v. Knoxville Water Co., 107 Tenn. 647, 64 S. W. 1075, 61 L. R. A. 888.
+But we are relieved of the necessity of passing upon this question because the defendants expressly take the position, and no other, that the contract was made in violation of the provisions of Code, Section 5253 above referred to, and therefore illegal and void. Hence we are warranted. in disposing of the controversy upon that theory. The defendants’ sole contention is that since the contract was illegal and void and was an executed one, the court will aid neither party in an effort to enforce any right thereunder. This is the general rule. But it is subject to important limitation. One is, that the contract not being malum in se, the courts may interfere from motives of public policy, even where the parties are in pari delicto. Belief may be granted a party equally guilty with his opponent, not only by cancelling an executory agreement, but even by setting aside an executed one and decreeing the recovery back of money paid in performance thereof. Pomeroy’s Eq. Jur. Vol. 2, Sec. 941; Darnell-Love Lumber Co. v. Wiggs, 144 Tenn. 113, 230 S. W. 391; McCutcheon v. Merz Capsule Co., 6 Cir., 71 F. 787, 19 C. C. A. 108, 31 L. R. A. 415.
+Moreover, the contract which determines the question was not an executed one. The contrary view presupposes that the nature of the agreement is controlled by the fact that the earnest money was actually paid to the real estate agents. This is an erroneous view. The payment of the earnest money was merely by way of evidencing the good faith of the purchaser and securing performance on his part. It was but a collateral incident to the principal agreement which was that for the sale and purchase of the property and clearly executory. Hence we have an executory contract conceded to be violative of the public policy of the State. As to this character of agreements, a party may disaffirm and recover any money paid thereunder, even in a court of law. Ohio Life Ins. & Trust Co. v. Merchants’ etc., Co., 30 Tenn. 1, 53 Am. Dec. 742. As said this remedy against executory contracts made in violation of public policy is granted without regard to the circumstances that the parties are or are not in pari delicto. Id. In such cases the relief given is to the public through the party.
+The result is that the judgment is affirmed at the cost of the plaintiffs-in-error.
+Ketchum and Baptist, JJ., concur.
