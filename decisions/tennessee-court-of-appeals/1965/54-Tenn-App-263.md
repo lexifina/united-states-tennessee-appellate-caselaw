@@ -1,0 +1,48 @@
+---
+court: "Tennessee Court of Appeals"
+decided: "1965-01-14"
+citations: ["54 Tenn. App. 263", "390 S.W.2d 461"]
+reporter: "tenn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cooper and Parrott, JJ., concur."]
+parties: ["CHARLES PACE, Plaintiff in Error, v. GARBAGE DISPOSAL DISTRICT OF WASHINGTON COUNTY, Defendant in Error"]
+source_url: "https://static.case.law/tenn-app/54/cases/0263-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8506721
+cites_cases: ["123 A.L.R. 646", "160 S.W.(2d) 413", "160 S.W.(2d) 418", "178 Tenn. 532", "178 Tenn. 546", "184 Tenn. 414", "199 S.W.(2d) 119", "206 Tenn. 642", "337 S.W.(2d) 5", "42 Tenn.App. 329"]
+---
+
+# Pace v. Garbage Disposal District of Washington County
+
+## Majority (McAMIS, P. J.)
+
+McAMIS, P. J.
+This case originated in the Connty Conrt of Washington Connty where plaintiff in error Charles Pace filed a petition against Garbage Disposal District, a pnblic utility district organized and existing under the provisions of T.C.A. sec. 6-2601 et seq.
+By his petition plaintiff in error, in effect, sought to have the County Judge grant a modification of the franchise of the Utility District giving it the exclusive right to collect and dispose of garbage in the territory of Washington County outside the incorporated cities of Johnson City and Jonesboro. After a hearing before the County Judge, the petition was sustained upon condition the petitioner comply with all health regulations controlling the collection and disposal of garbage.
+The District thereupon preserved a bill of exceptions and appealed to the Circuit Court where the case was heard exclusively on the bill of exceptions.
+The Circuit Judge found:
+“1. That the evidence is wholly and completely insufficient to establish any failure on the part of the Garbage Disposal District * * # to furnish adequate services in the collection and disposal of garbage. *' * *
+“2. That there is no evidence that the public convenience and necessity require further and additional services. * * *
+“3. There is no evidence that Charles Pace could satisfactorily furnish adequate garbage collection and disposal services even if the public convenience and necessity should require additional services.”
+Pace, herein referred to as Petitioner, moved for a new trial which was overruled, resulting in the present appeal.
+T.C.A. sec. 6-2607 provides, in part, as follows:
+“So long as the district continues to furnish any of the services which it is herein authorized to furnish, it shall be the sole public corporation empowered to furnish such services in the district unless and until it shall have been established that the public convenience and necessity requires other or additional services.”
+The action of the County Judge granting a modification of the District’s exclusive franchise is appealable to the Circuit Court where it is reviewable as the action of an administrative body and if sustained by material evidence of a substantial nature must be affirmed. Consolidated Utility District v. Robert P. O’Neil, Sullivan Law, decided March 26, 1964, by the Eastern Section of this Court.
+Judicial review of the action of administrative bodies is confined to an examination of the evidence to determine whether “there is material evidence to support conclusions that are neither arbitrary nor unlawful. ” Dunlap v. Dixie Greyhound Lines, 178 Tenn. 532, 538, 160 S.W.(2d) 413, 415. And see Tenn. Cartage Co. v. Pharr, 184 Tenn. 414, 199 S.W.(2d) 119; Associated Transport, Inc. v. Fowler, 206 Tenn. 642, 337 S.W.(2d) 5; Hickerson v. Flannery, 42 Tenn.App. 329, 302 S.W.(2d) 508.
+In such proceedings the Court is not to substitute its judgment for that of the administrative body. Southeastern Greyhound Lines v. Dunlap, 178 Tenn. 546, 160 S.W.(2d) 418.
+We must bear in mind, however, that to sustain the action of an administrative tribunal more than a scintilla or glimmer of evidence is required. It must be of a substantial, material nature. Tennessee Cartage Co. v. Pharr, supra. In that case evidence sufficient to sustain the challenged ruling was likened to the kind and degree of proof sustaining a concurrent finding of the trial court and the Court of Appeals or that requiring the submission of a case to the jury.
+It must be such relevant evidence as a reasonable mind might accept as adequate to support a rational conclusion and such as to furnish a reasonably sound basis for the action under consideration. Anno. 123 A.L.R. 646; 2 Am.Jur.(2d) 572, Administrative Law, Section 688.
+Although not spelled out in the Act, we think it is also to be borne in mind that the predominant consideration in cases of this kind is the need of the people to be served by the utility over the entire territory embraced by the District rather than the desires of the contending parties. Of. Associated Transport, Inc. v. Fowler, supra. Another consideration is the financial ability of the applicant to maintain service on a permanently satisfactory basis. And before granting a modification of the franchise of an established and fully equipped District it should appear that awarding a competing franchise in the territory will not impair the service available in the future.
+With these principles in mind we look to the evidence which moved the County Judge to grant the modification.
+Petitioner was in the garbage collecting business when the District was formed in 1955. Thereafter, at the instance of the District he was enjoined from competing with it. Later, he was employed by the District but his services were terminated because of his failure to account for moneys due the District from collections he had made and for which the District now has an unpaid judgment against him for approximately $800.00.
+After being discharged Petitioner began collecting garbage in violation of the injunction. In February, 1963, he filed the petition here involved in the County Court.
+His equipment consists of one pick-up truck which he covers with a tarpaulin. He admitted that he had no other equipment. He testified tht he had arranged with a landowner for dumping privileges. He has no heavy equipment with which to cover garbage as required by the health authorities and, as indicated by the unsatisfied judgment, no financial means. The District, on the other hand, has two enclosed trucks and the necessary heavy equipment for covering garbage. Its manager testified that it is equipped to serve the entire County and has done so whenever requested.
+Petitioner offered as witnesses six customers of the District who testified generally that they considered the service unsatisfactory and, specifically, for reasons ranging from dropping trash on the lawn to delay, sometimes for as long as a month, in picking up garbage at the homes of these witnesses. One of these witnesses discontinued using the service four years before the hearing.
+A large number of other witnesses testified that the services of Petitioner were entirely satisfactory; that his charges were less than those of the District and that they would prefer his services to those of the District.
+There is some further proof that complaints were made by telephone to the office of the District and that certain of the witnesses had requested service by messenger and by telephone which had not been supplied. None of these complaints was made to the responsible officials of the District and followed up by bringing them to the attention of the Commissioners. The complaints deal with the service rendered by subordinates or complaints as to the action of truck drivers in the employ of the District and not with any action of the managing and policy making Board of Commissioners.
+We have no difficulty in concurring with the finding of the Circuit Judge that there is no evidence that Petitioner can supply the services for which he seeks a competing franchise. Prom the undisputed proof, to allow him to service the thickly populated areas of the District where he has been collecting at a lower cost, leaving the District to service more sparsely settled sections, would make it impossible for the District to meet its bonded indebtedness and continue its operations. In view of the apparent insolvency of Petitioner it is easily forseeable that the effect of granting his petition would be that a few people would have service through Petitioner while the present 900 customers of the District might have none.
+As we have seen, under the authorities cited, the needs of the people is the primary criterion. This means all the people of the District, not that portion which Petitioner can serve.
+While not as free from doubt, in view of the material evidence rule, we also agree that the evidence falls short of showing there has been a failure on the part of the District to render adequate services. We would have quite a different question if a substantial number of customers having shown themselves willing to abide all reasonable rules and regulations of the District, had made formal request for service or formally complained of the inadequacy of the service to no avail. If such complaints in substantial numbers had been made and ignored it could then be said with reason that the service was inadequate. It would be unreasonable, however, to hold that complaints made to subordinate employees by six customers out of a total of 900 would warrant holding the services of the District so inadequate as to justify granting a competing franchise.
+We find no error. Affirmed.
+Cooper and Parrott, JJ., concur.
