@@ -1,0 +1,33 @@
+---
+court: "Tennessee Court of Appeals"
+decided: "1927-07-23"
+citations: ["10 Tenn. App. 527"]
+reporter: "tenn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Portrum and Thompson, JJ., concur."]
+parties: ["SEABOARD SECURITY CO. v. J. W. HAMMER."]
+source_url: "https://static.case.law/tenn-app/10/cases/0527-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8511415
+---
+
+# Seaboard Security Co. v. Hammer
+
+## Majority (SNODGRASS, J.)
+
+SNODGRASS, J.
+This is an action on a no.te. It originated before a Justice of the Peace, before whom plaintiff obtained a judgment on the note for $117.32 and all costs, on the 26th day of March, 1926. From this judgment an appeal was granted the defendant to the circuit court of Knox county, on his giving bond or otherwise complying with the law. On Wednesday, Nov. 24, 1926 the cause was heard before the judge of the circuit court, without the intervention of a jury, when it was adjudged by the court that the plaintiff was not entitled to a recovery, and the suit was dismissed. Motion for a new trial was made and overruled, when the plaintiff perfected an appeal to this court and has made the following assignments of error:
+“1. The Honorable Circuit Judge erred in refusing the plaintiff a judgment in the cause, and in dismissing its suit.
+“He should have held that the note sued upon was given in settlement of some two or more accounts, exact amounts being is dispute, and that such settlement and execution of said note became a stated account, and that the consideration thereof was sufficient and binding.”
+“2. The Honorable Circuit Judge erred in denying the plaintiff a recovery for. the reason assigned that it had not filed a bond with the county court clerk of Knox county preliminary to engaging in the loan business.
+“He should have held that the bond filed with A. W. Edging-ton, county court clerk of Knox county on August 17, 1925 was a sufficient compliance with the law in this respect and this defense was not well made.”
+“3. The Honorable Circuit Judge erred in dismissing the plaintiff’s suit and taxing it Avith the costs of the cause, 'and should have given plaintiff a judgment for the amount claimed, $117.32 and the costs of the cause.”
+Upon these assignments of error the cause must be affirmed.
+It does not appear from the record what the special reasons were, if there were such, that caused the dismissal of the suit. The court simply adjudged upon the record that the plaintiff was not entitled to a recovery, and dismissed the suit. If, therefore, there was any reason why the plaintiff was not entitled to a recovery, that was sufficient. There is no assignment that there is no evidence to support the verdict.
+Except such defenses as are required to be in writing, the pleading in a cause originating before a Justice of the Peace are ore tenus, and. while it perhaps does appear from the absence of any plea of non est factum that the defense did not go to the execution of the note, that of fraud vitiating it, or payment, at least, if not other defenses might have been interposed upon which the judgment of the court might have been predicated, as well as the fact that the plaintiff, being a non-resident corporation, had not sufficiently complied with our statute to entitle it to sue or conduct a business of that kind within this'state. It would seem from the brief filed in support of‘the assignment, and that of counsel for the defendant in error, that this latter or payment was the real defense, raising questions of fact. In the absence of an assignment that there is no evidence to support the verdict it will be presumed that there was, and this court will not undertake to review evidence, even though cited as showing erroneous findings, without such assignment. Their citation of the evidence may be correct, and yet, notwithstanding, there may be other evidence to support the judgment of the court. In other words, the presumption that there is such evidence will overcome the citation, unless there is an assignment that there is none such to support it.
+Assignments should at least negative the correctness of the judgment. They are insufficient to do so where, notwithstanding the court may be in error in the particulars assigned, the judgment may still be justified upon other grounds not properly called in question. As illustrated by this ease, notwithstanding the plaintiff in error may be correct in its two first assignments, the case may have gone against it on other grounds.
+The assignments are all general, especially the 3rd, and amount to no more-than the plaintiff in error’s opinion. This opinion might be so entertained because it regarded the evidence as preponderating against the judgment given, and in favor of that which is thought should have been rendered. But upon the facts as they are to be regarded under the assignment, the judgment evidences that the court regarded the evidence as preponderating in favor of the judgment which it gave. This judgment is final, if there is evidence to support it, and will not be reviewed except upon proper assignment; and that, too, not to determine as to which way the evidence preponderates, but as to whether or not, as stated, there is any evidence to support it.
+In the plaintiff in error’s brief it is insisted that defendant in error’s appeal from a judgment of the Justice of the Peace against him was not perfected, in that it is claimed that the pauper oath appearing in the record does not identify the judgment appealed from as the one in the instant case; and further, it is insisted that the same was never filed before the Justice of the Peace rendering the judgment. Whatever vitality these questions might have had, had they been seasonably made in the court below, and preserved if adversely decided,. they are unimportant in the state of the record. No ques-tioii as to the appeal appears to have been made in tlie court below, either on the trial of the cause or in the motion for a new trial that was had. It is too late now and here to insist upon such matters. Had they been made in the court below, such amendment might have been had correcting any, apparent deficiency either in recitals or endorsements. Going to trial without any question of this kind being made is a waiver of all such irregularities, if any, and the court cannot be put in error as to matters of this character not brought to his attention.
+The assignments of error are all overruled and the judgment of the lower court affirmed, with costs against appellant and its security on the appeal bond.
+Portrum and Thompson, JJ., concur.
