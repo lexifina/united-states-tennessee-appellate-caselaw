@@ -1,0 +1,57 @@
+---
+court: "Tennessee Court of Appeals"
+decided: "1937-09-04"
+citations: ["21 Tenn. App. 507", "113 S.W.2d 73"]
+reporter: "tenn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Faw, P. J., and Felts, J., concur."]
+parties: ["STATE for Use of BROWN et al. v. FIDELITY & DEPOSIT CO. OF MARYLAND et al."]
+source_url: "https://static.case.law/tenn-app/21/cases/0507-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8512193
+cites_cases: ["100 Tenn., 303", "108 Tenn., 724", "145 Tenn., 650", "151 Tenn., 108", "157 Tenn., 60", "158 Tenn., 546", "238 S. W., 80", "268 S. W., 118", "31 L. R. A., 706", "34 S. W., 209", "45 S. W., 673", "51 S. W., 1023", "51 S. W., 114", "58 L. R. A., 694", "69 S. W., 345", "91 Am. St. Rep., 769", "96 Tenn., 252"]
+---
+
+# State ex rel. Brown v. Fidelity & Deposit Co. of Maryland
+
+## Majority (CROWNOVER, J.)
+
+CROWNOVER, J.
+The complainants, Freeman A. Brown and Cora L. Binkley, filed the bill in this cause against the Fidelity & Deposit Company of Maryland, surety on the bond of J. S. Minton, clerk of the criminal court of Davidson county, to recover $250, with interest and penalties, which sum was deposited in lieu of bail for Freeman A. Brown, who was arrested on a charge of failure to provide for his minor child, and which sum they allege the clerk failed to return after the trial of the case.
+The defendant bonding company pleaded (1) payment, and (2) that the complainants were guilty of laches in that they did not bring their suit until five years after the cause of action accrued, and are therefore estopped to maintain this suit.
+The chancellor decreed that although the defendant Fidelity & Deposit Company of Maryland did not satisfactorily prove a refund of said deposit to complainants, nevertheless the complainants were guilty of laches in not prosecuting their claim with diligence; and he dismissed their bill.
+The complainants excepted to the decree in so far as the defense of laches was sustained. The defendant bonding company excepted to the ruling of the chancellor that the defense of payment was not sustained. Both complainants and defendant appealed to this court and have assigned errors.
+The errors assigned by the complainants raise only the questions whether the complainants were guilty of laches and were estopped to recover.
+The errors assigned by the defendant are, in substance, that the chancellor erred in decreeing that the defense of payment was not sustained.
+On July 31, 1929, Freeman A. Brown, a man of the age of thirty-one years, was arrested on a charge of failure to provide for his minor child, and bound over from the juvenile court to the criminal court. His sister, Mrs. Cora L. Binkley, deposited with J. S. Minton, clerk of the criminal court of Davidson county, $250 as a cash appearance bond. No receipt for the same was given to her.
+The Fidelity & Deposit Company of Maryland was surety on a $5,000 bond executed by J. S. Minton to insure his faithful performance of his duties and the accounting for all moneys coming into his hands as clerk of said court.
+The $250 in cash was placed in an envelope with the title of the case and the name of the person depositing the bond written on the same, and said envelope was placed in a compartment of the safe in the clerk’s office, to which compartment the said J. S. Minton alone had a key.
+On March 12, 1930, the case was tried in Division 1 of the criminal court. The court ordered Freeman A. Brown to pay into Court $4 per week for the support of the child and $1 per week to apply on the costs until they should be paid in full; thereafter to pay $5 per week into court for the support of the child. Thereupon, Freeman A. Brown was released from the custody of the court, and the court ordered that the cash bond should be refunded to Mrs. Binkley.
+The weekly payments were made by Cora L. Binkley at the office of J. S. Minton,. clerk, for several weeks following tbe trial.
+Within two weeks after the trial Mrs. Binkley went to the clerk’s office and demanded the amount of the bond of J. S. Minton, clerk, or a deputy clerk, but was told that she could not get the money at that time.
+The clerk, J. S. Minton, died on October 12, 1930.
+A short time afterwards Mrs. Binkley asked the officer who had arrested her brother, and who had received the $250 from her and deposited it with the clerk, to go with her to the clerk’s office and assist her in obtaining the money. The officer accompanied her to the office and talked to a deputy clerk who informed him that no such deposit had been made, but the officer looked on the docket and located the entry showing the deposit. The deputy clerk then informed Mrs. Binkley that she had been given a receipt for the same which would have to be presented before she could obtain a refund of the money.
+Later she again went to the office and demanded the money, but was informed that she could not secure it without presenting a receipt 'which had been issued.
+In the fall of 1930 she engaged a lawyer to collect the amount, but he took no action. She engaged four lawyers in turn, but none filed suit.
+On March 11, 1935, she filed her original bill in this cause.
+1. The defendant admits that the clerk received the $250, and the plea of payment admits the debt, but the defendant contends that the money was refunded on March 12, 1930'.
+The defendant’s evidence to establish payment is entirely circumstantial. The testimony is that it was the custom of the office to give the depositor of a cash bond a receipt for the same; to put the money in an envelope, properly labeled, in a locked compartment of the office safe; and when the money was refunded to take up the receipt and destroy it; that after the death of J. S. Minton no envelope, so labeled, containing any money, was found in the safe; and that the complainants were unable to produce a receipt of the clerk for the same. The following evidence was introduced in support of the claim of payment: J. R. Minton, son of J. S. Minton, and deputy clerk when this money w^as paid in and since, testified that when the case against Freeman A. Brown was finished or disposed of, Brown Taylor, attorney for Freeman A. Brown, called the judge’s attention to the fact that a cash bond had been put up which should be returned; that the judge turned to him (J. R. Minton) and told him to so inform the clerk; that he went to the door of the office of the clerk and told him that the case against Freman A. Brown had been disposed of and the judge had ordered that the cash bond should be returned, and came immediately back into the courtroom; that five or ten minutes later Brown Taylor came into the courtroom and said to him : “Thank you for what you have done because tbat would be tbe only way I could get my fee. ’ ’
+Brown Taylor testified tbat be did not make tbis statement to J. R. Minton.
+Other testimony relied on by tbe defendant is tbat of Mrs. Freeman A. Brown, wbo testified that she was in the courtroom tbe day of tbe trial and beard Freeman A. Brown’s attorney ask tbe judge about tbe return of tbe cash bond and the judge’s statement tbat be ■could get it then.
+Tbe foregoing was all tbe evidence for tbe defendant to establish payment.
+Tbe complainants testified tbat no receipt was issued by tbe clerk and tbe money was never refunded.
+Tbe burden of showing payment is upon tbe defendant under its special plea of payment. Insurance Company v. Dunscomb, 108 Tenn., 724, 69 S. W., 345, 58 L. R. A., 694, 91 Am. St. Rep., 769; Ford v. Lawrence, Tenn. Ch. App., 51 S. W., 1023.
+Tbe foregoing evidence for tbe defendánt fails to show payment, and it fails to carry tbe burden; hence, we bold tbat tbe money was not returned to Mrs. Binkley, and tbe defendant’s assignments of errors are overruled.
+2. Tbis suit was brought about five years after tbe complainant, Mrs. Binkley, was entitled to tbe return of tbe money. Tbe statute of limitations, of six years had not run against tbe claim. Shannon’s Code, section 4472.
+Tbe defendant was able to command all of its evidence except tbe testimony of J. S. Minton, wbo died about six months after tbe trial of Freeman A. Brown. Tbe court records, books of the clerk’s office, and all tbe deputy clerks were available. Its rights, therefore, were not prejudiced by tbe delay of five years, and tbe complainants are not estopped from maintaining their suit. Rogers v. Colville, 145 Tenn., 650, 238 S. W., 80; Samuel v. King, 158 Tenn., 546, 14 S. W. (2d), 963; Parker v. Bethel Hotel Co., 96 Tenn., 252, 34 S. W., 209, 31 L. R. A., 706. The memories of tbe witnesses were not dimmed; their recollections of all they bad ever known about tbe transaction were apparently perfect. They appeared to remember every detail of tbe affair, except seeing the money paid back.
+3. Tbe complainants prayed in their bill for interest and penalty.
+Tbe money should have been refunded on March 12, 1930, when the case against Brown was disposed of. Shannon’s Code, section 7135; State v. Ross, 100 Tenn., 303, 45 S. W., 673. But tbis is a suit against the surety on the clerk’s bond and not against tbe estate of tbe delinquent official. As against tbe surety interest is allowed only from tbe date tbe action is commenced, where no demand upon tbe surety was made. 46 C. J., 1071, section 404; 22 R. C. L., 518, section 206. The original bill was filed on March 11, 1935. Therefore, the complainants are entitled to interest at 10 per cent, from that date. Code 1932, section 1835. '
+They certainly can recover only the interest and penalty allowed by statute in force when the rig'ht accrued (that is, in this case, when the suit was instituted).
+The ease of Marion Trust & Banking Company v. Roberson, 151 Tenn., 108, 268 S. W., 118, holding that an official is liable for interest from the date of the conversion, is not applicable, because he is not a party.
+The attack that the defendant makes on the act of 1913, Pub. Acts, 1913, chapter 31, does not apply to section 1835 of the Code of 1932, because-said section is in effect a new statute, which is not directly attacked in this case, and we think it cannot be successfully attacked because the interest allowed in said section is in the nature of a penalty. 29 Cyc., 1456; Dale v. Hartman, 157 Tenn., 60, 6 S. W. (2d), 319.
+It is not necessary to sue the principal; the complainants may maintain a suit againlst the bondsman without making the principal a party.
+“Liability of a principal on an official bond need not be fixed before recovery against his bondsmen.
+“The principal in an official bond being dead, and his estate having been suggested insolvent, it is not necessary to bring his representative before the court, in order to fix the liability of his sureties. ’’’ Ferrell v. Grigsby, Tenn. Ch. App., 51 S. W., 114.
+It results that the complainants’ assignments of errors are sustained and the defendant’s assignments are overruled. The decree of the chancellor is reversed, and a decree for $250 with interest at the rate of 10 per cent, from March 11, 1935, to the present will be entered in favor of the complainant, Mrs. Cora L. Binkley, and against the defendant, the Fidelity & Deposit Company of Maryland. The costs of the cause including the costs of the appeal are decreed against the defendant Fidelity & Deposit Company of Maryland.
+Faw, P. J., and Felts, J., concur.
