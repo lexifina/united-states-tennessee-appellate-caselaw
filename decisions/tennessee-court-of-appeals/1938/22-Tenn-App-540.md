@@ -1,0 +1,66 @@
+---
+court: "Tennessee Court of Appeals"
+decided: "1938-04-16"
+citations: ["22 Tenn. App. 540", "124 S.W.2d 306"]
+reporter: "tenn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Faw, P. J., and Felts, J., concur.", "Faw, P. J., and Felts, J., concur."]
+parties: ["HUNT v. HOPPE."]
+source_url: "https://static.case.law/tenn-app/22/cases/0540-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8512266
+cites_cases: ["154 Tenn., 389", "165 Tenn., 513", "167 Tenn., 421", "281 F., 715", "285 S. W., 558", "6 Tenn. App., 118", "7 Tenn. App., 638"]
+---
+
+# Hunt v. Hoppe
+
+## Majority (CROWNOVER, J.)
+
+CROWNOVER, J.
+This is a suit by Mrs. Hoppe to recover the balance of the amount due her on a note that she had to pay to the American National Bank as surety for the defendant, Hunt.
+The suit originated before a justice of the peace and the warrant stated that the defendant was summoned “to answer the complaint of Mrs. L. R. Hoppe, in a plea of debt due by balance due on note, $232.75, note dated Aug. 27, 1936, int. $11.68, (total) $244.43, Atty. fee $44.00, (total) $288.43, under Five Hundred Dollars,” and resulted in a judgment for the plaintiff for $288.43.
+The defendant appealed and the case was tried before the Circuit Judge without a jury and he rendered judgment for the plaintiff, Mrs. Hoppe, for $288.43.
+The defendant’s motion for a new trial was overruled and he appealed in error to this court and his assignments of errors are, in substance, as follows:
+(1) The court erred in overruling defendant’s motion to dismiss the suit, as there is no evidence to support the judgment and the evidence preponderates against the judgment.
+(2) The court erred in adjudging that the defendant was liable for attorney’s fee.
+(3) The court erred in denying the defendant’s application for a continuance.
+(4) The court erred in requiring the defendant, as a condition precedent to granting a new trial, to pay all accrued costs.
+(5) The court erred in refusing to allow defendant to appeal in error on the pauper’s oath.
+The facts necessary to be stated are that the defendant, Hunt, desired to purchase an automobile and he induced Mrs. Hoppe to sign a note for $335 with him to the American National Bank, but he received all the proceeds of the loan. Her name appeared on the note as co-maker, but she was in fact an accommodation party. He purchased the automobile with the money, but failed to pay the note at its maturity. The bank notified her that the note must be paid. She went to the bank and paid the $335 and the bank indorsed the note without recourse and delivered it to her.
+So far as tbe record shows the note was not exhibited in evidence and its contents were not otherwise proven except as herein stated.
+Mrs. Hoppe replevined the automobile and sold it for $150. After paying costs and attorney’s fee she credited the note with the balance, $102.25, which left a balance due her of $232.75.
+The defendant, Hunt, refused to pay the balance, and the plaintiff instituted this suit for the balance, with interest and attorney’s fee, as above stated.
+Mrs. Hoppe was the only witness introduced. The defendant was not present, and introduced no evidence.
+It appears that the defendant, Hunt, employed Mr. Claude Calli-cott, an attorney of the Nashville Bar, to represent Mm. And it appears that Mrs. Hoppe and Hunt had some kind of a damage suit in the courts and that Mr. Callicott represented both of them in that suit. After it became apparent that they could not'settle this suit, Callicott, on Saturday, May 8, 1937, informed the defendant Hunt that he could not represent him further in this matter and told him to employ other counsel. Hunt tried to get in communication with his present attorney, Mr. James W. Crutcher, on that afternoon, but it being Saturday afternoon Mr. Crutcher was not in his office. He saw Mr. Crutcher on Monday morning, May 10th, just before the case was called for trial in the Circuit Court, and employed him. His present attorney appeared in court at the trial and asked for a continuance on the ground that the defendant was not able to be present and attend the trial as he was a member of the Fire Department of the City of Nashville and it had regulations prohibiting him from leaving his duties at that time. Counsel for Mrs. Hoppe insisted upon a trial and the court overruled the defendant’s motion for a continuance, and the case proceeded to trial.
+Mrs. Hoppe testified, in substance, as above stated. The defendant introduced no evidence, but moved to dismiss the case without stating any reason therefor, which motion the court overruled, and the judge rendered a judgment against him for $288.43, the same being the balance due with interest and attorney’s fees.
+1. Under the first assignment of error it is insisted that there is no evidence to support the judgment, in that Mrs. Hoppe had brought a suit on the note which had been paid off by her and discharged, therefore she had no right of action on said note, as the accommodation maker’s remedy is on an implied contract of reimbursement and not on the note as such.
+We think there is nothing in this contention. We think the magistrate’s warrant is broad enough to admit the evidence in this ease, and that she is entitled to a recovery on it. The warrant states that he is summoned “to answer the complaint of Mrs. L. R. Hoppe, in a plea of debt due by balance due on note, $232.75,” etc.
+The warrant must, in substance, state briefly the canse of action. There must be some sufficient general statement indicating the grounds of action, so that the defendant may know the charge he is to meet, and may know how to prepare his defense; but the cause of action need not be set out with that! particularity which is required in a declaration. Williams’ Code, sec. 10159 Note, citing cases.
+“The several forms of action and the rules which govern them cannot be enforced and preserved in suits before justices. . . . These words ‘ of plea of debt, ’ must be moulded to apply to accounts, assumpsit, to damages for the non-compliance with a contract, or legal duty, etc.” Bodenhamer v. Bodenhamer, 25 Tenn. (6 Humph.), 264; Large v. Dennie, 37 Tenn. (5 Sneed), 595.
+But the plaintiff cannot allege one cause of action with distinctness and then prove another. Watkins v. Kittrel, 62 Tenn. (3 Baxt.), 38.
+It has been held in some states that when an accommodation maker pays a note he has a right of action against the principal on an implied contract of reimbursement, but we think this rule has been discarded in Tennessee, and that the doctrine of subrogation operates as an equitable assignment of the debt, and all its evidences and incidents, so that she may enforce the same to the extent necessary to obtain reimbursement from the principal. 60 C. J., 755.
+This theory was sustained in an opinion of this court in the case of C. D. Rainey v. Bank of Mercer et al., Madison County Equity, filed at Jackson on July 30, 1937 (not reported). It reaffirmed the holding in the case of O’Neal v. Stuart, 6 Cir., 281 F., 715, wherein it was stated:
+“As respects right of subrogation, Tennessee! Negotiable Instruments Act held not to change existing law as to the relations of joint makers or indorsers as between themselves, but to apply only to relations between payors and payee. [Syl. 2.]
+“Petitioner was joint maker with bankrupt, but in fact surety, on a note given for property purchased by bankrupt and secured by vendor’s lien: The note, not having been paid by bankrupt at maturity was purchased by petitioner, indorsed without recourse by the payee, who afterward entered cancellation of the lien on the record. Held, that petitioner was entitled to enforce the note and to reinstatement of the lien as against bankrupt and his trustee.” Syl. 3.
+Mrs. Hoppe was therefore in fact a surety.
+Our Supreme Court is committed to the doctrine of subrogation or equitable assignment of the debt itself.
+‘ ‘ This Court is committed to the doctrine of subrogation or equitable assignment, and is desirous to extend and broaden the rule, unless the rights of third parties have intervened, or the complainant is guilty of that degree of negligence which repels him from a court of equity.” Dixon v. Morgan, 154 Tenn., 389, 285 S. W., 558.
+The Circuit Court has jurisdiction to enforce equitable remedies where no objection is made. Code, see. 10329; Tennessee Procedure by Higgins & Crownover, sec. 131; Metropolitan Life Ins. Co. v. Humphrey, 167 Tenn., 421, 70 S. W. (2d), 361; Morgan v. Layne, 165 Tenn., 513, 56 S. W. (2d), 161.
+Under this theory the plaintiff as an accommodation maker, upon the payment of the note, may bring a suit thereon for the amount due her.
+2. We think assignment number two should be sustained, as there is no evidence that the note provided for attorney’s fees or that he agreed to pay attorney’s fees. Evidently the note had something' in it about the automobile, as she replevined the automobile and sold it. There is nothing to show the amount of the costs incident to the replevin suit and the sale of the automobile; hence we will take the amount of the credit as testified to by her as correct, which left a balance of $232.75. It is not shown when she paid the note to the bank, hence there is no evidence to sustain the judgment of the lower court allowing $11.68 interest. And there is no evidence to sustain the allowance of $44 attorney’s fees. The judgment is modified to this extent, and these two items are disallowed.
+3. We think the court did not err in refusing to allow a continuance, for the reason that the defendant was told on Saturday that the attorney could not represent him and that he must employ another attorney. He was further notified that the plaintiff would insist upon a trial. It is shown by the affidavits on the motion for a new trial that if he had made application to the Fire Department on Saturday for a leave of absence on Monday it would have been granted. Hence we think that he showed no diligence in preparing for the trial. He should have gone on Saturday night or some other time to employ his counsel if he could not find him on Saturday afternoon. He must show diligence. Dalton v. Kopp, 2 Tenn. Civ. App., 619, 2 Higgins, 619.
+He must not only show that he was not prepared for the trial but he must also show that a new trial would have changed the result. This he has not done. He does not show that the judgment is unjust, and does not deny that he owes the plaintiff. Travis v. Bacherig, 7 Tenn. App., 638.
+This assignment must be overruled.
+4. The granting’ of a new trial was within the discretion of the trial court and he had a right to fix reasonable conditions precedent to the granting' of the motion for a new trial. He provided in the order that the defendant might have a new trial if he should pay the costs of the cause by June 9, 1937, and the new trial was granted upon this condition precedent. Tbe order further provided that if he failed to pay the costs his motion for a new trial would be overruled. We think this was within the discretion of the court. Tennessee Procedure by Higgins & Crownover, see. 1534; 46 C. J., p. 419, see. 477, p. 424, sec. 489. This assignment must be overruled. ■
+5. There is nothing in the assignment that the court erred in requiring the defendant to execute an appeal bond instead of permitting him to take the pauper's oath, as there is nothing in the record to show what property the defendant owned, and he did execute a bond, therefore he could do it. We think this showed good judgment on the part of the trial judge. This is purely a moot question and can in no way affect the judgment below. Thompson v. Menefee, 6 Tenn. App., 118.
+It results that all the material errors assigned are overruled and judgment for $232.75 is affirmed, but the judgment is modified so as to disallow the interest and attorney’s fees. A judgment will be entered in this court for $232.75, together with interest from May 10, 1937, to the present, in favor of Mrs. Lillian H. Hoppe and against Walter S. Hunt and the surety on his appeal bond. The costs of the cause including the costs of the appeal are adjudged against Hunt and the surety on his appeal bond. Tennessee Procedure by Higgins & Crownover, sec. 1835.
+Faw, P. J., and Felts, J., concur.
+
+## Rehearing (CROWNOVER, J.)
+
+On Petition for Rehearing.
+CROWNOVER, J.
+This case is before us on a petition for a rehearing on the same propositions raised in the original assignments of errors, and on motion for retaxation of costs.
+After carefully reading this petition we see that no new questions are raised. We fully considered each proposition in our original opinion and see no reason to change our position now. The petition for retaxation of the costs is also denied for the reason that we think Hunt should pay the costs, as he paid no attention to his obligations or to this lawsuit. As stated by us in the original opinion, the note and contract is not before us and we do not know what it provided for; hence we allowed the credits as given by Mrs. Hoppe. Therefore the petition is denied.
+Faw, P. J., and Felts, J., concur.
