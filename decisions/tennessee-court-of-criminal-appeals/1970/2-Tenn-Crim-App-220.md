@@ -1,0 +1,65 @@
+---
+court: "Tennessee Court of Criminal Appeals"
+decided: "1970-01-19"
+citations: ["2 Tenn. Crim. App. 220", "452 S.W.2d 681"]
+reporter: "tenn-crim-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["RUSSELL and HYDER, JJ., concur."]
+parties: ["EDWIN CARVIN, Plaintiff in Error, v. STATE OF TENNESSEE, Defendant in Error."]
+source_url: "https://static.case.law/tenn-crim-app/2/cases/0220-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8505713
+cites_cases: ["139 F.Supp. 928", "187 Tenn. 67", "213 S.W.2d 7", "213 Tenn. 699", "218 Tenn. 338", "219 Tenn. 604", "220 Tenn. 719", "344 F.2d 84", "439 S.W.2d 263"]
+---
+
+# Carvin v. State
+
+## Majority (MITCHELL, Judge.)
+
+OPINION
+MITCHELL, Judge.
+Edwin Carvin, petitioner below, indigent and represented on this appeal by appointed counsel, has appealed from the dismissal without evidentiary hearing, of his habeas corpus petition in the Criminal Court of Shelby County, Honorable Arthur C. Faquin, Jr., Judge presiding.
+On January 25, 1965, Edwin Carvin was indicted in the Criminal Court of Shelby County, Tennessee, on five charges of robbery by the use of a deadly weapon, to wit; a pistol.
+On June 7, 1965, petitioner represented by privately employed counsel, executed a written petition requesting the Court to accept his plea of guilty of armed robbery which was signed by him and his retained counsel, Robert W. Andrews.
+After the court had carefully considered petitioner’s request for a plea of guilty, and after questioning petitioner and his counsel in open court and after having satisfied himself that petitioner understood the nature and effect of the plea of guilty and the consequences of such a plea, the court granted the petition for the plea of guilty. The court’s minute entries of June 7, 1965, show that the petitioner, represented by his employed counsel, was then tried on his pleas of guilty of five cases of robbery, with a deadly weapon, a jury was sworn and “according to the law and the evidence” made a finding of guilty of robbery with a deadly weapon as charged in the indictments and fixed the punishment at twenty-five years in the penitentiary in each case upon which the court pronounced judgment, and ordered the sentences to run concurrently.
+On August 28, 1968, Edwin Carvin filed in the Criminal Court of Shelby County, his petition for writ of ha-beas corpus under the Post-Conviction Procedure Act in which he alleged he is unjustly and unlawfully detained and imprisoned in the State Penitentiary, in violation of the Sixth and Fourteenth Amendments of the Constitution of the United States.
+Edwin Carvin alleged in his petition he employed counsel and was tried June 7, 1965, in the Criminal Court of Shelby County, Tennessee, that he entered a plea of guilty, on advice of counsel to five separate indictments charging armed robbery and received a sentence of twenty-five years in each case to run concurrently. That he employed Mr. Gerber to represent him, and paid a reasonable fee, and placed his trust and confidence in the competency of his counsel to provide him with adequate representation and protection. That petitioner’s lack of court experience with respect to rules of evidence prevented him from safeguarding his own interests. He contends his counsel apparently did nothing to prepare a defense and failed to investigate the charges. That counsel ill-advised him by encouraging him to consider that it would be to his advantage to enter pleas of guilty and be glad to take whatever proposition the State might offer. And being unlearned in the law and court proceedings and unable to hire more suitable counsel, he permitted counsel to enter pleas of guilty. That he now realizes that pleas of guilty should not have been entered until sufficient evidence was shown and presented to support the convictions.
+He further alleged, he now feels counsel took full psychological advantage of his inexperience and in an effort to dispose of petitioner and the charges against him as quick and easy as possible, counsel operated against petitioner’s direct line of defense through improper and ineffective representation.
+He alleged he did not receive effective assistance of counsel in violation of the United States Constitution. That he was not confronted with witnesses against him prior to and during his trial. That the State failed to present sufficient evidence or proof in the State Court and failed to prove a crime had been committed.
+That his convictions were based solely on his naked confession, this confession coming in the form of ill-advised pleas of guilty.
+September 16, 1968, the District Attorney General filed a motion to strike the petition on the ground that the action of privately retained counsel does not constitute state action and would not entitle petitioner to habeas corpus relief on the grounds of deprivation of due process of equal protection under the Constitution of the United States. That the failure to comply with T.C.A. § 40-2310 and a failure to offer proof on a plea of guilty does not violate any constitutionally afforded right and may be waived by a voluntary, knowledgeable plea of guilty.
+September 20, 1968, the petition was transferred to Division II of the Criminal Courts.
+November 28, 1968, the court determined petitioner was unable to employ counsel and ordered the Public Defender to represent petitioner. Then on December 12, 1968, the court appointed Honorable Brett Stein, Attorney, to represent the petitioner.
+On January 3, 1969, after due consideration the court sustained and granted the motion of the District Attorney General to strike the petition, and quashed the writ of habeas corpus, from which the petitioner appealed to this court, and assigned error.
+The petitioner assigned as error the granting of the State’s motion to strike the petition and dismissing it, without an evidentiary hearing to determine whether petitioner’s privately retained attorney acted in such a manner as to constitute a mockery of justice and shock the conscience of the court.
+We find no merit in the assignment of error.
+T.C.A. § 40-3809 provides:—
+“40-3809. Procedure when petition is before the court. — When the petition has been competently drafted and all pleadings, files and records of the case which are before the court conclusively show that the petitioner is entitled to no relief, the court may order the petition dismissed.”
+The question is whether the court erred in refusing to grant the petitioner an evidentiary hearing on the allegations in the petition.
+It is the contention of the petitioner that he was not afforded the benefit of effective counsel which resulted in ill-advised pleas of guilty. This raises the question whether the petition and records before the court conclusively show the petitioner was entitled to no relief on this ground.
+The petitioner has cited State ex rel. Johnson v. Heer, 219 Tenn. 604, 412 S.W.2d 218 in support of his contention. In that case the court said:
+“* * * This case is determined in principle by the opinion of this court in the case of State ex rel. Dych v. Bomar (1964) 213 Tenn. 699, 378 S.W.2d 772. In that case it is pointed out that in order for the defendant’s rights under the Fourteenth Amendment to come into play, there must be some action on the part of the State that deprives him of due process of law and/or equal protection of the law. * * *
+“Since plaintiff in error was represented by privately retained counsel (three well-known attorneys), their decision not to appeal plaintiff in error’s case and their failure to advise him of the same and to consult him, in no way constitutes state action. It inescapably follows, as in the case of State ex rel. Dych v. Bomar, supra, there is no state action in the instant case. It is recognized by all courts that such is essential to the successful invocation of defendant’s rights under the Fourteenth Amendment to the United States Constitution. The Federal Courts are not in disagreement. See Davis v. Bomar (C.C.A. 6th 1965) 344 F.2d 84, wherein it is said:
+“ ‘When counsel is retained by a defendant to represent him in a criminal case he acts in no sense as an officer of the state. For while he is an officer of the court his allegiance is to his client whose interests are ordinarily diametrically opposed to those of the state. It necessarily follows that any lack of skill or incompetency of counsel must in these circumstances be imputed to the defendant who employed him rather than to the state, the acts of counsel thus becoming those of his client and as such so recognized and accepted by the court unless the defendant repudiates them by making known to the court at the time his objection to or lack of concurrence in them. A defendant cannot seemingly acquiesce in his counsel’s defense of him or his lack of it and after the trial has resulted adversely, have the judgment set aside because of the alleged incompetence, negligence or lack of skill of that counsel.’ ”
+State action is not involved when the ineffectiveness of a retained attorney is questioned because a retained attorney does not act as an officer of the state. State ex rel. Richmond v. Henderson, Tenn., 439 S.W.2d 263.
+In Richmond v. Henderson, supra, the petitioner alleged pleas of guilty were induced on improper advice given by privately retained counsel, and was summarily dismissed by the trial judge on the ground the facts stated would not void the judgments under either State or Federal constitutions. State ex rel. Reed v. Heer, 218 Tenn. 338, 403 S.W.2d 310.
+We are of the opinion the petition and all pleadings, files and records of the case which are before the court show the petitioner is entitled to no relief. T.C.A. § 40-3809.
+The records and proceedings before the court in this case are not such as to make the trial a farce, sham, or mockery of justice. State ex rel. Richmond v. Henderson, supra.
+There was no state action involved, the petitioner as the defendant in five indictments charging robbery by the use of a deadly weapon, to wit; a pistol, represented by privately employed counsel signed a written petition requesting the trial court to allow him to plead guilty.
+A fair and impartial trial judge zealously protected the rights of the accused, particularly inquired in open court of the accused and his lawyer about the pleas of guilty whether voluntary or otherwise, and took every precaution to ascertain the accused fully understood the effect of his pleas of guilty. Only after the Court had become convinced that the pleas were intelligently, voluntarily and knowledgeably made did he accept them.
+The record shows Honorable Robert W. Andrews represented the petitioner on the pleas of guilty but petitioner alleged in his petition that he employed Mr. Gerber, however his name does not appear as attorney of record.
+We think the following quotations from the opinion in State ex rel. Richmond v. Henderson, supra, are sufficient authority for our action in this case:
+“The standard applied by the overwhelming majority of federal courts in considering this question is stated as follows:
+“ Tncompetency of counsel such as to be a denial of due process and effective representation by counsel must be such as to make a trial a farce, sham, or mockery of justice.’
+sfc :¡s $
+“This rule has been applied to any number of situations arising in a criminal case, including that situation involving the advice or urging of defense counsel for the defendant to enter a plea of guilty. In cases in which this exercise of judgment by counsel (that of urging a defendant to enter a plea of guilty) has been attacked, it has uniformly been held that this is not a ground for invalidating the judgment.
+‡ ‡ ‡ ‡
+“ ‘Relator now complains that the actions of his attorney deprived him of due process. Mere inappropriate advice to plead guilty is not of constitutional dimensions; Richardson v. Baldi, 139 F.Supp. 928 (M.D.Pa., 1956) * *.
+*1* •í' *[* ¡I»
+“ * * However, intervention by this court requires that the denial of relator’s rights be the doing of the state. There is no indication here that the state participated in any such denial, and the writ must be denied.’ United States ex rel. Wilkins v. Banmiller, 205 F.Supp. D.C. 123, 126-128.”
+The petitioner has raised the question as to the sufficiency of the evidence. Our courts have held that proof is not necessary on plea of guilty. The plea of guilty is itself a conviction. State ex rel. Barnes v. Henderson, 220 Tenn. 719, 423 S.W.2d 497; Brooks v. State, 187 Tenn. 67, 213 S.W.2d 7.
+Habeas corpus and post-conviction proceedings may not be employed to question, review, or test sufficiency of the evidence at the original trial 39 C.J.S. Habeas Corpus § 29j p. 518; State ex rel. Barnes v. Henderson, supra.
+The judgment of the trial court is affirmed.
+We commend court appointed counsel for the excellent representation he has given the petitioner on this appeal.
+RUSSELL and HYDER, JJ., concur.
