@@ -1,0 +1,79 @@
+---
+court: "Tennessee Court of Appeals"
+decided: "1939-09-09"
+citations: ["23 Tenn. App. 638", "136 S.W.2d 734"]
+reporter: "tenn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Faw, P. J., and Felts, J., concur."]
+parties: ["ACME DISTRIBUTING CO. v. THONI."]
+source_url: "https://static.case.law/tenn-app/23/cases/0638-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8512115
+cites_cases: ["11 Cal. (2d), 634", "118 A. L. R., 486", "172 Tenn., 565", "19 Cal. App., Supp., (2d), 758"]
+---
+
+# Acme Distributing Co. v. Thoni
+
+## Majority (CK.OWNOVEB, J.)
+
+CK.OWNOVEB, J.
+This suit is based upon Chapter 69 of the Public Acts of 1937 (Williams’ Code, sections 6770.7-6770.13), known as the “Unfair Sales Act,” which prohibits the selling of commodities or articles of merchandise below cost with the intent to stifle fair competition.
+Section 1 of the Act defines the terms used in the Act.
+Section 2 provides as follows:
+“It is hereby declared that advertising, offers to sell or sales by retailers or wholesalers at less than cost as defined in this Act, with the intent or effect of inducing the purchase of other merchandise or of unfairly diverting trade from a competitor or otherwise in juring a competitor, impair and prevent fair competition, injure public welfare, and are unfair competition and contrary to public policy, where the result of such advertising, offers or sales is to tend to deceive or mislead any purchaser or prospective purchaser or to substantially lessen competition or unreasonably restrain trade or tend to create a monopoly in any line of commerce. It is further declared that such advertising, offers or sales by any retailer or wholesaler with such intent or effect or result are in contravention of the policy of this Act.”
+Subsection (a) of section 1 provides that the minimum selling price by any retailer shall be the cost of the commodity plus a mark-up amounting to not less than the minimum cost of distribution by the most efficient retailer.
+The bill in this cause was filed by the Acme Distributing Company, a corporation engaged in selling at retail gasoline and oil in Davidson County, against Emil Thoni, Jr., who operated a station selling at retail gasoline and oil in Davidson County, to restrain Thoni from selling gasoline at less than the cost price plus a “mark-up” of 15% (“the minimum cost of distribution by the most efficient retailer”), it being contended that the defendant was selling gasoline at less than cost plus the cost of distribution by the most efficient retailer, with the intent and effect of inducing the purchase of other merchandise at or above market price and deceiving the public, and with the intent of unfairly diverting trade from complainant and destroying.or lessening competition.
+A demurrer was filed by the defendant on the ground that, said Act was unconstitutional and should be so declared.
+The defendant also answered denying that he was selling gasoline at less than cost plus cost of distribution, and that the price at which he was selling same was fixed “with the intent'of inducing the purchase of other merchandise,” or of “unfairly diverting trade from a competitor,” and charging that the complainant had come into court with unclean hands, in that it was selling gasoline at the same price as defendant and giving a rebate, and that this suit was the result of a combination of his competitors to put him out of business because he had refused to enter into an agreement with them to increase the price of gasoline in Nashville.
+The chancellor overruled the demurrer and granted the injunction as prayed.
+The Special chancellor found:
+“1- — That Complainant fails to prove by a clear preponderance of the evidence or at least that it has not clearly shown by proof that defendant sold his 65 octane gas at a price below cost to the retailer as defined by the Act of 1937, Chapter 69.
+‘ ‘ The Court is of opinion that the burden rested upon the complainant to show this with reasonable certainty, and that it has failed in that regard.
+“The Court is of the opinion that the evidence shows that defendant, while operating his filling station, made a profit and it appearing that defendant has for quite a length of time sold gas at the prices complained of by complainant, it is evident that he did not sell at a loss.
+‘ ‘ 2 — There is no evidence warranting the conclusion that defendant fixed and adhered to his gas prices for the purpose of injuring complainant or other competitors in the legal sense, or that he did it with the intent to destroy competition; and further that his persistence did not result in destroying competition or fostering a monopoly. There is no proof that defendant had any specific intent to injure complainant nor is there any evidence warranting the conclusion that defendant’s method of doing business was the cause of complainant’s slump in income.
+“3 — The averment that defendant sold the identical gases for different prices is not sustained by the evidence, on the contrary it is shown that defendant was able to produce a blended gas that had a lower potentiality than his undiluted high test gas.
+“4 — There is no evidence warranting the conclusion that defendant ever enticed customers into his place and misled them about the price or the quality of his goods, nor is there any evidence that he sold lubricating oil or other products to his customers at higher prices than those prevailing in the neighborhood.
+‘ ‘ The Court states that if the cost to the retailer, as shown by complainant’s proof, be accepted as controlling, then complainant itself has undoubtedly been selling its gas below cost and this fact and finding is an additional reason why complainant should be denied any injunctive relief.
+“5 — The Court finds in conclusion that complainant and defendant are in a district in which there is much striving for business and possible price cutting, but tbis does not warrant tbe finding and the Court does not find, that defendant in his efforts to maintain his price level, intended to destroy competition or injure any particular competitor or create a monopoly or aid in creating one.
+“Defendant has shown himself to be a most efficient retailer in his community. He proves that his cost of distribution was quite small. He likewise has advantages and immunities which bore materially upon the cost of running a business, which advantages and immunities are not to be taken away from him by force of the Act of the Legislature.
+“6 — The cost of distribution should not be estimated upon the aggregate costs of the product. There is no justification for adding to the cost price the additional percentage for distribution. For instance there should not be a six per cent addition to the original fifteen per cent or sixteen per cent of the original cost. This percentage should be estimated with reference to the price paid by the retailer for the product at the time it is delivered to him.
+“The evidence respecting the cost of the product here is not specific enough in that it has reference to the cost of selling lubricating oil or tires and other equipment. There is no direct proof bearing upon the question of the proportion of the expense that should be borne by the gasoline.”
+And he dismissed the complainant’s bill and dissolved the injunction.
+The complainant excepted to said decree and appealed to this Court and has assigned errors, which are, in substance, as follows:
+(1) The chancellor erred in failing to find that the defendant Thoni was selling gasoline at less than cost plus the cost of distribution by the most efficient retailer.
+(2) The chancellor erred in holding that there was no- evidence to warrant the conclusion that defendant’s price was fixed with the intent of unfairly diverting trade from complainant.
+(3) The chancellor erred in holding that there was no evidence warranting the conclusion that the defendant enticed customers into his place by advertising a low price on 65 octane gasoline and thus misled them about the quality or price of his goods.
+(4) The chancellor erred in finding that complainant was guilty of violating the Unfair Sales Act in selling gasoline at less than cost plus the cost of distribution.
+The defendant Thoni assigned several errors, all of which raise only the following proposition:
+The chancellor erred in overruling the demurrer and in not holding that said Act of 1937, Chapter 69, was unconstitutional.
+Emil Thoni, the defendant, aged 27 years, operated a station for the sale of gasoline and oil on North First Street, just outside of the city limits of Nashville, under the name of Thoni Oil Company.
+He purchased two grades of gasoline — 68 octane and 72 octane. He says he mixed these two to form a third grade. He sold the 68 octane for 16.5c a gallon or 7 gallons for $1.15, the middle grade for 17.9c or 7 gallons for $1.25 and the 72 octane for 19.9c a gallon.
+The cost to Thoni of the 68 octane was about 15.4c and of the 72 octane 16c. He calculated that his cost of distribution was 7%. He contends that he sold the gas at more than cost plus cost of distribution.
+It appears that he sold much gas and made a substantial profit in operating the station.
+' His cost of operation was very low for the following reasons: The land on which the station stands belongs to his father and mother and he paid' $15 a month rent. He lived in a little house behind the station. His father assisted him at the station, and after school hours his two younger brothers worked there at small wages. He employed only one man outside of his family. He bought gasoline in 10 car load lots and thus got a lower price. He carried no insurance of any kind.
+The complainant contends that the cost of distribution by the most efficient retailer is at least 15%. The complainant introduced six witnesses, five of them being the heads of large corporations dealing in gasoline and oil, some of whom were paying part of the expenses of this suit. Their figures on the cost of distribution were — 23%, 23.7%, 20%, 19.94%, 18%%, and 12%.
+It is shown that all these companies deal in gasoline and oil, and several of them also sell tires, batteries, and accessories, and furnish services of several kinds. Each one’s cost of distribution, or overhead expenses, was calculated on the business as a whole. No attempt was made to determine the gasoline’s share of the overhead expenses.
+These corporations each have a number of stations and many employees who are well paid. The president of one company receives a salary of $600 a month.
+1. We cannot consider the defendant’s assignments of errors as to the constitutionality of the Act in question for two reasons: (a) Because this Court has no jurisdiction to pass upon the constitutionality of a statute, (b) The Supreme Court of this State has held said statute constitutional. Rust v. Griggs, 172 Tenn., 565, 113 S. W. (2d), 733, 734. Many cases are reviewed in the case of Wholesale Tobacco Dealers Bureau v. National Candy & Tobacco Co., 11 Cal. (2d), 634, 82 P. (2d), 3, 118 A. L. R., 486, 506.
+2. The complainant has failed to make out a cause of action against the defendant, Thoni, under the ’Act, as — (a) It fails to show the ‘ ‘ cost of distribution by the most efficient retailer, ’ ’ which is necessary in order to determine whether the defendant was selling gasoline at less than cost, (b) It fails to show that the defendant’s j price was fixed with the intent to injure competitors and to lessen competition, (c) It fails to show that the defendant deceived or mis- ffl led any purchaser. ■ • n
+(a) In reviewing the evidence of the six dealers that the cost of distribution was from 23% to 12%, we find that the fact is not established that the dealer whose overhead is 12% is the most efficient retailer.
+Also there is no evidence to show what proportion of the overhead should be allocated to gasoline.
+. In People v. Kahn, 19 Cal. App., Supp., (2d), 758, 60 P. (2d), 596, 600, the California Court, in construing a similar statute, said:
+‘‘ The legislative intent is rather fully expressed, however, that the ‘cost’ of each article shall include not only the initial cost, but also its share of the load of carrying on the business through which it is sold. True, the Legislature has not said ‘its share,’ but these words are necessarily understood from the language used, and would be so understood by anybody in business. Any other interpretation would be to convict the Legislature of the folly of defining the cost of the can of Crisco, involved in this case, as including all the costs of running appellant’s business, which costs likewise would be added into the cost of every other article he sold. Even in the face of the Legisr lature’s injunction to construe this statute ‘literally,’ we must not accept an interpretation so ludicrous and unnatural. 23 Cal. Jur., 766.
+“In support of the validity of the statute, we must presume that the Legislature was not without justification in concluding that it was using terms with a reasonably definite meaning to those affected when it fixed the cost of an article, including its share of the business overhead, as the minmum price at which it could legally be sold. There is nothing in the record to indicate that the ordinary business man does not know, when he has the facts at hand, .whether he is selling an article, or service, below cost, or at a profit. We certainly do not take judicial notice that business is carried on with the terms here involved conveying uncertain concepts.”
+We do not hold that' Thoni was the most efficient retailer, as we do not think the Legislature intended such a frugal retailer to be the yardstick for determining the most efficient retailer.
+(b) Under this Act sales below cost are only prohibited when engaged in with the intent to injure competitors and to lessen competition. Rust v. Griggs, 172 Tenn., 565, 113 S. W. (2d), 733, 734.
+There is no evidence that Thoni, in operating his business, had the intent to injure his competitors. He testified that he had no such intent; that his object was “to make money” (c) The complainant introduced no evidence that defendant was selling gasoline at different prices although of the same quality, and no evidence that he sold gasoline at less than cost for the purpose of inducing people to buy oil. The defendant denied that he did either of these things, and testified that he sold oil at a price lower than that of his competitors.
+It results that the appellant’s first, second, and third assignments of errors are overruled.
+3. We think the Chancellor was in error in holding that the complainant was guilty of violating the Unfair Sales Act, as we have hereinabove held that there was no evidence introduced in this cause to show what is the cost of distribution of gasoline by the most efficient retailer. However, this is immaterial. The complainant’s fourth assignment of error is sustained.
+The material assignments of errors having been overruled, it results that the decree of the Chancellor is affirmed. The costs of the cause including the costs of the appeal are decreed against the complainant and the surety on its appeal bond.
+Faw, P. J., and Felts, J., concur.
+
+## Rehearing (CROWNOYER, J.)
+
+On Petition for a Rehearing.
+CROWNOYER, J.
+This case is again before us on a petition for a rehearing, in which .the defendant Oil Company insists that the Public Acts of 1937, Chapter 69, is unconstitutional.
+We held in our original opinion that our Supreme Court had settled this question and had held that the Act was constitutional in the case of Rust v. Griggs, 172 Tenn., 565, 113 S. W. (2d), 733, which opinion is binding on us. The petition for a rehearing is therefore denied.
+Faw, P. J., and Felts, J., concur.
