@@ -1,7 +1,7 @@
 ---
 court: "Tennessee Court of Appeals"
 decided: "1927-05-21"
-citations: ["4 Tenn. App. 522", "4 Tenn. App. 516"]
+citations: ["4 Tenn. App. 522"]
 reporter: "tenn-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["NEW RIVER LUMBER COMPANY v. GLOBE-WERNICKE CO. et al. (Appeal of Jell
 source_url: "https://static.case.law/tenn-app/4/cases/0522-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 8510704
-cites_cases: ["1 Black., 297", "11 Pick., 250", "12 Wall., 82", "123 Tenn., 432", "15 Pick., 685", "17 L. E., 130", "172 U. S., 239", "174 U. S., 552", "19 Pick., 429", "20 L. Ed., 354", "41 L. Ed., 432", "85 Tenn., 189"]
+cites_cases: ["1 Black., 297", "11 Pick., 250", "12 Wall., 82", "15 Pick., 685", "17 L. E., 130", "172 U. S., 239", "174 U. S., 552", "19 Pick., 429", "20 L. Ed., 354", "41 L. Ed., 432", "85 Tenn., 189"]
 ---
 
 # New River Lumber Co. v. Globe-Wernicke Co.
