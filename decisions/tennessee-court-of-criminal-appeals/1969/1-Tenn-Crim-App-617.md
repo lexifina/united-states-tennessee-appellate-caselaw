@@ -1,0 +1,38 @@
+---
+court: "Tennessee Court of Criminal Appeals"
+decided: "1969-09-10"
+citations: ["1 Tenn. Crim. App. 617"]
+reporter: "tenn-crim-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["WALKER, P. J., and MITCHELL, J., concur."]
+parties: ["DAVID LEE SCHOONOVER, Plaintiff in Error, v. STATE OF TENNESSEE, Defendant in Error."]
+source_url: "https://static.case.law/tenn-crim-app/1/cases/0617-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4798153
+cites_cases: ["213 Tenn. 323", "218 Tenn. 338", "221 Tenn. 6", "342 F.2d 789", "388 U.S. 218", "388 U.S. 263", "388 U.S. 293"]
+---
+
+# Schoonover v. State
+
+## Majority (HYDER, Judge.)
+
+OPINION
+HYDER, Judge.
+David Lee Schoonover, the plaintiff in error and defendant below, indigent and represented by court-appointed counsel, was convicted of robbery by the use of a deadly weapon and sentenced to fifteen years imprisonment. His case is before this Court on appeal.
+In order to avoid confusion in the future it is noted that this is the second trial and conviction in this case, the first judgment and sentence having been before this Court at the April, 1968 term. That case was reversed and remanded for a new trial, and it is the result of that new trial which is now before us.
+Three assignments of error have been filed with this Court; the first charges that the Court erred by failing to grant the plaintiff in error a new trial because of the failure of the Court Reporter to provide a full and complete transcript of all of the proceedings therein. The brief states that the State retained Court Reporter was not present and did not record the examination and selection of the jury. Counsel says in the brief: “In the case at bar, a motion for transcript was made. In the defendant’s motion for a new trial the question had been raised that the Court had failed to require the official court stenographer to transcribe the proceedings known as the 'voir dire’ of prospective jurors.
+“The record would show, if the record were available, that the Court erred in failing to excuse for cause a juror who admitted being a sheriff’s deputy. The record would also show that the Court time and time again severely limited the attorneys for the defendant in the questioning of perspective (sic) jurors.”
+The first trial of this case was reversed because the indigent defendant was not furnished a transcript of the closing arguments of counsel. In that trial the defendant made a formal motion for the closing arguments to be included in the bill of exceptions and the motion was sustained. The reporter then failed to abide by the instructions of the Court and that part of the record was not included in the bill of exceptions.
+In the instant case the bill of exceptions does not show that the defendant objected in any way to the procedure followed in selecting the jury, nor does it indicate a request that this part of the case be recorded or transcribed. There is no order of the Court that the Court Reporter transcribe this part of the proceeding. Actually, the bill of exceptions begins as follows:
+“BE IT REMEMBERED, the above-styled cause came on to be heard on this the 18th day of October, 1968, in the Criminal Court for Hamilton County, Sixth Judicial Circuit of Tennessee, before the Honorable W. Tillman Grant, Jr., Judge of the Second Division, and a jury duly acceptable to both sides.” (emphasis supplied)
+This Court can only take notice of matters of fact preserved by bill of exceptions, and contained in the record sent to us for review. It is true that it is asserted in the motion for a new trial that defendant was denied his right to an effective appeal because he was not provided a full and complete transcript of the proceedings, including examination of prospective jurors on voir dire; and that the trial court erred in failing to excuse a juror for cause. But the motion for new trial is a mere pleading and is no evidence or proof of the truth of the fact asserted by it. Peek v. State, 213 Tenn. 323, 375 S.W.2d 863; Sneed v. State, 221 Tenn. 6, 423 S.W.2d 857.
+Actually, the bill of exceptions is not silent on the subject complained of in this assignment, since it does appear therein that the jury was acceptable to both sides.
+Defendant makes assertions in his brief concerning what the record would show if the transcript included the selection of the jury. He says “Whether these are substantial allegations of error cannot be ascertained since there is no transcript upon which to direct the Court’s attention. In fact, there is no way to get these errors legally before the Court, because one portion of the ‘proceedings’ against the defendant has not been transcribed.”
+We feel that this assignment of error is without merit. There is a bill of exceptions which was duly authenticated by the trial judge. The bill of exceptions contains seventeen pages after the opening statement quoted herein, before the defendant was called upon to plead to the indictment, and there is nothing in it to show that defendant objected in any way to the jury or the procedure followed in selecting it. Certainly the defendant had ample opportunity to object to the action of the trial judge in seating the jury during the proceedings recorded in these seventeen pages and before and at the time the defendant was called upon to plead to the indictment. While the bill of exceptions does not contain the proceedings of selecting the jury, we do not feel that it is required in a case where the record states that the jury was duly acceptable to both sides.
+The other two assignments of error claim that the defendant’s Constitutional rights were denied him by the failure on the part of the State: to provide him with a transcript of the preliminary hearing; and, to provide him with effective legal counsel at all critical stages of the proceedings against him.
+The preliminary hearing is not a critical stage in a criminal proceeding in Tennessee, and, in fact, assuming no preliminary hearing is held, his Constitutional rights are not violated. State ex rel. Reed v. Heer, 218 Tenn. 338, 403 S.W.2d 310; Dillard v. Bomar, 342 F.2d 789 (6th Cir. 1965). We do not feel that there is any merit to the contention in the second assignment of error that the defendant was denied any Constitutional right by the State in not furnishing him with a transcript of a preliminary hearing, even if one was held.
+The error complained of in the third assignment concerns the alleged failure on the part of the State to provide defendant with counsel at the time he was placed in a line-up, a critical stage of the proceeding against him.
+The defendant was placed in a lineup in November, 1966, on two occasions, and he was identified by two separate persons; one the victim of the robbery, the other a man who testified that it was the defendant who related to him the fact that he had committed the offense. The procedure followed by the police in establishing the line-up appears to have been done with scrupulous fairness and without prejudice to the defendant at the trial; and it was before the effective date of the ruling of the United States Supreme Court which requires counsel at pretrial confrontations for identification. United States v. Wade, 388 U.S. 218, 87 S.Ct. 1926, 18 L.Ed.2d 1149; Gilbert v. California, 388 U.S. 263, 87 S.Ct. 1951, 18 L.Ed.2d 1178; Stovall v. Denno, 388 U.S. 293, 87 S.Ct. 1967, 18 L.Ed.2d 1199.
+All assignments of error are overruled, and the judgment of the trial court is affirmed.
+WALKER, P. J., and MITCHELL, J., concur.
