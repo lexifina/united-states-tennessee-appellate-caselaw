@@ -1,0 +1,38 @@
+---
+court: "Tennessee Court of Appeals"
+decided: "1956-03-31"
+citations: ["40 Tenn. App. 648", "292 S.W.2d 468"]
+reporter: "tenn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hickerson and Shriver, JJ., concur."]
+parties: ["FRED B. HARBER v. CHARLES B. SMITH et al."]
+source_url: "https://static.case.law/tenn-app/40/cases/0648-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8512251
+cites_cases: ["13 Tenn. App. 493", "163 Tenn. 558", "169 Tenn. 67", "186 Tenn. 94", "208 S. W. (2d) 528", "22 Tenn. App. 607", "226 S. W. (2d) 358", "230 S. W. (2d) 205", "33 Tenn. App. 132", "33 Tenn. App. 139", "36 Tenn. App. 159", "37 Tenn. App. 510", "82 S. W. (2d) 867"]
+---
+
+# Harber v. Smith
+
+## Majority (PELTS, P. J.,)
+
+PELTS, P. J.,
+(Middle Section). This is a suit for personal injuries growing out of a collision of a motor truck driven by plaintiff and an automobile owned by defendant C. A. Simmons and driven by C. B. Smith. At the close of all the evidence a verdict was directed for Simmons, and there was a verdict and judgment for plaintiff against Smith for $6,000.
+.The Trial Judge suggested a remittitur of $3,000, plaintiff accepted it under protest, appealed in error, and has assigned two errors: (1) that the Trial Judge erred in directing a verdict for Simmons; and (2) that he erred in suggesting the remittitur.
+(1) The first question debated by learned counsel is whether the court should have submitted the case as to Simmons under the “family purpose doctrine”. The evidence, taken most strongly for plaintiff, as we must do, in considering whether a verdict should have been directed for defendant Simmons, disclosed the following facts.
+Simmons lived in South Pittsburg and worked at Bridgeport, Alabama, which was a distance of some five miles from his home. He owned and kept the automobile, a Chevrolet, for transportation of himself back and forth to his place of work. He could not drive and when his son Donald Simmons, age 24, was living at home, Donald would drive the car for him. While Donald was away in the military service defendant Simmons’ brother, Harry, who lived near by, would drive the car for him.
+Defendant Simmons permitted the car to he used on any other errands or business for the family, such as going to the grocery store, etc. But no member of the family drove the car other than Donald. Except for using the car to drive defendant back and forth to work and using it on business errands of the family, Donald always had to get special permission to use it. While defendant allowed Donald to have a key to the car, he did not allow him general permission to use it and when he wanted it, he had to ask special permission, which was usually given.
+For some time prior to the accident Donald had been away in military service, had been in Korea and Japan. On his return to the United States he got a leave to visit his home, and defendant Charles B. Smith came with him. They arrived at 2 A.M. November 4, 1953, and the accident happened that night about 10 P.M.
+Earlier that evening Donald asked and received his father’s permission to use the car for the purpose of going to “Holder’s Cafe”, sometimes called “Joe’s Grill”, a nearby eating place in South Pittsburg. Donald took Smith in the car with him to this cafe. After a while Donald, taking Smith in the car with him, drove it to Bridgeport, Alabama, where they picked up another young man, Harold Cates.
+Donald then drove the car from Bridgeport to Jasper, Tennessee, where they decided to go to Chattanooga, and Donald, feeling tired, asked Smith to drive the car. It was on their way back from Chattanooga, Smith still driving, that the accident happened. The ear, coming west, and overtaking a tractor trailer, pulled out from behind it and undertook to pass it, and met the truck driven by plaintiff in a head-on collision.
+It is established by decisions in this state that, in order to make out a case under the “family purpose doctrine”, it is necessary that the vehicle be purchased and maintained by the owner as a member of the family group for the pleasure and convenience of the other members of the family with general permission to them to use it for that purpose. Messer v. Reid, 186 Tenn. 94, 208 S. W. (2d) 528; Redding v. Barker, 33 Tenn. App. 132, 140, 230 S. W. (2d) 202; Boles v. Russell, 36 Tenn. App. 159, 164, 252 S. W. (2d) 801.
+In Redding v. Barker, supra, Presiding Judge Ander-sbn,-for the Court, said:
+“The. family purpose doctrine does not apply .where the members of the family must obtain special permission on each occasion of the vehicle’s use by them; nor does it apply where there is no evidence that the vehicle was maintained wholly or partly to ’serve the convenience of the family. Woodfin v. Insel, 13 Tenn. App. 493, 495; Long v. Tomlin, 22 Tenn. App. 607, 125 S. W. (2d) 171; 60 C. J. S., Motor Vehicles, sec. 434, p. 1075. Cf. Scates v. Sandifer, supra [163 Tenn. 558, 44, S. W. (2d) 310] and Adkins v. Nanney, supra [169 Tenn. 67, 82 S. W. (2d) 867].” 33 Tenn. App. 139, 230 S. W. (2d) 205.
+Upon these authorities we are forced to conclude that there was no substantial evidence to make out a case against defendant Simmons under the family purpose doctrine,’ and that the Trial Judge properly directed a verdict in favor of defendant Simmons.
+(2) This brings ns to the assignment of error npon the Trial Judge’s suggestion of the remittitur. Plaintiff was seriously and permanently injured as a result of this accident. His fight leg was paralyzed and one of his vertebrae dislocated. He was taken to Newell’s Hospital in Chattanooga, where he remained'for two days, and was then taken in an ambulance to Vanderbilt Hospital where he-was-treated for more than two weeks.
+By reason of his injuries- he was disabled to work for more than seven and one-half months. He was earning $108 per week and his loss in wages due to his injuries amounted to $3,456. He was paid workmen’s compensation for part of the time amounting to $450, but his loss in wages was more than $3,000. In addition to that, he suffered severe physical and mental pain and still suffers. His weight before the accident was 156 pounds but it had fallen off to 126 pounds at the time of the trial.
+As stated, the verdict and judgment was for $6,000, but was reduced by the remittitur, to $3,000, which was hardly enough to reimburse plaintiff for his actual loss in earnings, leaving him without compensation for pain and suffering he has undergone and for the pain and the disability he is certain to suffer hereafter.
+For these reasons, we think the amount allowed by the jury’s verdict was not excessive for plaintiff’s injuries, and that the verdict should not have been reduced. Such being our opinion, the statute makes it our duty to reverse the action of the Trial Court in suggestion the remittitur and to restore the judgment to the full amount originally awarded by the verdict of the jury. T. C. A. sec. 27-118; Garner v. State ex rel. Askins, 37 Tenn. App. 510, 521-523, 226 S. W. (2d) 358, 364.
+So much of the judgment of the Circuit Court as directed a verdict for defendant Simmons is affirmed, and so much of said judgment as entered the remittitur is reversed and a judgment will be entered in this Court for plaintiff against defendant Charles B. Smith for $6,000, the full amount originally awarded by the verdict of the jury, and one-half the costs of the appeal in error. The other one-half of the cost will be taxed against plaintiff.
+Hickerson and Shriver, JJ., concur.
