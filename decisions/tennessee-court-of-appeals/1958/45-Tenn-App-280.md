@@ -1,0 +1,37 @@
+---
+court: "Tennessee Court of Appeals"
+decided: "1958-12-05"
+citations: ["45 Tenn. App. 280", "322 S.W.2d 435"]
+reporter: "tenn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hickerson and Shriver, JJ., concur."]
+parties: ["ESQUE ROBERTS v. W. E. RAY."]
+source_url: "https://static.case.law/tenn-app/45/cases/0280-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8508917
+cites_cases: ["168 Tenn. 137", "170 S. W. (2d) 360", "179 Tenn. 687", "23 Tenn. App. 608", "25 Tenn. App. 198", "27 Tenn. App. 612", "32 Tenn. App. 508", "36 Tenn. App. 469", "38 Tenn. App. 553", "4 Tenn. App. 202", "76 S. W. (2d) 317"]
+---
+
+# Roberts v. Ray
+
+## Majority (FELTS, J.)
+
+FELTS, J.
+This suit was brought by W. E. Ray against Esque Roberts in the G-eneral Sessions Court to recover for damages to plaintiff’s store building, alleged to have been caused by defendant’s negligence in allowing his automobile to escape, run down a grade in the street, and crash into the building.
+In that Court there was a judgment for plaintiff for $246 and costs. Defendant Roberts appealed to the Circuit Court where the case was tried before the Circuit Judge, without a jury, and he found the issues for plaintiff and rendered judgment for him against defendant for $246.43 and costs.
+Defendant appealed to this Court and insists that there is no evidence that he was guilty of any negligence causing the damages sued for and no evidence to support the judgment; and that the evidence preponderates against the judgment for plaintiff.
+It appears that on the night of June 2, 1957, defendant parked his Buick automobile in front of his apartment in the Preston Taylor Homes on 40th Avenue North, which slopes down grade northward or toward plaintiff’s store, located on 40th Avenue some 200 or 300 feet down the street from the Preston Taylor Homes. Sometime after defendant got out of the car, left it parked there, and went into his apartment, the car, without any apparent cause, broke loose, ran diagonally across and down the street, knocked down a Coco Cola sign, and crashed into the front of plaintiff’s store, causing the damages sued for.
+It does not appear that any witness saw the car- as it started and ran down the hill or that anyone knew why it did this. There was no proof that any person was about or near the car after it was parked by defendant and before it ran down the street and struck the store. While two or three witnesses said they heard the crash, they did not see the car before the crash and did not see any person about it immediately afterwards. Soon after, the police investigated the occurrence and found no evidence of any attempted theft or any intermeddling by any person.
+We think these circumstances are such as to make a case of res ipsa loquitur. “(W)here the thing (causing the harm) is shown to be under the management of defendant or his servants, and the accident is such as in the ordinary course of things does not happen if those who have the management use proper care, it affords reasonable evidence, in the absence of explanation by defendant, that the accident arose from want of care”. Sullivan v. Crabtree, 36 Tenn. App. 469, 473, 258 S. W. (2d) 782, 783-784; McCloud v. City of La Follette, 38 Tenn. App. 553, 559, 276 S. W. (2d) 763, 766, and cases there cited.
+The automobile was admittedly under the management or control of defendant in that he parked it and left it on the street with a downhill grade toward plaintiff’s store, and the accident was suck as in tke ordinary course of tilings does not kappen if ke wko kas tke management uses proper care. Ordinarily, tke circumstance tkat a parked automobile rolls driverless downhill, and causes injury, is, without more, enough to warrant an inference of negligence on tke part of tke one wko parked it. Whitaker v. Bandy, 4 Tenn. App. 202; McCloud v. City of LaFollette, supra.
+Tke maxim res ipsa loquitur means tkat tke facts of tke occurrence evidence negligence; tkat tke circumstances unexplained justify an inference of negligence. Res ipsa liquitur “is not an arbitrary rule (but) rather a common sense appraisal of tke probative value of circumstantial evidence’’. Boykin v. Chase Bottling Works, 32 Tenn. App. 508, 522, 222 S. W. (2d) 889, 896; Sullivan v. Crabtree, supra.
+Tke general rule for all cases of circumstantial evidence — both ordinary cases and res ipsa liquitur cases —is tkat to make out kis case, plaintiff does not have to eliminate all other possible causes or inferences than that of defendant’s negligence; but it is enough if tke evidence for him makes suck negligence more probable than any other cause. Boykin v. Chase Bottling Works, supra; Sullivan v. Crabtree, supra; Prosser on Torts (2nd ed.) 204; Law v. Louisville & N. R. Co., 179 Tenn. 687, 698-699, 170 S. W. (2d) 360, 364.
+Defendant stresses tke fact tkat, according to tke proof, some three or four hours elapsed between tke time he said ke parked kis car and tke time when tke accident happened.. Tke time element is only a circumstance against the inference of negligence in cases where there are other circumstances tending to show that the harm resulted from some other cause than defendant’s negligence.
+As stated above, defendant was unable to explain the cause of the accident, unable to show that it was caused by the intermeddling of any other person or by any other cause than that of defendant’s negligence. There are some discrepancies in his testimony and contradictions between it and testimony of other witnesses, so that it was for the Trial Judge to say how much of defendant’s testimony would be believed.
+Defendant cites a number of cases from other jurisdictions. We think we need not discuss them, since our own cases, above cited, and the facts of this case support the Trial Judge’s findings and conclusions, with which we fully concur.
+While the hearing of this case here is de novo, it being a non-jury case, the Trial Judge’s conclusion is supported by a presumption of correctness unless the evidence preponderates against it (T. O. A. sec. 27-308); and the burden is on defendant-appellant to show that the evidence does preponderate against it. Jackson v. Jackson, 25 Tenn. App. 198, 202, 154 S. W. (2d) 797; Morrell v. Republic Fire Ins. Co. of Pittsburg, 168 Tenn. 137, 140, 76 S. W. (2d) 317, 318.
+The Trial Judge’s findings are entitled to great weight in such a case as this where he saw and heard the witnesses, and observed their manner and demeanor on the stand, and is, therefore, in much better position than we are to judge the weight and value of their testimony. This is particularly so in this case, since we have nothing to look to but the meager narrative of the bill of exceptions. Clardy v. Clardy, 23 Tenn. App. 608, 612, 136 S. W. (2d) 526; Hepburn v. Milwaukee Mechanics Ins. Co., 27 Tenn. App. 612, 616, 183 S. W. (2d) 772.
+Yc think the evidence for plaintiff made a res ipsa loquitur case of circumstantial evidence, calling on defendant for an explanation; that he failed to give any satisfactory explanation; and that the evidence fully supports and preponderates in favor of the Trial Judge’s findings and conclusions.
+All of the assignments of error are overruled and the judgment of the Circuit Court is affirmed. Judgment will be rendered here for plaintiff against defendant for the amount of the judgment below with interest and the costs of the cause.
+Hickerson and Shriver, JJ., concur.
