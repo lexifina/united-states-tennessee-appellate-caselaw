@@ -1,0 +1,28 @@
+---
+court: "Tennessee Court of Criminal Appeals"
+decided: "1968-02-02"
+citations: ["1 Tenn. Crim. App. 55"]
+reporter: "tenn-crim-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF TENNESSEE ex rel. EUGENE UNDERWOOD and MARVIN HOLBROOK, Plaintiffs in Error, v. C. MURRAY HENDERSON, Defendant in Error."]
+source_url: "https://static.case.law/tenn-crim-app/1/cases/0055-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4798263
+cites_cases: ["199 Tenn. 479", "211 Tenn. 243", "287 S.W.2d 71", "321 U.S. 1", "335 F.2d 783", "369 U.S. 541", "372 U.S. 29", "384 F.2d 135", "421 S.W.2d 635", "83 S.Ct. 745"]
+---
+
+# State ex rel. Underwood v. Henderson
+
+## Majority (W. WAYNE OLIVER, Judge.)
+
+OPINION
+W. WAYNE OLIVER, Judge.
+The plaintiffs in error, petitioners below, appeal to this Court from the dismissal of their petitions for the writ of habeas corpus by the Criminal Court of Knox County, after an evidentiary hearing.
+The petitioners’ only Assignment of Error is that in their original trial, wherein they were represented by competent and experienced counsel and entered pleas of guilty to armed robbery and received sentences of ninety-nine years in the penitentiary, no evidence was introduced upon which the jury could fix the punishment. They contend that this was in violation of their constitutional rights under the Sixth and Fourteenth Amendments to the Constitution of the United States, and was in violation of Tennessee Code Annotated § 40-2310. This statute provides that upon a plea of guilty, when the punishment is confinement in the penitentiary, a jury shall be impaneled to hear the evidence and fix the time of confinement, unless otherwise expressly provided by the Code.
+These contentions are foreclosed and untenable. In the first place, the record shows that in the original trial two prosecution witnesses testified before the jury, one of whom was the police officer who investigated and was the prosecutor in the cases, and the other was the young lady companion of the robbery victim; she, incidentally, was raped by one Oscar Gallimore, who was tried along with the two petitioners here and, upon pleas of guilty, was sentenced to ninety-nine years imprisonment for rape and for armed robbery, respectively, and his sentences were ordered to run consecutively. In the second place, any right which the petitioners had under T.C.A. § 40-2310 was waived by their pleas of guilty and their failure to assert such rights at the time of the trial. When the cases came to trial, the petitioners and their counsel were present in court. The record shows that they had agreed to accept sentences of ninety-nine years in the penitentiary, understandingly and with the advice of their counsel. They make no contention in this appeal that their pleas of guilty were coerced or involuntary for any reason.
+In the case of State ex rel. Edward Edmondson v. Henderson, Tenn., 421 S.W.2d 635 (an opinion for publication filed November 27, 1967), in rejecting the same contentions made by the petitioners here, the Court said:
+“Although T.C.A. § 40-2310 provides that upon a plea of guilty, when the punishment is confinement in the penitentiary, a jury shall be impaneled to hear the evidence and fix the punishment, this is not a constitutionally afforded right, and is waived when a defendant, acting on advice of counsel enters a voluntary, knowledgeable plea of guilty, and allows a judgment of conviction to become final. And, moreover, does not exhaust appellate remedies afforded him. So far as we are aware, there is no state or federal holding that in addition to a voluntary, knowledgeable confession of guilt by a plea of guilty, there must also be proof of the guilt introduced before the jury. In Tennessee, the right under consideration is simply a statutory right, and may be waived. State v. Simmons, 199 Tenn. 479, 287 S.W.2d 71, McCord and Anglin v. Henderson, Warden, C.A. 6th Cir., 384 F.2d 135, opinion filed October 25, 1967.”
+In McCord and Anglin v. Henderson, C.A. 6th Cir., 384 F.2d 135 (opinion filed October 25, 1967), the Court said:
+“The evidence given to the jury consisted mainly of a recital of facts made by the Tennessee District Attorney General. Counsel for each petitioner had stipulated to the correctness of such recital. Petitioners complain that only by producing before the jury eye witness or other direct evidence of guilt could the Tennessee procedure be obeyed. In affirming dismissal of the state habeas corpus proceeding, the Supreme Court of Tennessee discussed, without finding fault, the procedure followed in the State Court. We are of the opinion that if there was less than satisfactory compliance with Tennessee law in submitting evidence to the jury, it did not deny petitioners fair treatment or any fundamental constitutional right. Violation of a state statute does not, by itself, constitute deprivation of any right granted by the United States Constitution. Snowden v. Hughes, 321 U.S. 1, 11, 64 S.Ct. 397, 88 L.Ed. 497, 504 (1944); Beck v. Washington, 369 U.S. 541, 544-555, 82 S.Ct. 955, 8 L.Ed.2d 98 (1962); Townsend v. Sain, 372 U.S. 29, 311-312, 83 S.Ct. 745, 9 L.Ed.2d 770 (1963).”
+It should be noted that both Holbrook and Underwood have heretofore filed petitions for the writ of habeas corpus which have been denied. State ex rel. Holbrook v. Bomar, 211 Tenn. 243, 364 S.W.2d 887 (1963); Underwood and Holbrook v. Bomar, 335 F.2d 783 (6 Cir. 1964); Underwood, Gallimore and Holbrook v. Henderson, unpublished opinion, Supreme Court of Tennessee filed August 9, 1967.
