@@ -1,0 +1,40 @@
+---
+court: "Tennessee Court of Appeals"
+decided: "1928-06-22"
+citations: ["8 Tenn. App. 490"]
+reporter: "tenn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Ileiskell and Senter, JJ., concur."]
+parties: ["NINA H. BEVIL v. JOHN M. BEVIL."]
+source_url: "https://static.case.law/tenn-app/8/cases/0490-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8510400
+cites_cases: ["2 Cold., 534", "3 Head, 184", "8 Baxter, 7", "9 Cates, 106"]
+---
+
+# Bevil v. Bevil
+
+## Majority (CWEN, J.)
+
+CWEN, J.
+John M. Bevil, hereinafter called defendant, has appealed from a decree entered against him in the chancery court of Shelby county, wherein he was ordered to pay $25 per month for the maintenance and support of the complainant, his wife, and their infant child. Complainant’s bill was filed for maintenance and support on the 4th day of January, 1928. It appears that complainant and defendant were married in Marion, Arkansas, Friday, August 13, 1926. They kept their marriage a secret until the 10th of November, 1926, when it was publicly announced. The defendant, at that time, left his mother’s home and went to live with his wife at his wife’s mother’s home in Memphis, Tennessee. He remained with his wife until Thanksgiving Day or a period of two weeks. He left his wife on Thanksgiving Day saying that he was going to a football game, and he never returned. At the time of the marriage the defendant was about nineteen years of age, the complainant about sixteen. On March 25, 1927, a girl child was born to complainant and defendant as a result of said marriage. In April, 1927, th.e defendant filed a bill in the Circuit Court for the annullment of the marriage contract between the complainant and defendant, or in the alternative for an absolute divorce. The defendant to that litigation (complainant here), filed a bill for divorce from bed and board. The original bill and cross-bill were both dismissed, there was no appeal by either party. Some months thereafter the present bill was filed. The defense to the present suit is res adjudícala. It is insisted that when complainant’s cross-bill was dismissed on the ground of abandonment, failure to support, that ends defendant’s obligation to support complainant and his child. The learned Chancellor overruled this insistence.
+At the trial the facts show that the only contribution that the defendant had ever made towards complainant, was the two weeks he lived in her mother’s home when he paid $10 a week board for himself and wife. He testified, in the instant case, that he had no intention of supporting his wife and that he had no intention of supporting Ms child. He offered no sufficient reason or excuse for not supporting his wife and child. The proof further shows that the defendant is employed by George T. Brodnax & Company at a salary of $90 per month,
+From the decree of the lower court the defendant appealed and has assigned a number of errors, they however, raise the two propositions as follows:
+First: That the separate maintenance suit of Nina H. Bevil, does not contain any charge or allegation in the bill which under our law would entitled her to a divorce.
+Second: That the verdict of the jury in her divorce suit in the circuit court precludes appellee from maintaining this separate maintenance suit under the doctrine of “res judicata-”
+In disposing of the first proposition we will state:
+This is a suit for separate maintenance — not for divorce.
+' The two are entirely distinct. One seeks dissolution of the marriage ties, the other an affirmance. The one seeks to disaffirm the marriage relation, the other seeks to affirm it. The prayer in a suit for separate maintenance is never a prayer for divorce, either vinculo or mensa et thoro.
+The right to separate maintenance arises out of the marital relation and the obligation created by this relation, of thé husband to support and maintain his wife so long as this relation exists and the wife remains unaffected by misconduct. This remedy is not confined to actions of law against the husband by those furnishing necessities to his wife but can be maintained by the wife in her own name. This is under the broad and comprehensive provisions of Sections 4218 to 4222 of Shannon’s Code. See Nicely v. Nicely, 3 Head, 184, et seq.; Swan v. Harrison, 2 Cold., 534, et seq.; Corley v. Corley, 8 Baxter, 7 to 10; Cureton v. Cureton, 9 Cates, 106, 107.
+“The wife may be decreed separate maintenance where she is living separate and apart from the husband without fault on her part.”
+“The wife may also be awarded an allowance for separate maintenance where she has left the husband and is living separate and apart from him for a cause legally justifying her in doing so.” 30 C. J., 1074.
+“The wife may be decreed separate maintenance where the husband refuses to provide a home for her or to receive her in his home or where she is justified in leaving the home provided by the husband and refusing to live therein on account of its being an improper unreasonable or grossly unfit place in which to live, or on account of its being a home in which she is subject to abuse, ill treatment and unwarranted interference from the husband’s relatives or other members of the household.” 30 C. J., 1074.
+"Such acts, words or conduct on the part of the husband as justify the wife in leaving him and result in her doing so, come within statutes authorizing an allowance for separate maintenance where the wife is living separate and apart from the husband without her fault and they are deemed to constitute a constructive abandonment or desertion by the husband so as to come within the rules and statutes making desertion or abandonment by the husband a ground for separate maintenance.”
+It is not necessary to sustain a bill for maintenance and support, to establish sufficient, to dissolve the bonds of matrimony, or grant an absolute divorce.
+As to appellant’s second proposition, learned counsel relies upon the recent case of Douglas v. Douglas, 4 S. W. Second Series, page 358. In that case the Supreme Court said:
+"When a question is necessarily decided in effect though not in express terms between parties to the suit, they cannot raise the same question as between themselves in any, other suit in any other form. ’’
+"A fact or question which was actually and directly in issue in a former suit, and was there judicially passed upon and determined by a court of competent jurisdiction, is conclusiyely settled by the judgment thereon, so far as concerns the parties to that action and persons in privity with them, and cannot again be litigated in any future action between such parties or privies in the same court or any other court of concurrent jurisdiction upon either the same or a different cause of action.” (Douglas v. Douglas, supra.)
+We are of the opinion that the principle announced in the Douglas case is not applicable to the instant case. It would be if the complainant was seeking a divorce. The only thing that complainant was denied in circuit court was a divorce. The instant ease is founded upon the refusal of the defendant to maintain and support his wife and child. Since the decree was entered in the ■Supreme Court, between these parties, she not only has a different cause of action in the instant cas.e but a subsequent cause of action to the divorce ease.
+It results that there is no error in the decree of the lower court, all the assignments of error are overruled and disallowed. The judgment of the lower court is affirmed, the cause is remanded to the chancery court of Shelby county where it will remain upon the docket for the purpose of any further adjustment of the rights of these parties as the conditions may justify. Execution will issue against the appellant and surety on appeal bond, for the amount due complainant from February 14, 1928, at $25 per month up to the date of entering .a decree in this cause in this court and all the costs of the cause for which execution will issue.
+Ileiskell and Senter, JJ., concur.
