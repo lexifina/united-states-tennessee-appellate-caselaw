@@ -1,0 +1,28 @@
+---
+court: "Tennessee Court of Appeals"
+decided: "1967-02-23"
+citations: ["57 Tenn. App. 633", "423 S.W.2d 279"]
+reporter: "tenn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["McAmis, P. J., and Parrott, J., concur."]
+parties: ["JARVIS W. ASBILL v. JAMES C. FRANKLIN."]
+source_url: "https://static.case.law/tenn-app/57/cases/0633-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8507608
+cites_cases: ["117 Tenn. 13", "31 Tenn.App. 240", "375 U.S. 34", "52 Tenn.App. 619", "94 S.W. 666"]
+---
+
+# Asbill v. Franklin
+
+## Majority (COOPEE, J.)
+
+COOPEE, J.
+The plaintiff Jarvis W. Asbill has appealed from a jury verdict in favor of the defendant James C. Franklin, contending* that the trial court erred “in admitting* evidence of sick benefits” paid plaintiff by his employer and in failing to instruct the jury that the defendant was not to be given credit for the benefits so paid.
+• The accident out of which, the suit arose was a. typical 'urban intersection accident,- with the testimony of the parties being in sharp' conflict insofar as it related to the issues of negligence and causation! There is no insistence, either in argument or in brief, that there is no material evidence to support the jury’s verdict, but plaintiff advances the argument that the admission of the evidence in question was sufficient to turn the tide of battle in this case where the issue of liability was so hotly contested.
+The record shows that the trial judge permitted, over objection, the introduction of testimony showing that plaintiff had elected to take his earned annual leave during the time he was unable to work as the result of the injuries received' in the accident and that, as a consequence, he had not suffered any immediate loss of income.
+This court, in the recent case of Dixie Feed & Seed Company v. Byrd, 52 Tenn.App. 619, 376 S.W.2d 745, held that evidence offered to show “plaintiff’s optional ■ and compulsory retirement ages as a postal employee, his retirement benefits and the payment to him after he was injured of accumulated side leave benefits” was properly excluded. (Emphasis supplied.) In doing* so, it was pointed out that in an action for personal injuries “it is"not the loss of time or. earnings that the wrongdoer must pay for but loss of the ability to earn that constitutes an element of damages.” See Southern Coach Lines, Inc. v. Wilson, 31 Tenn.App. 240, 214 S.W.2d 55. Attention also was called to the case of Railroad Co. v. Porter, 117 Tenn. 13, 94 S.W. 666, wherein the Supreme Court of this state unequivocally held that evidence of gratuitous payment of wages by an employer to an injured employee and of payment to him of insurance benefits were extraneous to the issues in a tort case and were not to be considered by a jury. See also the anno., Damages —Pay by Employer — Effect, in 52 A.L.R.2d, beginning on page 1451, wherein the analogy is drawn between payments to an injured employee and charged against his accumulated sick and annual leave payments and insurance payments, workmen’s compensation benefits or gratuitous payments of one kind or another.
+In-the light of these authorities, we' must agree with plaintiff’s insistence that the trial judge erred, in admitting' evidence showing that plaintiff had elected to take his earned annual leave during the time he was unable to work and had not suffered any loss of income. However, we are of the firm opinion that such error was not prejudicial and did not ■materially1 affect the résult of the trial. T.C.A. sec. 27-117. The evidence in question goes to the issue of damages while the jury found against the plaintiff on the issues of negligence and proximate cause. Then too, the record shows that the trial judge, though admitting the evidence of payment of wages, stated to the jury that defendant was not entitled to credit for such payments and gave plaintiff full opportunity to explain the circumstances under which payment was made. While this action did not “cure” the error. it did soften the blow and greatly diminish any adverse effect.
+The opinion in Tipton v. Socony Mobil Oil Company, 375 U.S. 34, 84 S.Ct. 1, 11 L.Ed.2d 4, cited by plaintiff in support of his insistence that the admission of evidence of payment of annual leave benefits is prejudicial error, is not inconsistent with our holding in the instant case. The principal issue in the Tipton case “was whether, in view of the nature of the work performed at the time of injury, the petitioner was a seaman, hence within the coverage of the Jones Act, or an offshore drilling employee.” The district court, over objection^ admitted evidence that petitioner had accepted compensation benefits under the Longshoremen’s and Harbor Workers’ Compensation Act, which position was repugnant to plaintiff’s insistence of coverage under the Jones Act. The United States Supreme Court, in vacating the judgment entered in the Court of Appeals for the Fifth Circuit and in remanding the case to the district court for a new trial, did so recognizing the evidence of payment of such benefits had a direct effect on the principal issue in the case. Such is not true in the instant case where liability is predicated, not on the terms of employment, but on the actions of the parties in the operation of motor vehicles.
+Having found no prejudicial error in the trial of this cause, the judgment, of the trial court is affirmed. Costs incident to the appeal are adjudged against the plaintiff, Jarvis W. Asbill, and his surety.
+McAmis, P. J., and Parrott, J., concur.
