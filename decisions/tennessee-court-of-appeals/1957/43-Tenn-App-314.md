@@ -1,0 +1,63 @@
+---
+court: "Tennessee Court of Appeals"
+decided: "1957-06-28"
+citations: ["43 Tenn. App. 314", "308 S.W.2d 429"]
+reporter: "tenn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Felts and Hickerson, JJ., concur."]
+parties: ["MARY TURNER CURFMAN v. THE PRUDENTIAL INSURANCE COMPANY OF AMERICA, Etc. et al."]
+source_url: "https://static.case.law/tenn-app/43/cases/0314-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8509026
+cites_cases: ["10 N. E. (2d) 17", "12 F. (2d) 140", "151 Tenn. 299", "157 S. W. 1028", "167 A. 139", "170 Tenn. 159", "174 Mo. App. 110", "2 Tenn. App. 133", "23 App. Div. 53", "269 S. W. 21", "49 A. L. R. 935", "53 R. I. 415", "56 App. D. C. 199", "56 Ohio App. 92", "93 S. W. (2d) 631"]
+---
+
+# Curfman v. Prudential Insurance Co. of America
+
+## Majority (SHRIVER, J.)
+
+I
+SHRIVER, J.
+The complainant, Mary Turner Curf-man, filed her bill against the defendant Insurance Company and Clarence A. Hensley, individually and as administrator, etc. and Roy Hensley, to recover the proceeds of four small industrial Insurance Policies issued on the life of John Hensley, deceased.
+Each of said policies contained a “Facility of payment clause”, but the defendant insurance company elected to file a bill of interpleader and paid the proceeds of said policies amounting to Seve;a Hundred Ninety-Two and 96/100 ($792.96) Dollars, into the hands of the Clerk and Master.
+Complainant asserted in her bill that she had procured the issuance of all four of said policies on the life of her then husband and had paid all the premiums thereon with the assurance by the agent who wrote the policies, and who collected the premiums, that she would be paid the proceeds of said policies upon the death of her husband if he predeceased her.
+The case was heard before Honorable James I. Yance Berry, Special Chancellor, on oral testimony of witnesses and documentary proof, at the conclusion of which trial the Chancellor dismissed complainant’s bill, sustained the bill of interpleader of the defendant Insurance Company and discharged it from further liability on said policies, and decreed that the proceeds of the said four policies, totaling $792.96, be paid to Clarence A. Hensley as administrator of the estate of John Hensley, deceased.
+From this decree the complainant perfected her appeal to this Court and has assigned errors which complain of the action of the Court in awarding the proceeds of the policies to the administrator and in excluding certain testimony which was offered at the trial.
+II
+The Facts
+The complainant was the only witness to testify at the trial of this cause.
+The record shows that John Hensley died intestate in Davidson County, Tennessee, on the 9th of November 1955, leaving as his only heirs at law, his two sons, the defendants Roy Hensley and Clarence A. Hensley both of whom are sui juris.
+Complainant and the said John Hensley, now deceased, were formerly husband and wife, having been lawfully married in Smith County, Tennessee, on November 27, 1919, but were divorced on May 16th 1950 by a decree granted to the complainant, Mary Turner Hensley.
+At the time complainant and John Hensley were married the defendants Roy Hensley and Clarence A. Hensley were nine and four years of age, respectively, they being children of a prior marriage of the said John Hensley.
+Complainant and John Hensley lived together as husband and wife until Oct. 6, 1943 when the said John Hensley was convicted of a felony and was séntenced to a term of from 10 to 20 years in the State Penitentiary where he remained for about eight years.
+Complainant testified that shortly after her marriage she was forced to obtain employment in order to support herself and to partially support John Hensley and his young sons.
+She is now sixty years of age, and was living with her husband at the time each of the policies in question was issued. She applied for all four of the policies, signing the name of the insured to the applications. He touched the pencil to make his mark since he could not read and write.
+She paid all of the premiums on the policies. When asked if any other person ever made a single payment she answered, “Not one cent — Oh—John (the deceased) paid the insurance man about twice, I think, when the insurance man came before I had got home from work — But I had to give him his money back when I got home.”
+At the time she made application for these policies she stated to the representative of the insurance company that she wanted the policies fixed so they would he paid to her if anything happened to John, since that was why she was taking the policies out.
+She further testified that, when her husband was convicted and sentenced to the State Prison in July 1943, she again made inquiry of the agent and collector of the premiums for the Prudential Insurance Company, as to what her rights were. She stated that she asked him several times when he came by to collect the weekly premiums, and further said;
+‘'Every time, be told me I would be the one to be paid on all of them. I was going to quit paying, if I wasn’t going to get the money on them. He always told me I would get it when John died if be died before I did. ”
+When asked to state whether or not, at or about the time she obtained her divorce after John Hensley was released from prison, she again made inquiry of the agent about her rights when she was no longer Hensley’s wife, she answered;
+“He came out to Vanderbilt where I worked at the laundry, and told me, I had paid on them this long that I would be doing wrong now to stop paying, that I would be the one to be paid when John Hensley died, and that the divorce would make no difference. He said it was my money that paid for the insurance and the insurance would be paid to me.”
+She further testified that, at the time of the issuance of these policies, the two sons of John Hensley, defendants herein, had left home and were no longer living there. She worked throughout her entire married life and earned her own money.
+She finally testified that the policies in question were in her possession and control from the time of their issuance until she turned them over to her lawyer to file claims on them after the death of John Hensley.
+Ill
+In Metropolitan Life Ins. Co. v. Chappell, 151 Tenn. 299, 269 S. W. 21, it was held that, under a life insurance
+policy providing for payment to the Executor or Administrator of the insured, and containing a Facility of Payment Clause authorizing payment to any one equitably entitled thereto, parents of the insured, not being her personal representatives, could not maintain an action for payment, as payment under such clause is optional with the insured. In commenting on this case in Cawthon v. Metropolitan Life Ins. Co., 170 Tenn. 159, at page 161, 93 S. W. (2d) 631, at page 632, the Supreme Court, in an opinion by Mr. Justice De Haven, observed as follows;
+“Admitting the above rule, it is the contention of plaintiff in error that the insurer, having the right to elect to make her payee, and having made its election, is bound thereby.”
+This view was adopted by the Court in the Cawthon case.
+The question in the case at bar is whether or not the statements and representations of the insurance agent who wrote the policies, and who collected the premiums, that, if complainant would pay the premiums and would continue the payment thereof, she would be entitled to and would receive the proceeds of the policies upon the death of John Hensley, amounted to an election by the company under the facility of payment clause and, therefore, obligated the company to pay to the complainant the proceeds of the policies upon the death of John Hensley.
+In Cawthon v. Metropolitan Life Ins. Co. supra, the Court, in commenting on such a question referred to two cases supporting the proposition urged by the complainant here. Those two cases so referred to with apparent approval are, “Shea v. United States Industrial Insurance Co., 23 App. Div. 53, 48 N. Y. S. 548, and La Raw v. Prudential Insurance Co. of America, 56 App. D. C. 199, 12 F. (2d) 140, 49 A. L. R. 935.”
+In Shea v. United States Industrial Insurance Co., supra, it was stated that where a policy of insurance, payable to the executors or administrators of the insured, reserves the alternative right to the company to pay the amount thereof, in case of death, to any blood relative of the insured, upon production of the policy, oral representations made on behalf of the company, at the time a policy is taken out by such a relative, who is unable to read, that it will thus pay to him, constitutes a binding election at that time, and deprives the company of any option under the policy.
+In the body of the opinion in said case it was said that:
+at the time when the policies were issued, the agent who then represented the company, stated to the plaintiff that, “as she was a blood relative of the insured, she would be the beneficiary therein, and entitled to [the amount of] the insurance, if she paid the premiums as required. * * * as the company, however, made its absolute agreement with the plaintiff that she should be the beneficiary, we think such agreement had the force of a present election upon the part of the company to exercise the option in this regard in favor of the plaintiff. * * This does not change or vary the terms of the policy; it is an agreement in addition thereto and entirely consistent therewith, which may rest in parol and be enforced according to its terms.”
+In La Raw v. Prudential Insurance Co. of America, supra, it was held that an agreement by an insurer with a relative of an insured who had disappeared, that the proceeds of the policy would be paid to him at the expiration of seven years’ absence of insured if he kept up the premiums, was an election under the facility of payment clause in the policy, which could not be changed after the expiration of the seven-year period.
+In Fuchs v. Fuchs, 2 Tenn. App. 133, it was said that where a father was going to let his insurance policy lapse and his son agreed with him to pay the premiums or assessments thereafter in consideration of receiving the insurance, the son was entitled to recover the insurance which had been paid to his father’s estate.
+In said case (Fuchs v. Fuchs), while it was held that, in order to establish a trust by parol, or to enable the Court to reform a written instrument for mistake, the agreement must be clearly proven, we think that, if applicable in the case at bar, the rule has been complied with. The proof is clear and convincing. The plaintiff testified to the facts without hesitation or equivocation and there is no proof in this record to dispute what she said.
+In Oravetz v. Metropolitan Life Insurance Co., 56 Ohio App. 92, 10 N. E. (2d) 17, it was held that an insurer may, upon the issuance and delivery of a policy, as well as after the death of the insured, elect as to whom the proceeds shall be paid upon the death of the insured.
+In Prudential Ins. Co. of America v. Roberto, 53 R. I. 415, 167 A. 139, it was held that where a policy of Insurance payable to the executors or administrators of the insured, reserves the alternative right to the company to pay the amount thereof, in case of death, to any blood or marital relative of the insured, upon production of the policy, oral representation made on behalf of the company at the time a policy is taken out by such relative, that it will thus pay to him, constitutes a binding election at that time and deprives it of any option under the policy.
+Again in Wallace v. Prudential Ins. Co., 174 Mo. App. 110, 157 S. W. 1028, it was said that a statement by an agent writing industrial insurance that the proceeds of the policy would be paid to whoever produced it, constituted a waiver of the policy provisions, and that it should be the policy of the law to enforce industrial insurance policies, which are taken out chiefly for the purpose of procuring a decent burial, without the necessity of administration.
+Prom all of the above we are of opinion that the complainant has made out her case and that she is, in law and equity, entitled to the proceeds of the policies in question.
+It results that the decree of the Chancellor is reversed and judgment entered here in favor of the complainant for the proceeds of the four policies in question in the amount of Seven Hundred .Ninety-Two and 96/100 ($792.96) Dollars. The costs of the cause are taxed against all defendants.
+Reversed.
+Felts and Hickerson, JJ., concur.
