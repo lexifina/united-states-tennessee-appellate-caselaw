@@ -1,0 +1,33 @@
+---
+court: "Tennessee Court of Appeals"
+decided: "1952-03-20"
+citations: ["35 Tenn. App. 552", "249 S.W.2d 581"]
+reporter: "tenn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hale and Howard, JJ., concur."]
+parties: ["BRANCH v. BRANCH."]
+source_url: "https://static.case.law/tenn-app/35/cases/0552-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8512602
+cites_cases: ["10 S. W. 826", "107 S. W. (2d) 564", "111 A. L. R. 1152", "129 Tex. 413", "222 U. S. 237", "3 L. R. A. 240", "73 S. W. (2d) 490", "97 Mo. 457"]
+---
+
+# Branch v. Branch
+
+## Majority (McAMIS, J.)
+
+McAMIS, J.
+This proceeding is pending on writ of error previously granted by a member of the court who, at the same time, denied certiorari and supersedeas to stay the enforcement of a support allowance for the children of the parties. The case has now been fully argued before the court on the assignment of error that the judgment awarding the allowance is void and of no effect.
+More specifically, it is insisted that the allowance was made after the court had divested itself of all jurisdiction in the ease by a dismissal both of the divorce bill of petitioner Boy Anderson Branch and of the cross bill of Mrs. Branch. We think the insistence is based upon a misconception of the action of the court as reflected by the decree.
+It appears that Boy Anderson Branch filed the original bill against Louise Christine Branch on April 24, 1950, seeking an absolute divorce and custody of three children of the parties. On May 6, 1950, Mrs. Branch filed her answer to the original bill and also a cross bill by which she also sought a decree of absolute divorce and the exclusive custody of the children. The case came on for a hearing May 14,1951, on the pleadings and the testimony of witnesses examined in open court, resulting in a finding that both, the original bill and the cross bill should be dismissed. We quote the language of the decree:
+í c * * * from all of 'which it satisfactorily appears to the Court that the allegations contained in the original bill are not sustained by the proof; that the complainant and cross-defendant is not without fault and the original bill filed by the complainant and cross-defendant is therefore and accordingly dismissed and for nothing held.
+“It further appearing to the Court that the defendant and cross-complainant is not wholly without fault in that she has been guilty of indiscreet conduct, and it is therefore ordered, adjudged and decreed that the defendant’s and cross-complainant’s cross-bill and amended and supplemental cross-bill are therefore and accordingly dismissed and for nothing-held.
+“It is further ordered, adjudged and decreed that the custody of the three minor children of the parties hereto not be disturbed at this time in view of the fact that all three children are attending school and it would be unwise to disturb their education at this time, therefore the custody of said children will remain as is until the expiration of the present school term at which time the Court will further adjudicate with reference to custody of said children.
+“It is understood that the $5.00 per week alimony pendente lite will continue to be paid until further orders of this court.
+“This cause is retained upon the docket of this Court for further disposition with reference to the custody of the minor children of the parties hereto and with further reference to the enforcement of payment of alimony and support heretofore ordered and to be ordered in the future.”
+Clearly, we think the construction urged upon us is too literal and narrow. It is true that, under a literal construction of the language in the first portions of the decree, all pleadings in the case were dismissed “and for nothing held.” But the decree is to be construed as a whole and when so construed it is apparent that it was the intention of the draftsman to dismiss the original bill and the cross hill only insofar as they related to the right of the respective parties to a decree of divorce. A further purpose both of the original bill and of the cross bill was to obtain exclusive custody of the children. Tinder the language of the decree above quoted that question was disposed of by allowing the children to remain in their present custody until the end of the school year, providing for a weekly allowance for their support and retaining the case upon the docket for future action in respect to their custody and “the enforcement of payment of alimony and support heretofore ordered and to he ordered in the future. ’ ’ This action was in line with Code Section 8454 empowering the courts in divorce actions to control the custody of the children of the parties and provide for their support notwithstanding the denial of a decree of divorce or separate maintenance. Giving the trial judge credit for knowing that courts of record act only upon pleadings, we must assume that he construed the decree as finally disposing of the divorce aspects of the case hut reserving the power of the court under the statute to control the custody of the children and provide for their support.
+Judgments are to he construed like other written instruments, Permian Oil Co. v. Smith, 129 Tex. 413, 73 S. W. (2d) 490, 107 S. W. (2d) 564, 111 A. L. R. 1152, the determinative factor being the intention of the court as gathered from all parts of the judgment. Union Pac. R. Co. v. Mason City & Ft. D. R Co., 222 U. S. 237, 32 S. Ct. 86, 56 L. Ed. 180. Such construction should be given to a judgment as will give force and effect to every word of it, if possible, and make its several parts consistent, effective and reasonable. Kansas City, St. J. & C. B. R. Co. v. St. Joseph Terminal R. Co., 97 Mo. 457, 10 S. W. 826, 3 L. R. A. 240. See also 49 C. J. S., Judgments, Section 443, page 874.
+We think the decree left the court with full power to control the future custody of the children and provide for their support, ft appears, moreover, that petitioner placed the same construction upon the decree until he conceived the idea that it was void. On August 15, 1951, he filed a petition against his former wife seeking to have her declared in contempt of court for violation of a subsequent order of the court dated July 23, 1951, awarding him the custody of the children. Having himself invoked the action of the court, he is now in the inconsistent position of denying the power of the court when it is invoked against him.
+We find no error. Costs will be adjudged against petitioner and surety on the bond.
+Hale and Howard, JJ., concur.
